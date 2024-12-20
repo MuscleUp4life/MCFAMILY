@@ -522,3 +522,41 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [21:33:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to 177.5, 63.0, 977.5]
 [21:33:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped Leandreke
 [21:34:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -15.5, 71.0, 1042.5]
+[21:42:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -530.5, 67.0, 1238.5]
+[21:42:36] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [] Village has no Token
+[21:42:36] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [R94] Village ADDED - [R94]   aea32bba-07ab-41fc-ade0-d3deef58345a
+[21:42:36] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [R94] Adding structure TOWNHALL [BlockPos{x=-586, y=74, z=1193}]
+[21:42:36] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [R94] Adding structure HOME6 [BlockPos{x=-586, y=73, z=1207}]
+[21:42:36] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [R94] Adding structure HOME2 [BlockPos{x=-580, y=72, z=1218}]
+[21:42:36] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [R94] Adding structure HOME2 [BlockPos{x=-586, y=75, z=1230}]
+[21:42:36] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [R94] Adding structure HOME2 [BlockPos{x=-579, y=73, z=1222}]
+[21:42:36] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [R94] Adding structure HOME2 [BlockPos{x=-586, y=82, z=1245}]
+[21:42:36] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [R94] Adding structure HOME2 [BlockPos{x=-586, y=79, z=1237}]
+[21:42:36] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [R94] Adding structure HOME2 [BlockPos{x=-562, y=71, z=1218}]
+[21:42:36] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [R94] Adding structure HOME2 [BlockPos{x=-565, y=69, z=1222}]
+[21:42:36] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [R94] Adding structure HOME6 [BlockPos{x=-608, y=69, z=1218}]
+[21:42:36] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [R94] Adding structure HOME2 [BlockPos{x=-611, y=71, z=1222}]
+[21:42:36] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [R94] Adding structure HOME2 [BlockPos{x=-621, y=69, z=1222}]
+[21:42:36] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [R94] Storage Chest [BlockPos{x=-599, y=72, z=1200}]   Added    (1 total)
+[21:42:36] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [R94] Storage Chest [BlockPos{x=-594, y=72, z=1196}]   Added    (2 total)
+[21:42:36] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [R94] Storage Chest [BlockPos{x=-599, y=72, z=1198}]   Added    (3 total)
+[21:42:36] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [R94] Adding structure STORAGE [BlockPos{x=-590, y=72, z=1196}]
+[21:42:45] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [R94] Spawning merchant at BlockPos{x=-587, y=74, z=1193}
+[21:42:47] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [R94] Spawning Nomad at BlockPos{x=-587, y=74, z=1193}
+[21:42:47] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [R94] Spawning Nomad at BlockPos{x=-587, y=74, z=1193}
+[21:42:50] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [R94] EntityTradesman|Tradesman|8941  Attaching to village
+[21:42:51] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [R94] EntityArchitect|Architect|8940  Attaching to village
+[21:43:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke has made the advancement [advancements.buildcraftenergy.sticky_dipping.title]
+[21:43:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -15.5, 71.0, 1042.5]
+[21:43:09] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [R94] Village REMOVED - [R94]   aea32bba-07ab-41fc-ade0-d3deef58345a
+[21:43:09] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [R94] == Village being destroyed ==
+[21:43:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to 208.5, 64.0, 955.5]
+[21:43:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -15.5, 71.0, 1042.5]
+[21:45:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -15.5, 71.0, 1042.5]
+[21:49:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to 267.5, 63.0, 780.5]
+[21:49:41] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[21:49:41] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[21:49:41] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[21:49:41] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[21:49:41] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[21:49:41] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...

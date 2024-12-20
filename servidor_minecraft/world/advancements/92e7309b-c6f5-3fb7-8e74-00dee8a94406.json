@@ -1072,6 +1072,12 @@
     },
     "done": true
   },
+  "buildcraftenergy:sticky_dipping": {
+    "criteria": {
+      "oil": "2024-12-20 21:43:02 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/find_grave_dust": {
     "criteria": {
       "has_grave_dust": "2024-12-20 04:58:09 +0000"
