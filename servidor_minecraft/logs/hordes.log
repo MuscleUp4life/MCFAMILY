@@ -1,0 +1,73 @@
+Trying to load config
+Hordes data does not exist, generating new files.
+Copied file /config_defaults/tables/skeletons.json
+Copied file /config_defaults/tables/mixed_mobs.json
+Copied file /config_defaults/tables/default.json
+Copied file /config_defaults/scripts/default.json
+Copied file /config_defaults/infection_entities.json
+Copied file /config_defaults/infection_cures.json
+Copied file /config_defaults/infection_conversions.json
+Copied file /config_defaults/immunity_items.json
+Copied file /config_defaults/immune_wearables.json
+Copied file /config_defaults/hordes-info.json
+Generated data files.
+Loaded entity minecraft:zombie as class net.minecraft.entity.monster.EntityZombie with weight 35, min day 0 and max day 20
+Loaded entity minecraft:zombie_villager as class net.minecraft.entity.monster.EntityZombieVillager with weight 1, min day 0 and max day 20
+Loaded entity minecraft:zombie_horse as class net.minecraft.entity.passive.EntityZombieHorse with weight 3, min day 20 and max day 0
+Loaded entity minecraft:husk as class net.minecraft.entity.monster.EntityHusk with weight 40, min day 20 and max day 0
+loaded horde table hordes:default
+Loaded entity minecraft:skeleton as class net.minecraft.entity.monster.EntitySkeleton with weight 10, min day 0 and max day 20
+Loaded entity minecraft:skeleton as class net.minecraft.entity.monster.EntitySkeleton with weight 20, min day 0 and max day 30
+Loaded entity minecraft:skeleton_horse as class net.minecraft.entity.passive.EntitySkeletonHorse with weight 5, min day 20 and max day 50
+Loaded entity minecraft:stray as class net.minecraft.entity.monster.EntityStray with weight 10, min day 20 and max day 0
+Loaded entity minecraft:wither_skeleton as class net.minecraft.entity.monster.EntityWitherSkeleton with weight 10, min day 40 and max day 0
+Loaded entity minecraft:skeleton_horse as class net.minecraft.entity.passive.EntitySkeletonHorse with weight 5, min day 40 and max day 0
+loaded horde table hordes:skeletons
+Loaded entity minecraft:zombie as class net.minecraft.entity.monster.EntityZombie with weight 20, min day 0 and max day 20
+Loaded entity minecraft:skeleton as class net.minecraft.entity.monster.EntitySkeleton with weight 10, min day 20 and max day 30
+Loaded entity minecraft:spider as class net.minecraft.entity.monster.EntitySpider with weight 15, min day 20 and max day 30
+Loaded entity minecraft:creeper as class net.minecraft.entity.monster.EntityCreeper with weight 5, min day 30 and max day 30
+Loaded entity minecraft:husk as class net.minecraft.entity.monster.EntityHusk with weight 20, min day 30 and max day 50
+Loaded entity minecraft:stray as class net.minecraft.entity.monster.EntityStray with weight 10, min day 40 and max day 50
+Loaded entity minecraft:cave_spider as class net.minecraft.entity.monster.EntityCaveSpider with weight 10, min day 40 and max day 50
+Loaded entity minecraft:witch as class net.minecraft.entity.monster.EntityWitch with weight 5, min day 40 and max day 50
+Loaded entity minecraft:zombie_horse as class net.minecraft.entity.passive.EntityZombieHorse with weight 3, min day 40 and max day 0
+Loaded entity minecraft:vindication_illager as class net.minecraft.entity.monster.EntityVindicator with weight 5, min day 50 and max day 0
+Loaded entity minecraft:wither_skeleton as class net.minecraft.entity.monster.EntityWitherSkeleton with weight 10, min day 50 and max day 0
+Loaded entity minecraft:cave_spider as class net.minecraft.entity.monster.EntityCaveSpider with weight 15, min day 60 and max day 0
+Loaded entity minecraft:skeleton_horse as class net.minecraft.entity.passive.EntitySkeletonHorse with weight 3, min day 40 and max day 0
+loaded horde table hordes:mixed_mobs
+loaded horde script hordes:default
+Loading infection cures
+Loaded infection cure 1xitem.appleGold@32767
+Loading infection entities
+Loaded infection entity minecraft:zombie as class net.minecraft.entity.monster.EntityZombie
+Loaded infection entity minecraft:zombie_villager as class net.minecraft.entity.monster.EntityZombieVillager
+Loaded infection entity minecraft:husk as class net.minecraft.entity.monster.EntityHusk
+Loaded infection entity minecraft:zombie_horse as class net.minecraft.entity.passive.EntityZombieHorse
+Loaded infection entity hordes:zombie_player as class net.smileycorp.hordes.common.entities.EntityZombiePlayer
+Loading conversion tables
+Loaded conversion class net.minecraft.entity.passive.EntityHorse to class net.minecraft.entity.passive.EntityZombieHorse with chance of 0.65
+Loading immunity item list
+Loaded immunity item 1xitem.appleGold@1 with duration 150
+Loading wearables protection list
+Loaded wearable protection minecraft:leather_boots with modifier 0.95
+Loaded wearable protection minecraft:leather_leggings with modifier 0.95
+Loaded wearable protection minecraft:leather_chestplate with modifier 0.95
+Loaded wearable protection minecraft:leather_helmet with modifier 0.95
+Loaded wearable protection minecraft:chainmail_boots with modifier 0.95
+Loaded wearable protection minecraft:chainmail_leggings with modifier 0.95
+Loaded wearable protection minecraft:chainmail_chestplate with modifier 0.95
+Loaded wearable protection minecraft:chainmail_helmet with modifier 0.95
+Loaded wearable protection minecraft:iron_boots with modifier 0.9
+Loaded wearable protection minecraft:iron_leggings with modifier 0.9
+Loaded wearable protection minecraft:iron_chestplate with modifier 0.9
+Loaded wearable protection minecraft:iron_helmet with modifier 0.9
+Loaded wearable protection minecraft:golden_boots with modifier 0.9
+Loaded wearable protection minecraft:golden_leggings with modifier 0.9
+Loaded wearable protection minecraft:golden_chestplate with modifier 0.9
+Loaded wearable protection minecraft:golden_helmet with modifier 0.9
+Loaded wearable protection minecraft:diamond_boots with modifier 0.86
+Loaded wearable protection minecraft:diamond_leggings with modifier 0.86
+Loaded wearable protection minecraft:diamond_chestplate with modifier 0.86
+Loaded wearable protection minecraft:diamond_helmet with modifier 0.86

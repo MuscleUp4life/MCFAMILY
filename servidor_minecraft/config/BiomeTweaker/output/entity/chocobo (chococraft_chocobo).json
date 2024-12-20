@@ -1,0 +1,6 @@
+
+{
+  "Name": "chocobo",
+  "Registry ID": "chococraft:chocobo",
+  "Class": "net.chococraft.common.entities.EntityChocobo"
+}
