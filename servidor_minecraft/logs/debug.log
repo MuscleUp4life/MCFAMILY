@@ -26358,3 +26358,184 @@ java.net.ConnectException: Connection timed out (Connection timed out)
 [23:00:54] [Server thread/DEBUG] [FML]: The world 150eace0 (world) may have leaked: seen 540 times.
 
 [23:00:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:01:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:01:44] [Server thread/DEBUG] [FML]: The world 2d938997 (world) may have leaked: seen 545 times.
+
+[23:01:44] [Server thread/DEBUG] [FML]: The world 484ebc97 (world) may have leaked: seen 545 times.
+
+[23:01:44] [Server thread/DEBUG] [FML]: The world db7229b (world) may have leaked: seen 545 times.
+
+[23:01:44] [Server thread/DEBUG] [FML]: The world 36883557 (world) may have leaked: seen 545 times.
+
+[23:01:44] [Server thread/DEBUG] [FML]: The world 150eace0 (world) may have leaked: seen 545 times.
+
+[23:02:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:02:34] [Server thread/DEBUG] [FML]: The world 2d938997 (world) may have leaked: seen 550 times.
+
+[23:02:34] [Server thread/DEBUG] [FML]: The world 484ebc97 (world) may have leaked: seen 550 times.
+
+[23:02:34] [Server thread/DEBUG] [FML]: The world db7229b (world) may have leaked: seen 550 times.
+
+[23:02:34] [Server thread/DEBUG] [FML]: The world 36883557 (world) may have leaked: seen 550 times.
+
+[23:02:34] [Server thread/DEBUG] [FML]: The world 150eace0 (world) may have leaked: seen 550 times.
+
+[23:03:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:03:24] [Server thread/DEBUG] [FML]: The world 2d938997 (world) may have leaked: seen 555 times.
+
+[23:03:24] [Server thread/DEBUG] [FML]: The world 484ebc97 (world) may have leaked: seen 555 times.
+
+[23:03:24] [Server thread/DEBUG] [FML]: The world db7229b (world) may have leaked: seen 555 times.
+
+[23:03:24] [Server thread/DEBUG] [FML]: The world 36883557 (world) may have leaked: seen 555 times.
+
+[23:03:24] [Server thread/DEBUG] [FML]: The world 150eace0 (world) may have leaked: seen 555 times.
+
+[23:03:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:04:14] [Server thread/DEBUG] [FML]: The world 2d938997 (world) may have leaked: seen 560 times.
+
+[23:04:14] [Server thread/DEBUG] [FML]: The world 484ebc97 (world) may have leaked: seen 560 times.
+
+[23:04:14] [Server thread/DEBUG] [FML]: The world db7229b (world) may have leaked: seen 560 times.
+
+[23:04:14] [Server thread/DEBUG] [FML]: The world 36883557 (world) may have leaked: seen 560 times.
+
+[23:04:14] [Server thread/DEBUG] [FML]: The world 150eace0 (world) may have leaked: seen 560 times.
+
+[23:04:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:05:04] [Server thread/DEBUG] [FML]: The world 2d938997 (world) may have leaked: seen 565 times.
+
+[23:05:04] [Server thread/DEBUG] [FML]: The world 484ebc97 (world) may have leaked: seen 565 times.
+
+[23:05:04] [Server thread/DEBUG] [FML]: The world db7229b (world) may have leaked: seen 565 times.
+
+[23:05:04] [Server thread/DEBUG] [FML]: The world 36883557 (world) may have leaked: seen 565 times.
+
+[23:05:04] [Server thread/DEBUG] [FML]: The world 150eace0 (world) may have leaked: seen 565 times.
+
+[23:05:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:05:54] [Server thread/DEBUG] [FML]: The world 2d938997 (world) may have leaked: seen 570 times.
+
+[23:05:54] [Server thread/DEBUG] [FML]: The world 484ebc97 (world) may have leaked: seen 570 times.
+
+[23:05:54] [Server thread/DEBUG] [FML]: The world db7229b (world) may have leaked: seen 570 times.
+
+[23:05:54] [Server thread/DEBUG] [FML]: The world 36883557 (world) may have leaked: seen 570 times.
+
+[23:05:54] [Server thread/DEBUG] [FML]: The world 150eace0 (world) may have leaked: seen 570 times.
+
+[23:06:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -385.5, 78.0, 901.5]
+[23:06:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -448.5, 118.0, 972.5]
+[23:06:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:06:44] [Server thread/DEBUG] [FML]: The world 2d938997 (world) may have leaked: seen 575 times.
+
+[23:06:44] [Server thread/DEBUG] [FML]: The world 484ebc97 (world) may have leaked: seen 575 times.
+
+[23:06:44] [Server thread/DEBUG] [FML]: The world db7229b (world) may have leaked: seen 575 times.
+
+[23:06:44] [Server thread/DEBUG] [FML]: The world 36883557 (world) may have leaked: seen 575 times.
+
+[23:06:44] [Server thread/DEBUG] [FML]: The world 150eace0 (world) may have leaked: seen 575 times.
+
+[23:06:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:07:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -556.5, 68.0, 1111.5]
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [] Village has no Token
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Village ADDED - [002]   aea32bba-07ab-41fc-ade0-d3deef58345a
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Adding structure TOWNHALL [BlockPos{x=-586, y=74, z=1193}]
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Adding structure HOME6 [BlockPos{x=-586, y=73, z=1207}]
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Adding structure HOME2 [BlockPos{x=-580, y=72, z=1218}]
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Adding structure HOME2 [BlockPos{x=-586, y=75, z=1230}]
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Adding structure HOME2 [BlockPos{x=-579, y=73, z=1222}]
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Adding structure HOME2 [BlockPos{x=-586, y=79, z=1237}]
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Adding structure HOME2 [BlockPos{x=-562, y=71, z=1218}]
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Adding structure HOME2 [BlockPos{x=-565, y=69, z=1222}]
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Adding structure HOME6 [BlockPos{x=-608, y=69, z=1218}]
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Adding structure HOME2 [BlockPos{x=-611, y=71, z=1222}]
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Adding structure HOME2 [BlockPos{x=-621, y=69, z=1222}]
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Storage Chest [BlockPos{x=-599, y=72, z=1200}]   Added    (1 total)
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Storage Chest [BlockPos{x=-594, y=72, z=1196}]   Added    (2 total)
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Storage Chest [BlockPos{x=-599, y=72, z=1198}]   Added    (3 total)
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Adding structure STORAGE [BlockPos{x=-590, y=72, z=1196}]
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Adding structure HOME2 [BlockPos{x=-586, y=82, z=1245}]
+[23:07:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -451.5, 124.0, 976.5]
+[23:07:09] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Village REMOVED - [002]   aea32bba-07ab-41fc-ade0-d3deef58345a
+[23:07:09] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] == Village being destroyed ==
+[23:07:34] [Server thread/DEBUG] [FML]: The world 2d938997 (world) may have leaked: seen 580 times.
+
+[23:07:34] [Server thread/DEBUG] [FML]: The world 484ebc97 (world) may have leaked: seen 580 times.
+
+[23:07:34] [Server thread/DEBUG] [FML]: The world db7229b (world) may have leaked: seen 580 times.
+
+[23:07:34] [Server thread/DEBUG] [FML]: The world 36883557 (world) may have leaked: seen 580 times.
+
+[23:07:34] [Server thread/DEBUG] [FML]: The world 150eace0 (world) may have leaked: seen 580 times.
+
+[23:07:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:07:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -455.5, 69.0, 1155.5]
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [] Village has no Token
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Village ADDED - [Q8Q]   aea32bba-07ab-41fc-ade0-d3deef58345a
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Adding structure TOWNHALL [BlockPos{x=-586, y=74, z=1193}]
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Adding structure HOME6 [BlockPos{x=-586, y=73, z=1207}]
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Adding structure HOME2 [BlockPos{x=-580, y=72, z=1218}]
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Adding structure HOME2 [BlockPos{x=-586, y=75, z=1230}]
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Adding structure HOME2 [BlockPos{x=-579, y=73, z=1222}]
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Adding structure HOME2 [BlockPos{x=-586, y=82, z=1245}]
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Adding structure HOME2 [BlockPos{x=-586, y=79, z=1237}]
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Adding structure HOME2 [BlockPos{x=-562, y=71, z=1218}]
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Adding structure HOME2 [BlockPos{x=-565, y=69, z=1222}]
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Adding structure HOME6 [BlockPos{x=-608, y=69, z=1218}]
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Adding structure HOME2 [BlockPos{x=-611, y=71, z=1222}]
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Adding structure HOME2 [BlockPos{x=-621, y=69, z=1222}]
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Storage Chest [BlockPos{x=-599, y=72, z=1200}]   Added    (1 total)
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Storage Chest [BlockPos{x=-594, y=72, z=1196}]   Added    (2 total)
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Storage Chest [BlockPos{x=-599, y=72, z=1198}]   Added    (3 total)
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Adding structure STORAGE [BlockPos{x=-590, y=72, z=1196}]
+[23:08:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] EntityTradesman|Tradesman|52216  Attaching to village
+[23:08:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] EntityArchitect|Architect|52215  Attaching to village
+[23:08:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -458.5, 135.0, 978.5]
+[23:08:10] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Village REMOVED - [Q8Q]   aea32bba-07ab-41fc-ade0-d3deef58345a
+[23:08:10] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] == Village being destroyed ==
+[23:08:24] [Server thread/DEBUG] [FML]: The world 2d938997 (world) may have leaked: seen 585 times.
+
+[23:08:24] [Server thread/DEBUG] [FML]: The world 484ebc97 (world) may have leaked: seen 585 times.
+
+[23:08:24] [Server thread/DEBUG] [FML]: The world db7229b (world) may have leaked: seen 585 times.
+
+[23:08:24] [Server thread/DEBUG] [FML]: The world 36883557 (world) may have leaked: seen 585 times.
+
+[23:08:24] [Server thread/DEBUG] [FML]: The world 150eace0 (world) may have leaked: seen 585 times.
+
+[23:08:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:09:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:09:14] [Server thread/DEBUG] [FML]: The world 2d938997 (world) may have leaked: seen 590 times.
+
+[23:09:14] [Server thread/DEBUG] [FML]: The world 484ebc97 (world) may have leaked: seen 590 times.
+
+[23:09:14] [Server thread/DEBUG] [FML]: The world db7229b (world) may have leaked: seen 590 times.
+
+[23:09:14] [Server thread/DEBUG] [FML]: The world 36883557 (world) may have leaked: seen 590 times.
+
+[23:09:14] [Server thread/DEBUG] [FML]: The world 150eace0 (world) may have leaked: seen 590 times.
+
+[23:09:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:10:04] [Server thread/DEBUG] [FML]: The world 2d938997 (world) may have leaked: seen 595 times.
+
+[23:10:04] [Server thread/DEBUG] [FML]: The world 484ebc97 (world) may have leaked: seen 595 times.
+
+[23:10:04] [Server thread/DEBUG] [FML]: The world db7229b (world) may have leaked: seen 595 times.
+
+[23:10:04] [Server thread/DEBUG] [FML]: The world 36883557 (world) may have leaked: seen 595 times.
+
+[23:10:04] [Server thread/DEBUG] [FML]: The world 150eace0 (world) may have leaked: seen 595 times.
+
+[23:10:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:10:54] [Server thread/DEBUG] [FML]: The world 2d938997 (world) may have leaked: seen 600 times.
+
+[23:10:54] [Server thread/DEBUG] [FML]: The world 484ebc97 (world) may have leaked: seen 600 times.
+
+[23:10:54] [Server thread/DEBUG] [FML]: The world db7229b (world) may have leaked: seen 600 times.
+
+[23:10:54] [Server thread/DEBUG] [FML]: The world 36883557 (world) may have leaked: seen 600 times.
+
+[23:10:54] [Server thread/DEBUG] [FML]: The world 150eace0 (world) may have leaked: seen 600 times.
+

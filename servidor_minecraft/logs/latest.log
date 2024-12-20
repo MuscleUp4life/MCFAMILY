@@ -643,3 +643,51 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22:39:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -15.5, 71.0, 1042.5]
 [22:40:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Object successfully summoned]
 [23:00:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -323.5, 124.0, 838.5]
+[23:06:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -385.5, 78.0, 901.5]
+[23:06:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -448.5, 118.0, 972.5]
+[23:07:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -556.5, 68.0, 1111.5]
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [] Village has no Token
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Village ADDED - [002]   aea32bba-07ab-41fc-ade0-d3deef58345a
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Adding structure TOWNHALL [BlockPos{x=-586, y=74, z=1193}]
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Adding structure HOME6 [BlockPos{x=-586, y=73, z=1207}]
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Adding structure HOME2 [BlockPos{x=-580, y=72, z=1218}]
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Adding structure HOME2 [BlockPos{x=-586, y=75, z=1230}]
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Adding structure HOME2 [BlockPos{x=-579, y=73, z=1222}]
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Adding structure HOME2 [BlockPos{x=-586, y=79, z=1237}]
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Adding structure HOME2 [BlockPos{x=-562, y=71, z=1218}]
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Adding structure HOME2 [BlockPos{x=-565, y=69, z=1222}]
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Adding structure HOME6 [BlockPos{x=-608, y=69, z=1218}]
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Adding structure HOME2 [BlockPos{x=-611, y=71, z=1222}]
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Adding structure HOME2 [BlockPos{x=-621, y=69, z=1222}]
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Storage Chest [BlockPos{x=-599, y=72, z=1200}]   Added    (1 total)
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Storage Chest [BlockPos{x=-594, y=72, z=1196}]   Added    (2 total)
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Storage Chest [BlockPos{x=-599, y=72, z=1198}]   Added    (3 total)
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Adding structure STORAGE [BlockPos{x=-590, y=72, z=1196}]
+[23:07:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Adding structure HOME2 [BlockPos{x=-586, y=82, z=1245}]
+[23:07:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -451.5, 124.0, 976.5]
+[23:07:09] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] Village REMOVED - [002]   aea32bba-07ab-41fc-ade0-d3deef58345a
+[23:07:09] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [002] == Village being destroyed ==
+[23:07:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -455.5, 69.0, 1155.5]
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [] Village has no Token
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Village ADDED - [Q8Q]   aea32bba-07ab-41fc-ade0-d3deef58345a
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Adding structure TOWNHALL [BlockPos{x=-586, y=74, z=1193}]
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Adding structure HOME6 [BlockPos{x=-586, y=73, z=1207}]
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Adding structure HOME2 [BlockPos{x=-580, y=72, z=1218}]
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Adding structure HOME2 [BlockPos{x=-586, y=75, z=1230}]
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Adding structure HOME2 [BlockPos{x=-579, y=73, z=1222}]
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Adding structure HOME2 [BlockPos{x=-586, y=82, z=1245}]
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Adding structure HOME2 [BlockPos{x=-586, y=79, z=1237}]
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Adding structure HOME2 [BlockPos{x=-562, y=71, z=1218}]
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Adding structure HOME2 [BlockPos{x=-565, y=69, z=1222}]
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Adding structure HOME6 [BlockPos{x=-608, y=69, z=1218}]
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Adding structure HOME2 [BlockPos{x=-611, y=71, z=1222}]
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Adding structure HOME2 [BlockPos{x=-621, y=69, z=1222}]
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Storage Chest [BlockPos{x=-599, y=72, z=1200}]   Added    (1 total)
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Storage Chest [BlockPos{x=-594, y=72, z=1196}]   Added    (2 total)
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Storage Chest [BlockPos{x=-599, y=72, z=1198}]   Added    (3 total)
+[23:07:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Adding structure STORAGE [BlockPos{x=-590, y=72, z=1196}]
+[23:08:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] EntityTradesman|Tradesman|52216  Attaching to village
+[23:08:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] EntityArchitect|Architect|52215  Attaching to village
+[23:08:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -458.5, 135.0, 978.5]
+[23:08:10] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Village REMOVED - [Q8Q]   aea32bba-07ab-41fc-ade0-d3deef58345a
+[23:08:10] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] == Village being destroyed ==
