@@ -707,3 +707,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23:43:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Changing to clear weather]
 [23:48:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -458.5, 120.0, 975.5]
 [23:50:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Changing to clear weather]
+[23:53:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leandreke lost connection: Disconnected
+[23:53:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke left the game
+[23:53:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[23:53:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[23:53:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[23:53:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[23:53:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[23:53:48] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 0
+[23:53:48] [Server thread/INFO] [FML]: Unloading dimension 0
+[23:53:48] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
