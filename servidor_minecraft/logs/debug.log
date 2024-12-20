@@ -24758,3 +24758,172 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 
 [03:27:05] [Server thread/DEBUG] [FML]: The world 5c50db4a (world) may have leaked: seen 235 times.
 
+[03:27:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:27:55] [Server thread/DEBUG] [FML]: The world 3c9c31bb (world) may have leaked: seen 240 times.
+
+[03:27:55] [Server thread/DEBUG] [FML]: The world 1fbc4404 (world) may have leaked: seen 240 times.
+
+[03:27:55] [Server thread/DEBUG] [FML]: The world 34398939 (world) may have leaked: seen 240 times.
+
+[03:27:55] [Server thread/DEBUG] [FML]: The world 4f4db72 (world) may have leaked: seen 240 times.
+
+[03:27:55] [Server thread/DEBUG] [FML]: The world 5c50db4a (world) may have leaked: seen 240 times.
+
+[03:28:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:28:45] [Server thread/DEBUG] [FML]: The world 3c9c31bb (world) may have leaked: seen 245 times.
+
+[03:28:45] [Server thread/DEBUG] [FML]: The world 1fbc4404 (world) may have leaked: seen 245 times.
+
+[03:28:45] [Server thread/DEBUG] [FML]: The world 34398939 (world) may have leaked: seen 245 times.
+
+[03:28:45] [Server thread/DEBUG] [FML]: The world 4f4db72 (world) may have leaked: seen 245 times.
+
+[03:28:45] [Server thread/DEBUG] [FML]: The world 5c50db4a (world) may have leaked: seen 245 times.
+
+[03:29:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:29:35] [Server thread/DEBUG] [FML]: The world 3c9c31bb (world) may have leaked: seen 250 times.
+
+[03:29:35] [Server thread/DEBUG] [FML]: The world 1fbc4404 (world) may have leaked: seen 250 times.
+
+[03:29:35] [Server thread/DEBUG] [FML]: The world 34398939 (world) may have leaked: seen 250 times.
+
+[03:29:35] [Server thread/DEBUG] [FML]: The world 4f4db72 (world) may have leaked: seen 250 times.
+
+[03:29:35] [Server thread/DEBUG] [FML]: The world 5c50db4a (world) may have leaked: seen 250 times.
+
+[03:29:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:30:25] [Server thread/DEBUG] [FML]: The world 3c9c31bb (world) may have leaked: seen 255 times.
+
+[03:30:25] [Server thread/DEBUG] [FML]: The world 1fbc4404 (world) may have leaked: seen 255 times.
+
+[03:30:25] [Server thread/DEBUG] [FML]: The world 34398939 (world) may have leaked: seen 255 times.
+
+[03:30:25] [Server thread/DEBUG] [FML]: The world 4f4db72 (world) may have leaked: seen 255 times.
+
+[03:30:25] [Server thread/DEBUG] [FML]: The world 5c50db4a (world) may have leaked: seen 255 times.
+
+[03:30:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:31:08] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[03:31:08] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[03:31:08] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[03:31:08] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [9, -29] in dimension 0 (overworld) while populating chunk [8, -29], causing cascading worldgen lag.
+[03:31:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:31:15] [Server thread/DEBUG] [FML]: The world 3c9c31bb (world) may have leaked: seen 260 times.
+
+[03:31:15] [Server thread/DEBUG] [FML]: The world 1fbc4404 (world) may have leaked: seen 260 times.
+
+[03:31:15] [Server thread/DEBUG] [FML]: The world 34398939 (world) may have leaked: seen 260 times.
+
+[03:31:15] [Server thread/DEBUG] [FML]: The world 4f4db72 (world) may have leaked: seen 260 times.
+
+[03:31:15] [Server thread/DEBUG] [FML]: The world 5c50db4a (world) may have leaked: seen 260 times.
+
+[03:31:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:31:26] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[03:31:26] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[03:31:26] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[03:31:26] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
+[03:31:26] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest5 found
+[03:31:35] [Server thread/DEBUG] [RTG]: [SaplingGrowTreeEvent] Aborting: RTG trees are disabled, or not an RTG dimension
+[03:31:35] [Server thread/DEBUG] [RTG]: [SaplingGrowTreeEvent] Aborting: RTG trees are disabled, or not an RTG dimension
+[03:31:35] [Server thread/DEBUG] [RTG]: [SaplingGrowTreeEvent] Aborting: RTG trees are disabled, or not an RTG dimension
+[03:32:05] [Server thread/DEBUG] [FML]: The world 3c9c31bb (world) may have leaked: seen 265 times.
+
+[03:32:05] [Server thread/DEBUG] [FML]: The world 1fbc4404 (world) may have leaked: seen 265 times.
+
+[03:32:05] [Server thread/DEBUG] [FML]: The world 34398939 (world) may have leaked: seen 265 times.
+
+[03:32:05] [Server thread/DEBUG] [FML]: The world 4f4db72 (world) may have leaked: seen 265 times.
+
+[03:32:05] [Server thread/DEBUG] [FML]: The world 5c50db4a (world) may have leaked: seen 265 times.
+
+[03:32:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:32:11] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [4, -32] in dimension 0 (overworld) while populating chunk [3, -32], causing cascading worldgen lag.
+[03:32:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:32:20] [Server thread/DEBUG] [RTG]: [SaplingGrowTreeEvent] Aborting: RTG trees are disabled, or not an RTG dimension
+[03:32:20] [Server thread/DEBUG] [RTG]: [SaplingGrowTreeEvent] Aborting: RTG trees are disabled, or not an RTG dimension
+[03:32:20] [Server thread/DEBUG] [RTG]: [SaplingGrowTreeEvent] Aborting: RTG trees are disabled, or not an RTG dimension
+[03:32:55] [Server thread/DEBUG] [FML]: The world 3c9c31bb (world) may have leaked: seen 270 times.
+
+[03:32:55] [Server thread/DEBUG] [FML]: The world 1fbc4404 (world) may have leaked: seen 270 times.
+
+[03:32:55] [Server thread/DEBUG] [FML]: The world 34398939 (world) may have leaked: seen 270 times.
+
+[03:32:55] [Server thread/DEBUG] [FML]: The world 4f4db72 (world) may have leaked: seen 270 times.
+
+[03:32:55] [Server thread/DEBUG] [FML]: The world 5c50db4a (world) may have leaked: seen 270 times.
+
+[03:32:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:33:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:33:44] [Server thread/DEBUG] [RTG]: [SaplingGrowTreeEvent] Aborting: RTG trees are disabled, or not an RTG dimension
+[03:33:44] [Server thread/DEBUG] [RTG]: [SaplingGrowTreeEvent] Aborting: RTG trees are disabled, or not an RTG dimension
+[03:33:44] [Server thread/DEBUG] [RTG]: [SaplingGrowTreeEvent] Aborting: RTG trees are disabled, or not an RTG dimension
+[03:33:44] [Server thread/DEBUG] [RTG]: [SaplingGrowTreeEvent] Aborting: RTG trees are disabled, or not an RTG dimension
+[03:33:44] [Server thread/DEBUG] [RTG]: [SaplingGrowTreeEvent] Aborting: RTG trees are disabled, or not an RTG dimension
+[03:33:44] [Server thread/DEBUG] [RTG]: [SaplingGrowTreeEvent] Aborting: RTG trees are disabled, or not an RTG dimension
+[03:33:44] [Server thread/DEBUG] [RTG]: [SaplingGrowTreeEvent] Aborting: RTG trees are disabled, or not an RTG dimension
+[03:33:45] [Server thread/DEBUG] [FML]: The world 3c9c31bb (world) may have leaked: seen 275 times.
+
+[03:33:45] [Server thread/DEBUG] [FML]: The world 1fbc4404 (world) may have leaked: seen 275 times.
+
+[03:33:45] [Server thread/DEBUG] [FML]: The world 34398939 (world) may have leaked: seen 275 times.
+
+[03:33:45] [Server thread/DEBUG] [FML]: The world 4f4db72 (world) may have leaked: seen 275 times.
+
+[03:33:45] [Server thread/DEBUG] [FML]: The world 5c50db4a (world) may have leaked: seen 275 times.
+
+[03:33:56] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [14, -29] in dimension 0 (overworld) while populating chunk [13, -29], causing cascading worldgen lag.
+[03:33:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:33:56] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[03:33:56] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[03:33:56] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[03:34:07] [Server thread/DEBUG] [RTG]: [SaplingGrowTreeEvent] Aborting: RTG trees are disabled, or not an RTG dimension
+[03:34:07] [Server thread/DEBUG] [RTG]: [SaplingGrowTreeEvent] Aborting: RTG trees are disabled, or not an RTG dimension
+[03:34:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:34:35] [Server thread/DEBUG] [FML]: The world 3c9c31bb (world) may have leaked: seen 280 times.
+
+[03:34:35] [Server thread/DEBUG] [FML]: The world 1fbc4404 (world) may have leaked: seen 280 times.
+
+[03:34:35] [Server thread/DEBUG] [FML]: The world 34398939 (world) may have leaked: seen 280 times.
+
+[03:34:35] [Server thread/DEBUG] [FML]: The world 4f4db72 (world) may have leaked: seen 280 times.
+
+[03:34:35] [Server thread/DEBUG] [FML]: The world 5c50db4a (world) may have leaked: seen 280 times.
+
+[03:35:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke was slain by Zombie
+[03:35:06] [Server thread/INFO] [tombstone]: Leandreke has successfully been saved
+[03:35:08] [Server thread/DEBUG] [twilightforest]: Player Leandreke respawned and received items held in storage
+[03:35:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:35:25] [Server thread/DEBUG] [FML]: The world 3c9c31bb (world) may have leaked: seen 285 times.
+
+[03:35:25] [Server thread/DEBUG] [FML]: The world 1fbc4404 (world) may have leaked: seen 285 times.
+
+[03:35:25] [Server thread/DEBUG] [FML]: The world 34398939 (world) may have leaked: seen 285 times.
+
+[03:35:25] [Server thread/DEBUG] [FML]: The world 4f4db72 (world) may have leaked: seen 285 times.
+
+[03:35:25] [Server thread/DEBUG] [FML]: The world 5c50db4a (world) may have leaked: seen 285 times.
+
+[03:35:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:36:15] [Server thread/DEBUG] [FML]: The world 3c9c31bb (world) may have leaked: seen 290 times.
+
+[03:36:15] [Server thread/DEBUG] [FML]: The world 1fbc4404 (world) may have leaked: seen 290 times.
+
+[03:36:15] [Server thread/DEBUG] [FML]: The world 34398939 (world) may have leaked: seen 290 times.
+
+[03:36:15] [Server thread/DEBUG] [FML]: The world 4f4db72 (world) may have leaked: seen 290 times.
+
+[03:36:15] [Server thread/DEBUG] [FML]: The world 5c50db4a (world) may have leaked: seen 290 times.
+
+[03:36:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:37:05] [Server thread/DEBUG] [FML]: The world 3c9c31bb (world) may have leaked: seen 295 times.
+
+[03:37:05] [Server thread/DEBUG] [FML]: The world 1fbc4404 (world) may have leaked: seen 295 times.
+
+[03:37:05] [Server thread/DEBUG] [FML]: The world 34398939 (world) may have leaked: seen 295 times.
+
+[03:37:05] [Server thread/DEBUG] [FML]: The world 4f4db72 (world) may have leaked: seen 295 times.
+
+[03:37:05] [Server thread/DEBUG] [FML]: The world 5c50db4a (world) may have leaked: seen 295 times.
+
+[03:37:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
