@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "chicken": "2024-12-20 03:38:05 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-12-20 02:10:59 +0000"
@@ -399,7 +405,8 @@
     "criteria": {
       "plains": "2024-12-20 02:55:47 +0000",
       "redwood_taiga": "2024-12-20 03:34:16 +0000",
-      "extreme_hills": "2024-12-20 02:09:41 +0000"
+      "extreme_hills": "2024-12-20 02:09:41 +0000",
+      "roofed_forest": "2024-12-20 03:45:00 +0000"
     },
     "done": false
   },
