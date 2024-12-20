@@ -1,0 +1,6 @@
+
+{
+  "Name": "Nomad",
+  "Registry ID": "tektopia:nomad",
+  "Class": "net.tangotek.tektopia.entities.EntityNomad"
+}

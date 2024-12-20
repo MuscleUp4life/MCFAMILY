@@ -1,0 +1,6 @@
+
+{
+  "Name": "Druid",
+  "Registry ID": "tektopia:druid",
+  "Class": "net.tangotek.tektopia.entities.EntityDruid"
+}

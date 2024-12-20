@@ -1,0 +1,6 @@
+
+{
+  "Name": "Miner",
+  "Registry ID": "tektopia:miner",
+  "Class": "net.tangotek.tektopia.entities.EntityMiner"
+}

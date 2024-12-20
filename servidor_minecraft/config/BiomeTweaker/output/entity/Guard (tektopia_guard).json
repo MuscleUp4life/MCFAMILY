@@ -1,0 +1,6 @@
+
+{
+  "Name": "Guard",
+  "Registry ID": "tektopia:guard",
+  "Class": "net.tangotek.tektopia.entities.EntityGuard"
+}

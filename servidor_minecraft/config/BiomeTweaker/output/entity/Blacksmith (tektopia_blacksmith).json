@@ -1,0 +1,6 @@
+
+{
+  "Name": "Blacksmith",
+  "Registry ID": "tektopia:blacksmith",
+  "Class": "net.tangotek.tektopia.entities.EntityBlacksmith"
+}

@@ -1,0 +1,6 @@
+
+{
+  "Name": "Butcher",
+  "Registry ID": "tektopia:butcher",
+  "Class": "net.tangotek.tektopia.entities.EntityButcher"
+}

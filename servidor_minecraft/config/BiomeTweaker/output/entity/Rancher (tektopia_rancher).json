@@ -1,0 +1,6 @@
+
+{
+  "Name": "Rancher",
+  "Registry ID": "tektopia:rancher",
+  "Class": "net.tangotek.tektopia.entities.EntityRancher"
+}

@@ -1,0 +1,6 @@
+
+{
+  "Name": "Cleric",
+  "Registry ID": "tektopia:cleric",
+  "Class": "net.tangotek.tektopia.entities.EntityCleric"
+}

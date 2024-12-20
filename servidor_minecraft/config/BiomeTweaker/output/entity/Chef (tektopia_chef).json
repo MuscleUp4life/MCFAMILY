@@ -1,0 +1,6 @@
+
+{
+  "Name": "Chef",
+  "Registry ID": "tektopia:chef",
+  "Class": "net.tangotek.tektopia.entities.EntityChef"
+}

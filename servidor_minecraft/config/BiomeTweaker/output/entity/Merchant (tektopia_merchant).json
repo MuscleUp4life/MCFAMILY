@@ -1,0 +1,6 @@
+
+{
+  "Name": "Merchant",
+  "Registry ID": "tektopia:merchant",
+  "Class": "net.tangotek.tektopia.entities.EntityMerchant"
+}

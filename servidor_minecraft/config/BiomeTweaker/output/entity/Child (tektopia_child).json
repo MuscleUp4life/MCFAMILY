@@ -1,0 +1,6 @@
+
+{
+  "Name": "Child",
+  "Registry ID": "tektopia:child",
+  "Class": "net.tangotek.tektopia.entities.EntityChild"
+}

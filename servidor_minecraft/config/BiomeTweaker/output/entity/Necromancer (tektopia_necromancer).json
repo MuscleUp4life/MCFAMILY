@@ -1,0 +1,6 @@
+
+{
+  "Name": "Necromancer",
+  "Registry ID": "tektopia:necromancer",
+  "Class": "net.tangotek.tektopia.entities.EntityNecromancer"
+}
