@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-20 14:07:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2024-12-20 13:38:03 +0000"
@@ -59,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-20 14:11:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 14:01:47 +0000"
@@ -80,6 +92,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2024-12-20 13:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_the_recipe": "2024-12-20 14:11:11 +0000"
     },
     "done": true
   },
@@ -155,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-20 14:11:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2024-12-20 13:38:03 +0000"
@@ -194,6 +218,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2024-12-20 04:42:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-20 14:11:22 +0000"
     },
     "done": true
   },
@@ -312,6 +342,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-20 14:07:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 14:01:47 +0000"
@@ -378,9 +414,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-20 14:10:58 +0000"
+    },
+    "done": true
+  },
   "aether_legacy:recipes/combat/iron_gloves": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 14:01:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2024-12-20 14:10:16 +0000"
     },
     "done": true
   },
@@ -402,15 +450,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/noteblock": {
+    "criteria": {
+      "has_redstone": "2024-12-20 14:10:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-20 13:45:30 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-20 14:07:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2024-12-20 14:07:13 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/root": {
     "criteria": {
       "auto": "2024-12-20 04:23:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-20 14:10:58 +0000"
     },
     "done": true
   },
@@ -441,6 +513,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2024-12-20 13:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-20 14:11:22 +0000"
     },
     "done": true
   },
@@ -496,6 +574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-20 14:11:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-20 13:45:30 +0000"
@@ -532,9 +616,21 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-20 14:11:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-20 05:04:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-20 14:10:58 +0000"
     },
     "done": true
   },
@@ -571,6 +667,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2024-12-20 04:42:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-20 14:07:16 +0000"
     },
     "done": true
   },
@@ -634,6 +736,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-20 14:10:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-12-20 13:45:44 +0000"
@@ -643,6 +751,18 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2024-12-20 04:42:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-20 14:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-20 14:11:22 +0000"
     },
     "done": true
   },
@@ -658,6 +778,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-20 14:11:22 +0000"
+    },
+    "done": true
+  },
   "aether_legacy:recipes/tools/iron_pendant": {
     "criteria": {
       "has_iron": "2024-12-20 14:01:47 +0000"
@@ -667,7 +793,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "skeleton": "2024-12-20 13:48:13 +0000",
-      "zombie": "2024-12-20 13:54:10 +0000"
+      "cave_spider": "2024-12-20 14:07:13 +0000",
+      "zombie": "2024-12-20 13:54:10 +0000",
+      "spider": "2024-12-20 14:05:33 +0000"
     },
     "done": false
   },
@@ -689,6 +817,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2024-12-20 14:11:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-20 14:10:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-20 13:38:03 +0000"
@@ -698,6 +838,12 @@
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-20 13:45:30 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/combat/diamond_gloves": {
+    "criteria": {
+      "has_diamond": "2024-12-20 14:11:22 +0000"
     },
     "done": true
   },
@@ -719,6 +865,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-20 14:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-20 14:11:22 +0000"
+    },
+    "done": true
+  },
   "buildcraftcore:root": {
     "criteria": {
       "has_stick": "2024-12-20 13:36:22 +0000"
@@ -734,6 +892,12 @@
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2024-12-20 13:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-20 14:11:22 +0000"
     },
     "done": true
   },

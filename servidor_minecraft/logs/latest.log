@@ -569,3 +569,40 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14:00:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to 8.5, 77.0, 1041.5]
 [14:01:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke has made the advancement [Acquire Hardware]
 [14:01:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke has made the advancement [Isn't It Iron Pick]
+[14:06:06] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [6, 77] in dimension 0 (overworld) while populating chunk [6, 76], causing cascading worldgen lag.
+[14:06:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:06:06] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[14:06:06] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[14:06:06] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[14:06:06] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
+[14:06:06] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest5 found
+[14:06:06] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [7, 77] in dimension 0 (overworld) while populating chunk [6, 76], causing cascading worldgen lag.
+[14:06:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:07:35] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[14:07:35] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[14:07:35] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[14:07:35] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
+[14:07:35] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [9, 77] in dimension 0 (overworld) while populating chunk [8, 77], causing cascading worldgen lag.
+[14:07:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:08:10] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [3, 81] in dimension 0 (overworld) while populating chunk [3, 80], causing cascading worldgen lag.
+[14:08:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:08:10] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [4, 81] in dimension 0 (overworld) while populating chunk [3, 80], causing cascading worldgen lag.
+[14:08:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:08:10] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[14:08:10] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[14:08:10] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[14:08:40] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[14:08:40] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[14:08:40] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[14:10:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke has made the advancement [Where Is The Stone Pen?]
+[14:10:33] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [8, 80] in dimension 0 (overworld) while populating chunk [7, 81], causing cascading worldgen lag.
+[14:10:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:10:33] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [8, 81] in dimension 0 (overworld) while populating chunk [7, 81], causing cascading worldgen lag.
+[14:10:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:11:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke has made the advancement [Hot Stuff]
+[14:11:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke has made the advancement [Diamonds!]
+[14:11:51] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [1, 83] in dimension 0 (overworld) while populating chunk [0, 83], causing cascading worldgen lag.
+[14:11:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:11:51] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[14:11:51] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[14:11:51] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
