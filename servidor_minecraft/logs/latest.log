@@ -552,3 +552,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20:43:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [HUX] Village REMOVED - [HUX]   aea32bba-07ab-41fc-ade0-d3deef58345a
 [20:43:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [HUX] == Village being destroyed ==
 [20:43:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -15.5, 71.0, 1042.5]
+[20:45:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to 35.5, 67.0, 948.5]
+[20:49:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke has made the advancement [The Parrots and the Bats]
+[20:59:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke has made the advancement [Ashes 'n Bones]
+[21:03:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -15.5, 71.0, 1042.5]
+[21:04:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leandreke lost connection: Disconnected
+[21:04:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke left the game
+[21:05:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[21:05:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[21:05:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[21:05:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[21:05:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[21:05:04] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 0
+[21:05:04] [Server thread/INFO] [FML]: Unloading dimension 0
+[21:05:04] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[21:05:04] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
