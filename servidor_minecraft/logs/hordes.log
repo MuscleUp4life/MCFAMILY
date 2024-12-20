@@ -1,16 +1,4 @@
 Trying to load config
-Hordes data does not exist, generating new files.
-Copied file /config_defaults/tables/skeletons.json
-Copied file /config_defaults/tables/mixed_mobs.json
-Copied file /config_defaults/tables/default.json
-Copied file /config_defaults/scripts/default.json
-Copied file /config_defaults/infection_entities.json
-Copied file /config_defaults/infection_cures.json
-Copied file /config_defaults/infection_conversions.json
-Copied file /config_defaults/immunity_items.json
-Copied file /config_defaults/immune_wearables.json
-Copied file /config_defaults/hordes-info.json
-Generated data files.
 Loaded entity minecraft:zombie as class net.minecraft.entity.monster.EntityZombie with weight 35, min day 0 and max day 20
 Loaded entity minecraft:zombie_villager as class net.minecraft.entity.monster.EntityZombieVillager with weight 1, min day 0 and max day 20
 Loaded entity minecraft:zombie_horse as class net.minecraft.entity.passive.EntityZombieHorse with weight 3, min day 20 and max day 0
