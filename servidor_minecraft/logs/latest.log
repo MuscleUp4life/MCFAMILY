@@ -642,3 +642,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22:35:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke has made the advancement [Spooky Scary Skeleton]
 [22:39:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -15.5, 71.0, 1042.5]
 [22:40:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Object successfully summoned]
+[23:00:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -323.5, 124.0, 838.5]
