@@ -638,3 +638,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22:17:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -15.5, 71.0, 1042.5]
 [22:25:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -15.5, 71.0, 1042.5]
 [22:29:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke has made the advancement [Cover Me With Diamonds]
+[22:32:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to 76.5, 17.0, 1245.5]
+[22:35:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke has made the advancement [Spooky Scary Skeleton]
+[22:39:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -15.5, 71.0, 1042.5]
+[22:40:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Object successfully summoned]
