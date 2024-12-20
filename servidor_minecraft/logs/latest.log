@@ -540,3 +540,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13:41:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke was slain by Wild Dog
 [13:41:42] [Server thread/INFO] [tombstone]: The last known grave of Leandreke is at location [name:Last Grave, x:-24, y:67, z:885] in the dimension 0
 [13:41:42] [Server thread/INFO] [tombstone]: Leandreke has successfully been saved
+[13:43:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke was slain by Wild Dog
+[13:43:52] [Server thread/INFO] [tombstone]: The last known grave of Leandreke is at location [name:Last Grave, x:-220, y:66, z:978] in the dimension 0
+[13:43:52] [Server thread/INFO] [tombstone]: Leandreke has successfully been saved
+[13:43:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -191.5, 69.0, 964.5]
+[13:45:03] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[13:45:03] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[13:45:03] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[13:45:03] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[13:45:03] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[13:45:03] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[13:45:03] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
+[13:45:03] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest5 found
+[13:45:03] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest6 found
+[13:45:03] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest7 found
+[13:45:04] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[13:45:04] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[13:45:04] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[13:45:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke has made the advancement [Sweet dreams]
+[13:45:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke has made the advancement [Stone Age]
+[13:46:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke has made the advancement [Getting an Upgrade]
+[13:48:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke has made the advancement [Monster Hunter]
