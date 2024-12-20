@@ -686,3 +686,37 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03:46:06] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
 [03:46:06] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
 [03:46:06] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[03:48:23] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[03:48:23] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[03:48:23] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[03:48:23] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
+[03:48:24] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [27, -18] in dimension 0 (overworld) while populating chunk [26, -18], causing cascading worldgen lag.
+[03:48:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:48:24] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [27, -17] in dimension 0 (overworld) while populating chunk [26, -18], causing cascading worldgen lag.
+[03:48:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:48:24] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [28, -17] in dimension 0 (overworld) while populating chunk [27, -17], causing cascading worldgen lag.
+[03:48:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:48:24] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [26, -16] in dimension 0 (overworld) while populating chunk [27, -17], causing cascading worldgen lag.
+[03:48:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:48:24] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [27, -16] in dimension 0 (overworld) while populating chunk [27, -17], causing cascading worldgen lag.
+[03:48:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:48:24] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [28, -16] in dimension 0 (overworld) while populating chunk [27, -17], causing cascading worldgen lag.
+[03:48:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:48:24] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [26, -17] in dimension 0 (overworld) while populating chunk [26, -18], causing cascading worldgen lag.
+[03:48:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:52:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke fell out of the world
+[03:52:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Killed Leandreke]
+[03:52:45] [Server thread/INFO] [tombstone]: Leandreke has successfully been saved
+[03:53:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to 265.5, 63.0, -394.5]
+[03:53:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leandreke lost connection: Disconnected
+[03:53:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke left the game
+[03:53:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[03:53:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[03:53:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[03:53:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[03:53:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[03:53:27] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 0
+[03:53:27] [Server thread/INFO] [FML]: Unloading dimension 0
+[03:53:27] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[03:53:27] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[03:53:27] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
