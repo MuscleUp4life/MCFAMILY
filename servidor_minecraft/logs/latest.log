@@ -520,3 +520,35 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20:27:29] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcompat] Found status: AHEAD Target: null
 [20:27:29] [Forge Version Check/INFO] [forge.VersionCheck]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
 [20:27:29] [Forge Version Check/INFO] [forge.VersionCheck]: [dynamictrees] Found status: UP_TO_DATE Target: null
+[20:36:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke has reached the goal [Strong or Careful]
+[20:36:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke fell from a high place
+[20:36:13] [Server thread/INFO] [tombstone]: The last known grave of Leandreke is at location [name:Last Grave, x:50, y:16, z:1175] in the dimension 0
+[20:36:13] [Server thread/INFO] [tombstone]: Leandreke has successfully been saved
+[20:36:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to 50.5, 16.0, 1174.5]
+[20:39:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -15.5, 71.0, 1042.5]
+[20:42:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -510.5, 65.0, 1238.5]
+[20:42:43] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [] Village has no Token
+[20:42:43] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [HUX] Village ADDED - [HUX]   aea32bba-07ab-41fc-ade0-d3deef58345a
+[20:42:43] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [HUX] Adding structure TOWNHALL [BlockPos{x=-586, y=74, z=1193}]
+[20:42:43] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [HUX] Adding structure HOME6 [BlockPos{x=-586, y=73, z=1207}]
+[20:42:43] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [HUX] Adding structure HOME2 [BlockPos{x=-580, y=72, z=1218}]
+[20:42:43] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [HUX] Adding structure HOME2 [BlockPos{x=-586, y=75, z=1230}]
+[20:42:43] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [HUX] Adding structure HOME2 [BlockPos{x=-579, y=73, z=1222}]
+[20:42:43] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [HUX] Adding structure HOME2 [BlockPos{x=-562, y=71, z=1218}]
+[20:42:43] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [HUX] Adding structure HOME2 [BlockPos{x=-565, y=69, z=1222}]
+[20:42:43] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [HUX] Adding structure HOME6 [BlockPos{x=-608, y=69, z=1218}]
+[20:42:43] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [HUX] Adding structure HOME2 [BlockPos{x=-611, y=71, z=1222}]
+[20:42:43] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [HUX] Adding structure HOME2 [BlockPos{x=-621, y=69, z=1222}]
+[20:42:43] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [HUX] Adding structure HOME2 [BlockPos{x=-586, y=82, z=1245}]
+[20:42:43] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [HUX] Adding structure HOME2 [BlockPos{x=-586, y=79, z=1237}]
+[20:42:43] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [HUX] Storage Chest [BlockPos{x=-599, y=72, z=1200}]   Added    (1 total)
+[20:42:43] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [HUX] Storage Chest [BlockPos{x=-594, y=72, z=1196}]   Added    (2 total)
+[20:42:43] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [HUX] Storage Chest [BlockPos{x=-599, y=72, z=1198}]   Added    (3 total)
+[20:42:43] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [HUX] Adding structure STORAGE [BlockPos{x=-590, y=72, z=1196}]
+[20:42:46] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [HUX] EntityArchitect|Architect|11312  Attaching to village
+[20:42:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [HUX] EntityTradesman|Tradesman|11313  Attaching to village
+[20:42:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke has made the advancement [A Seedy Place]
+[20:43:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to 47.5, 67.0, 939.5]
+[20:43:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [HUX] Village REMOVED - [HUX]   aea32bba-07ab-41fc-ade0-d3deef58345a
+[20:43:05] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [HUX] == Village being destroyed ==
+[20:43:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -15.5, 71.0, 1042.5]
