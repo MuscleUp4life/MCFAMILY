@@ -782,6 +782,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2024-12-20 14:16:15 +0000",
+      "slime": "2024-12-20 22:06:29 +0000",
       "skeleton": "2024-12-20 13:48:13 +0000",
       "cave_spider": "2024-12-20 14:07:13 +0000",
       "zombie": "2024-12-20 13:54:10 +0000",
@@ -1150,6 +1151,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 22:09:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-20 21:35:35 +0000"
@@ -1315,6 +1322,12 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2024-12-20 20:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2024-12-20 22:06:46 +0000"
     },
     "done": true
   },
@@ -1722,6 +1735,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-20 21:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2024-12-20 22:06:46 +0000"
     },
     "done": true
   }

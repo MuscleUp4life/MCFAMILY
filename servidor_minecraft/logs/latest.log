@@ -569,3 +569,69 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [21:56:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke has made the advancement [Best Friends Forever]
 [21:56:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -15.5, 71.0, 1042.5]
 [21:59:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to 225.5, 63.0, 1114.5]
+[22:01:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -5.5, 74.0, 1044.5]
+[22:03:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -692.5, 64.0, 1420.5]
+[22:04:18] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[22:04:18] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[22:04:18] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[22:04:18] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[22:04:18] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[22:04:18] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[22:04:18] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
+[22:04:18] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [-31, 104] in dimension 0 (overworld) while populating chunk [-31, 103], causing cascading worldgen lag.
+[22:04:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:04:23] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [-42, 106] in dimension 0 (overworld) while populating chunk [-43, 105], causing cascading worldgen lag.
+[22:04:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:04:23] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [-43, 106] in dimension 0 (overworld) while populating chunk [-43, 105], causing cascading worldgen lag.
+[22:04:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:04:23] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[22:04:23] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[22:04:23] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[22:04:26] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [-33, 106] in dimension 0 (overworld) while populating chunk [-35, 106], causing cascading worldgen lag.
+[22:04:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:04:26] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [-34, 106] in dimension 0 (overworld) while populating chunk [-35, 106], causing cascading worldgen lag.
+[22:04:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:04:26] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [-35, 107] in dimension 0 (overworld) while populating chunk [-35, 106], causing cascading worldgen lag.
+[22:04:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:04:26] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [-34, 107] in dimension 0 (overworld) while populating chunk [-35, 106], causing cascading worldgen lag.
+[22:04:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:04:26] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [-44, 107] in dimension 0 (overworld) while populating chunk [-44, 106], causing cascading worldgen lag.
+[22:04:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:04:26] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[22:04:26] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[22:04:26] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[22:04:26] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
+[22:04:26] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest5 found
+[22:04:51] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[22:04:51] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[22:04:51] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[22:04:51] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
+[22:04:51] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest5 found
+[22:06:14] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [-23, 105] in dimension 0 (overworld) while populating chunk [-23, 104], causing cascading worldgen lag.
+[22:06:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:06:14] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [-24, 105] in dimension 0 (overworld) while populating chunk [-23, 104], causing cascading worldgen lag.
+[22:06:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:06:54] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[22:06:54] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[22:06:54] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[22:06:54] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [-22, 107] in dimension 0 (overworld) while populating chunk [-22, 106], causing cascading worldgen lag.
+[22:06:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:07:02] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[22:07:02] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[22:07:02] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[22:07:02] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
+[22:07:05] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[22:07:05] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[22:07:05] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[22:07:05] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
+[22:08:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke was shot by Mutant Skeleton
+[22:08:43] [Server thread/INFO] [tombstone]: The last known grave of Leandreke is at location [name:Last Grave, x:-359, y:64, z:1410] in the dimension 0
+[22:08:43] [Server thread/INFO] [tombstone]: Leandreke has successfully been saved
+[22:08:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -358.5, 65.0, 1413.5]
+[22:09:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke has reached the goal [Chain Death]
+[22:09:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke drowned
+[22:09:33] [Server thread/INFO] [tombstone]: The last known grave of Leandreke is at location [name:Last Grave, x:-402, y:63, z:1444] in the dimension 0
+[22:09:33] [Server thread/INFO] [tombstone]: Leandreke has successfully been saved
+[22:09:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -401.5, 59.0, 1444.5]
+[22:10:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -344.5, 64.0, 1420.5]
+[22:10:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -15.5, 71.0, 1042.5]
