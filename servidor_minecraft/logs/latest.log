@@ -704,3 +704,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23:28:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -15.5, 71.0, 1042.5]
 [23:28:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -458.5, 120.0, 975.5]
 [23:36:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Changing to clear weather]
+[23:43:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Changing to clear weather]
+[23:48:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -458.5, 120.0, 975.5]
+[23:50:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Changing to clear weather]
