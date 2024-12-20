@@ -691,3 +691,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23:08:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -458.5, 135.0, 978.5]
 [23:08:10] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] Village REMOVED - [Q8Q]   aea32bba-07ab-41fc-ade0-d3deef58345a
 [23:08:10] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [Q8Q] == Village being destroyed ==
+[23:11:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: 167 blocks filled]
+[23:12:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: 393 blocks filled]
+[23:12:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: 433 blocks filled]
+[23:13:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: 556 blocks filled]
+[23:13:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -329.5, 128.0, 834.5]
+[23:13:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -460.5, 123.0, 984.5]
+[23:16:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: 184 blocks filled]
+[23:16:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: 481 blocks filled]
+[23:16:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: 1005 blocks filled]
