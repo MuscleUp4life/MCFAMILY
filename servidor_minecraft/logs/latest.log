@@ -700,3 +700,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23:16:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: 184 blocks filled]
 [23:16:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: 481 blocks filled]
 [23:16:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: 1005 blocks filled]
+[23:25:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Changing to clear weather]
+[23:28:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -15.5, 71.0, 1042.5]
+[23:28:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -458.5, 120.0, 975.5]
