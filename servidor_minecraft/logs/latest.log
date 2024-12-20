@@ -658,3 +658,33 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14:41:53] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [HP4] Village REMOVED - [HP4]   aea32bba-07ab-41fc-ade0-d3deef58345a
 [14:41:53] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [HP4] == Village being destroyed ==
 [14:42:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -19.5, 70.0, 1042.5]
+[14:45:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Leandreke moved too quickly! -9.278260046659254,-1.0,3.914505259100224
+[14:45:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to 47.5, 71.0, 1116.5]
+[14:46:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to 205.5, 67.0, 1247.5]
+[14:46:08] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[14:46:08] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[14:46:08] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[14:46:09] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[14:46:09] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[14:46:09] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[14:46:10] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [14, 84] in dimension 0 (overworld) while populating chunk [15, 83], causing cascading worldgen lag.
+[14:46:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:46:10] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[14:46:10] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[14:46:10] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[14:46:10] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
+[14:46:10] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [15, 84] in dimension 0 (overworld) while populating chunk [15, 83], causing cascading worldgen lag.
+[14:46:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:47:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -15.5, 71.0, 1042.5]
+[14:47:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to 231.5, 68.0, 820.5]
+[14:48:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -15.5, 71.0, 1042.5]
+[14:49:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leandreke lost connection: Disconnected
+[14:49:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke left the game
+[14:49:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[14:49:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[14:49:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[14:49:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[14:49:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[14:49:48] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 0
+[14:49:48] [Server thread/INFO] [FML]: Unloading dimension 0
+[14:49:48] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
