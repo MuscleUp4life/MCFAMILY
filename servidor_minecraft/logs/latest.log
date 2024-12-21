@@ -916,3 +916,80 @@ io.netty.handler.timeout.ReadTimeoutException: null
 io.netty.handler.timeout.ReadTimeoutException: null
 [03:24:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leandreke lost connection: Disconnected
 [03:24:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke left the game
+[03:25:31] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[03:25:31] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[03:25:31] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[03:25:31] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[03:25:31] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[03:25:31] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[03:27:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA was slain by Lion
+[03:27:40] [Server thread/INFO] [tombstone]: The last known grave of MACHUCA is at location [name:Last Grave, x:-109, y:68, z:890] in the dimension 0
+[03:27:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA has made the advancement [Your First Grave]
+[03:27:40] [Server thread/INFO] [tombstone]: MACHUCA has successfully been saved
+[03:27:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA has made the advancement [The Most Useful Key]
+[03:28:06] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[03:28:06] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 61 mods : wolfarmor@3.8.1+alpha.1,buildcraftlib@7.99.24.8,mowziesmobs@1.5.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1013,damageindicatorsmod@1.0,buildcrafttransport@7.99.24.8,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,craftstudioapi@1.0.0,bettercaves@1.12.2,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,additionalstructures@2.5.0,hordes@1.5.3a,guideapi@1.12-2.1.8-63,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,biometweaker@3.2.369,malisisdoors@1.12.2-7.3.0,twilightforest@3.11.1021,chococraft@3.1.415.0,buildcraftrobotics@7.99.24.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,varodd@5.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,baubles@1.5.2,buildcraftsilicon@7.99.24.8,geographicraft@1.0,dynamiclights_dropitems@1.1.0,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,cat@0.1,mocreatures@12.0.5,tektopia@1.1.0,ic2@2.8.170-ex112,buildcraftbuilders@7.99.24.8,buildcraftfactory@7.99.24.8,animalium@0.3.8,FML@8.0.99.99,tombstone@4.7.4,rtg@6.1.0.0-snapshot.1,atlaslib@1.1.6,appleskin@1.0.14,buildcraftcompat@7.99.24.8,aether_legacy@1.5.3.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.25,dynamiclights_creepers@1.0.6,dynamictrees@1.12.2-0.9.29,buildcraftcore@7.99.24.8
+[03:28:08] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:28:08] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Leandreke[/100.120.251.47:57916] logged in with entity id 30346 at (-454.5782876351336, 120.0, 991.4645681797894)
+[03:28:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke joined the game
+[03:29:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leandreke lost connection: Disconnected
+[03:29:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke left the game
+[03:29:14] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[03:29:14] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 61 mods : wolfarmor@3.8.1+alpha.1,buildcraftlib@7.99.24.8,mowziesmobs@1.5.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1013,damageindicatorsmod@1.0,buildcrafttransport@7.99.24.8,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,craftstudioapi@1.0.0,bettercaves@1.12.2,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,additionalstructures@2.5.0,hordes@1.5.3a,guideapi@1.12-2.1.8-63,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,biometweaker@3.2.369,malisisdoors@1.12.2-7.3.0,twilightforest@3.11.1021,chococraft@3.1.415.0,buildcraftrobotics@7.99.24.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,varodd@5.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,baubles@1.5.2,buildcraftsilicon@7.99.24.8,geographicraft@1.0,dynamiclights_dropitems@1.1.0,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,cat@0.1,mocreatures@12.0.5,tektopia@1.1.0,ic2@2.8.170-ex112,buildcraftbuilders@7.99.24.8,buildcraftfactory@7.99.24.8,animalium@0.3.8,FML@8.0.99.99,tombstone@4.7.4,rtg@6.1.0.0-snapshot.1,atlaslib@1.1.6,appleskin@1.0.14,buildcraftcompat@7.99.24.8,aether_legacy@1.5.3.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.25,dynamiclights_creepers@1.0.6,dynamictrees@1.12.2-0.9.29,buildcraftcore@7.99.24.8
+[03:29:16] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:29:16] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Leandreke[/100.120.251.47:57953] logged in with entity id 32236 at (-460.37706498692626, 120.0, 971.3865137465348)
+[03:29:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke joined the game
+[03:29:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leandreke lost connection: Timed out
+[03:29:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke left the game
+[03:30:15] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[03:30:15] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 61 mods : wolfarmor@3.8.1+alpha.1,buildcraftlib@7.99.24.8,mowziesmobs@1.5.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1013,damageindicatorsmod@1.0,buildcrafttransport@7.99.24.8,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,craftstudioapi@1.0.0,bettercaves@1.12.2,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,additionalstructures@2.5.0,hordes@1.5.3a,guideapi@1.12-2.1.8-63,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,biometweaker@3.2.369,malisisdoors@1.12.2-7.3.0,twilightforest@3.11.1021,chococraft@3.1.415.0,buildcraftrobotics@7.99.24.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,varodd@5.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,baubles@1.5.2,buildcraftsilicon@7.99.24.8,geographicraft@1.0,dynamiclights_dropitems@1.1.0,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,cat@0.1,mocreatures@12.0.5,tektopia@1.1.0,ic2@2.8.170-ex112,buildcraftbuilders@7.99.24.8,buildcraftfactory@7.99.24.8,animalium@0.3.8,FML@8.0.99.99,tombstone@4.7.4,rtg@6.1.0.0-snapshot.1,atlaslib@1.1.6,appleskin@1.0.14,buildcraftcompat@7.99.24.8,aether_legacy@1.5.3.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.25,dynamiclights_creepers@1.0.6,dynamictrees@1.12.2-0.9.29,buildcraftcore@7.99.24.8
+[03:30:18] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:30:18] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Leandreke[/100.120.251.47:57959] logged in with entity id 32891 at (-460.37706498692626, 120.0, 971.3865137465348)
+[03:30:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke joined the game
+[03:31:11] [Netty Epoll Server IO #7/ERROR] [FML]: NetworkDispatcher exception
+io.netty.handler.timeout.ReadTimeoutException: null
+[03:31:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leandreke lost connection: Disconnected
+[03:31:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke left the game
+[03:31:56] [Netty Epoll Server IO #1/ERROR] [FML]: NetworkDispatcher exception
+io.netty.handler.timeout.ReadTimeoutException: null
+[03:31:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leandreke lost connection: Timed out
+[03:31:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke left the game
+[03:32:06] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[03:32:06] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 61 mods : wolfarmor@3.8.1+alpha.1,buildcraftlib@7.99.24.8,mowziesmobs@1.5.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1013,damageindicatorsmod@1.0,buildcrafttransport@7.99.24.8,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,craftstudioapi@1.0.0,bettercaves@1.12.2,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,additionalstructures@2.5.0,hordes@1.5.3a,guideapi@1.12-2.1.8-63,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,biometweaker@3.2.369,malisisdoors@1.12.2-7.3.0,twilightforest@3.11.1021,chococraft@3.1.415.0,buildcraftrobotics@7.99.24.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,varodd@5.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,baubles@1.5.2,buildcraftsilicon@7.99.24.8,geographicraft@1.0,dynamiclights_dropitems@1.1.0,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,cat@0.1,mocreatures@12.0.5,tektopia@1.1.0,ic2@2.8.170-ex112,buildcraftbuilders@7.99.24.8,buildcraftfactory@7.99.24.8,animalium@0.3.8,FML@8.0.99.99,tombstone@4.7.4,rtg@6.1.0.0-snapshot.1,atlaslib@1.1.6,appleskin@1.0.14,buildcraftcompat@7.99.24.8,aether_legacy@1.5.3.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.25,dynamiclights_creepers@1.0.6,dynamictrees@1.12.2-0.9.29,buildcraftcore@7.99.24.8
+[03:32:08] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:32:08] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Leandreke[/100.120.251.47:57982] logged in with entity id 33731 at (-460.37706498692626, 120.0, 971.3865137465348)
+[03:32:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke joined the game
+[03:33:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -15.5, 71.0, 1042.5]
+[03:33:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA has made the advancement [Sweet dreams]
+[03:33:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Leandreke> zzz
+[03:34:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA has made the advancement [advancements.buildcraftenergy.sticky_dipping.title]
+[03:35:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA has made the advancement [Monster Hunter]
+[03:36:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA has made the advancement [Spooky Scary Skeleton]
+[03:36:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Opped MACHUCA]
+[03:37:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -458.5, 120.0, 975.5]
+[03:39:37] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [] Village has no Token
+[03:39:37] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [K5N] Village ADDED - [K5N]   aea32bba-07ab-41fc-ade0-d3deef58345a
+[03:39:37] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [K5N] Adding structure TOWNHALL [BlockPos{x=-586, y=74, z=1193}]
+[03:39:37] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [K5N] Adding structure HOME6 [BlockPos{x=-586, y=73, z=1207}]
+[03:39:37] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [K5N] Adding structure HOME2 [BlockPos{x=-580, y=72, z=1218}]
+[03:39:37] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [K5N] Adding structure HOME2 [BlockPos{x=-586, y=75, z=1230}]
+[03:39:37] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [K5N] Adding structure HOME2 [BlockPos{x=-579, y=73, z=1222}]
+[03:39:37] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [K5N] Adding structure HOME2 [BlockPos{x=-586, y=82, z=1245}]
+[03:39:37] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [K5N] Adding structure HOME2 [BlockPos{x=-586, y=79, z=1237}]
+[03:39:37] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [K5N] Adding structure HOME2 [BlockPos{x=-562, y=71, z=1218}]
+[03:39:37] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [K5N] Adding structure HOME2 [BlockPos{x=-565, y=69, z=1222}]
+[03:39:37] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [K5N] Adding structure HOME6 [BlockPos{x=-608, y=69, z=1218}]
+[03:39:37] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [K5N] Adding structure HOME2 [BlockPos{x=-611, y=71, z=1222}]
+[03:39:37] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [K5N] Storage Chest [BlockPos{x=-599, y=72, z=1200}]   Added    (1 total)
+[03:39:37] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [K5N] Storage Chest [BlockPos{x=-594, y=72, z=1196}]   Added    (2 total)
+[03:39:37] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [K5N] Storage Chest [BlockPos{x=-599, y=72, z=1198}]   Added    (3 total)
+[03:39:37] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [K5N] Adding structure STORAGE [BlockPos{x=-590, y=72, z=1196}]
+[03:39:38] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [K5N] Adding structure HOME2 [BlockPos{x=-621, y=69, z=1222}]
+[03:39:43] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [K5N] Spawning merchant at BlockPos{x=-587, y=74, z=1193}
+[03:39:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [K5N] Spawning Nomad at BlockPos{x=-587, y=74, z=1193}
+[03:39:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [K5N] Spawning Nomad at BlockPos{x=-587, y=74, z=1193}
+[03:39:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [K5N] EntityTradesman|Tradesman|42193  Attaching to village
+[03:39:50] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [K5N] EntityArchitect|Architect|42192  Attaching to village
+[03:40:02] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [K5N] EntityMerchant|Merchant|42177  Attaching to village
+[03:40:03] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [K5N] EntityMerchant|Merchant|42177  Merchant failed to find a way to the village.
+[03:42:54] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved wrongly!
