@@ -527,3 +527,58 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02:36:38] [Forge Version Check/INFO] [forge.VersionCheck]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
 [02:36:38] [Forge Version Check/INFO] [forge.VersionCheck]: [dynamictrees] Found status: UP_TO_DATE Target: null
 [02:40:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Changing to clear weather]
+[02:48:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Given [Cobblestone] * 64 to Leandreke]
+[02:48:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Given [Cobblestone] * 64 to Leandreke]
+[02:48:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Given [Cobblestone] * 64 to Leandreke]
+[02:49:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Changing to clear weather]
+[02:54:15] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[02:54:15] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 60 mods : wolfarmor@3.8.1+alpha.1,buildcraftlib@7.99.24.8,mowziesmobs@1.5.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1013,damageindicatorsmod@1.0,buildcrafttransport@7.99.24.8,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,bettercaves@1.12.2,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,additionalstructures@2.5.0,hordes@1.5.3a,guideapi@1.12-2.1.8-63,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,biometweaker@3.2.369,malisisdoors@1.12.2-7.3.0,twilightforest@3.11.1021,chococraft@3.1.415.0,buildcraftrobotics@7.99.24.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,varodd@5.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,toolbelt@1.9.14,baubles@1.5.2,buildcraftsilicon@7.99.24.8,geographicraft@1.0,dynamiclights_dropitems@1.1.0,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,cat@0.1,mocreatures@12.0.5,ic2@2.8.170-ex112,buildcraftbuilders@7.99.24.8,buildcraftfactory@7.99.24.8,animalium@0.3.8,FML@8.0.99.99,tombstone@4.7.4,rtg@6.1.0.0-snapshot.1,atlaslib@1.1.6,appleskin@1.0.14,buildcraftcompat@7.99.24.8,aether_legacy@1.5.3.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.25,dynamiclights_creepers@1.0.6,dynamictrees@1.12.2-0.9.29,buildcraftcore@7.99.24.8
+[02:54:15] [Netty Epoll Server IO #6/INFO] [FML]: Attempting connection with missing mods [craftstudioapi, tektopia] at CLIENT
+[02:54:15] [Netty Epoll Server IO #6/INFO] [FML]: Rejecting connection CLIENT: CraftStudio API: Requires version 1.0.0 but mod is not found on client.
+TekTopia: Requires version 1.1.0 but mod is not found on client.
+[02:54:15] [Netty Epoll Server IO #6/ERROR] [FML]: Network Disconnect: Server Mod rejections:
+CraftStudio API: Requires version 1.0.0 but mod is not found on client.
+TekTopia: Requires version 1.1.0 but mod is not found on client.
+[02:54:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA lost connection: Server Mod rejections:
+CraftStudio API: Requires version 1.0.0 but mod is not found on client.
+TekTopia: Requires version 1.1.0 but mod is not found on client.
+[02:54:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA left the game
+[02:54:22] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[02:54:22] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 60 mods : wolfarmor@3.8.1+alpha.1,buildcraftlib@7.99.24.8,mowziesmobs@1.5.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1013,damageindicatorsmod@1.0,buildcrafttransport@7.99.24.8,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,bettercaves@1.12.2,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,additionalstructures@2.5.0,hordes@1.5.3a,guideapi@1.12-2.1.8-63,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,biometweaker@3.2.369,malisisdoors@1.12.2-7.3.0,twilightforest@3.11.1021,chococraft@3.1.415.0,buildcraftrobotics@7.99.24.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,varodd@5.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,toolbelt@1.9.14,baubles@1.5.2,buildcraftsilicon@7.99.24.8,geographicraft@1.0,dynamiclights_dropitems@1.1.0,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,cat@0.1,mocreatures@12.0.5,ic2@2.8.170-ex112,buildcraftbuilders@7.99.24.8,buildcraftfactory@7.99.24.8,animalium@0.3.8,FML@8.0.99.99,tombstone@4.7.4,rtg@6.1.0.0-snapshot.1,atlaslib@1.1.6,appleskin@1.0.14,buildcraftcompat@7.99.24.8,aether_legacy@1.5.3.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.25,dynamiclights_creepers@1.0.6,dynamictrees@1.12.2-0.9.29,buildcraftcore@7.99.24.8
+[02:54:22] [Netty Epoll Server IO #7/INFO] [FML]: Attempting connection with missing mods [craftstudioapi, tektopia] at CLIENT
+[02:54:22] [Netty Epoll Server IO #7/INFO] [FML]: Rejecting connection CLIENT: CraftStudio API: Requires version 1.0.0 but mod is not found on client.
+TekTopia: Requires version 1.1.0 but mod is not found on client.
+[02:54:22] [Netty Epoll Server IO #7/ERROR] [FML]: Network Disconnect: Server Mod rejections:
+CraftStudio API: Requires version 1.0.0 but mod is not found on client.
+TekTopia: Requires version 1.1.0 but mod is not found on client.
+[02:54:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA lost connection: Server Mod rejections:
+CraftStudio API: Requires version 1.0.0 but mod is not found on client.
+TekTopia: Requires version 1.1.0 but mod is not found on client.
+[02:54:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA left the game
+[02:54:26] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[02:54:26] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 60 mods : wolfarmor@3.8.1+alpha.1,buildcraftlib@7.99.24.8,mowziesmobs@1.5.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1013,damageindicatorsmod@1.0,buildcrafttransport@7.99.24.8,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,bettercaves@1.12.2,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,additionalstructures@2.5.0,hordes@1.5.3a,guideapi@1.12-2.1.8-63,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,biometweaker@3.2.369,malisisdoors@1.12.2-7.3.0,twilightforest@3.11.1021,chococraft@3.1.415.0,buildcraftrobotics@7.99.24.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,varodd@5.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,toolbelt@1.9.14,baubles@1.5.2,buildcraftsilicon@7.99.24.8,geographicraft@1.0,dynamiclights_dropitems@1.1.0,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,cat@0.1,mocreatures@12.0.5,ic2@2.8.170-ex112,buildcraftbuilders@7.99.24.8,buildcraftfactory@7.99.24.8,animalium@0.3.8,FML@8.0.99.99,tombstone@4.7.4,rtg@6.1.0.0-snapshot.1,atlaslib@1.1.6,appleskin@1.0.14,buildcraftcompat@7.99.24.8,aether_legacy@1.5.3.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.25,dynamiclights_creepers@1.0.6,dynamictrees@1.12.2-0.9.29,buildcraftcore@7.99.24.8
+[02:54:26] [Netty Epoll Server IO #0/INFO] [FML]: Attempting connection with missing mods [craftstudioapi, tektopia] at CLIENT
+[02:54:26] [Netty Epoll Server IO #0/INFO] [FML]: Rejecting connection CLIENT: CraftStudio API: Requires version 1.0.0 but mod is not found on client.
+TekTopia: Requires version 1.1.0 but mod is not found on client.
+[02:54:26] [Netty Epoll Server IO #0/ERROR] [FML]: Network Disconnect: Server Mod rejections:
+CraftStudio API: Requires version 1.0.0 but mod is not found on client.
+TekTopia: Requires version 1.1.0 but mod is not found on client.
+[02:54:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA lost connection: Server Mod rejections:
+CraftStudio API: Requires version 1.0.0 but mod is not found on client.
+TekTopia: Requires version 1.1.0 but mod is not found on client.
+[02:54:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA left the game
+[02:54:59] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[02:54:59] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 60 mods : wolfarmor@3.8.1+alpha.1,buildcraftlib@7.99.24.8,mowziesmobs@1.5.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1013,damageindicatorsmod@1.0,buildcrafttransport@7.99.24.8,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,bettercaves@1.12.2,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,additionalstructures@2.5.0,hordes@1.5.3a,guideapi@1.12-2.1.8-63,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,biometweaker@3.2.369,malisisdoors@1.12.2-7.3.0,twilightforest@3.11.1021,chococraft@3.1.415.0,buildcraftrobotics@7.99.24.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,varodd@5.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,toolbelt@1.9.14,baubles@1.5.2,buildcraftsilicon@7.99.24.8,geographicraft@1.0,dynamiclights_dropitems@1.1.0,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,cat@0.1,mocreatures@12.0.5,ic2@2.8.170-ex112,buildcraftbuilders@7.99.24.8,buildcraftfactory@7.99.24.8,animalium@0.3.8,FML@8.0.99.99,tombstone@4.7.4,rtg@6.1.0.0-snapshot.1,atlaslib@1.1.6,appleskin@1.0.14,buildcraftcompat@7.99.24.8,aether_legacy@1.5.3.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.25,dynamiclights_creepers@1.0.6,dynamictrees@1.12.2-0.9.29,buildcraftcore@7.99.24.8
+[02:54:59] [Netty Epoll Server IO #1/INFO] [FML]: Attempting connection with missing mods [craftstudioapi, tektopia] at CLIENT
+[02:54:59] [Netty Epoll Server IO #1/INFO] [FML]: Rejecting connection CLIENT: CraftStudio API: Requires version 1.0.0 but mod is not found on client.
+TekTopia: Requires version 1.1.0 but mod is not found on client.
+[02:54:59] [Netty Epoll Server IO #1/ERROR] [FML]: Network Disconnect: Server Mod rejections:
+CraftStudio API: Requires version 1.0.0 but mod is not found on client.
+TekTopia: Requires version 1.1.0 but mod is not found on client.
+[02:54:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA lost connection: Server Mod rejections:
+CraftStudio API: Requires version 1.0.0 but mod is not found on client.
+TekTopia: Requires version 1.1.0 but mod is not found on client.
+[02:54:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA left the game
+[02:56:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Changing to clear weather]
+[02:59:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Given [Stone] * 64 to Leandreke]
+[03:00:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Given [Stone] * 64 to Leandreke]
