@@ -639,15 +639,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_stained_glass": {
-    "criteria": {
-      "has_glass": "2024-12-20 21:35:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2024-12-20 21:33:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-20 21:35:35 +0000"
     },
     "done": true
   },
@@ -1233,15 +1233,15 @@
     },
     "done": true
   },
-  "tombstone:tutorial/chain_death": {
-    "criteria": {
-      "coded_trigger": "2024-12-20 22:09:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-20 21:35:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 22:09:33 +0000"
     },
     "done": true
   },
