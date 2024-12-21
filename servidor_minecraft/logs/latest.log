@@ -546,3 +546,48 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16:19:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -482.5, 126.0, 982.5]
 [16:20:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -466.5, 119.0, 978.5]
 [16:21:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -458.5, 126.0, 978.5]
+[16:26:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -482.5, 126.0, 983.5]
+[16:27:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -465.5, 119.0, 980.5]
+[16:27:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Given [Cobblestone] * 64 to Leandreke]
+[16:27:57] [Server thread/INFO] [hordes]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@4890b153]Trying to start horde event on day 20 with nextDay 20 and time 18000
+[16:27:57] [Server thread/INFO] [hordes]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@171595a2
+[16:27:57] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+[16:27:57] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+[16:27:57] [Server thread/INFO] [hordes]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@4890b153]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@4890b153 ignoring light level
+[16:27:57] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[16:27:57] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[16:27:57] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 20
+[16:27:57] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 20
+[16:28:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Changing to clear weather]
+[16:28:47] [Server thread/INFO] [hordes]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@4890b153]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@4890b153 ignoring light level
+[16:28:47] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[16:28:47] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[16:28:47] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 20
+[16:28:47] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 20
+[16:29:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke was slain by Manticore
+[16:29:09] [Server thread/INFO] [tombstone]: The last known grave of Leandreke is at location [name:Last Grave, x:-490, y:108, z:949] in the dimension 0
+[16:29:09] [Server thread/INFO] [tombstone]: Leandreke has successfully been saved
+[16:29:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -489.5, 110.0, 948.5]
+[16:29:37] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[16:29:37] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[16:29:37] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 20
+[16:29:37] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 20
+[16:30:27] [Server thread/INFO] [hordes]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@4890b153]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@4890b153 ignoring light level
+[16:30:27] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[16:30:27] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[16:30:27] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 20
+[16:30:27] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 20
+[16:31:17] [Server thread/INFO] [hordes]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@4890b153]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@4890b153 ignoring light level
+[16:31:17] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[16:31:17] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[16:31:17] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 20
+[16:31:17] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 20
+[16:31:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke was struck by lightning
+[16:31:59] [Server thread/INFO] [tombstone]: The last known grave of Leandreke is at location [name:Last Grave, x:-499, y:112, z:964] in the dimension 0
+[16:31:59] [Server thread/INFO] [tombstone]: Leandreke has successfully been saved
+[16:32:07] [Server thread/INFO] [hordes]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@4890b153]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@4890b153 ignoring light level
+[16:32:07] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[16:32:07] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[16:32:07] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 20
+[16:32:07] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 20
+[16:32:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -499.5, 112.0, 963.5]

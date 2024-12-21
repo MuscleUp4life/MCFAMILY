@@ -59,3 +59,36 @@ Loaded wearable protection minecraft:diamond_boots with modifier 0.86
 Loaded wearable protection minecraft:diamond_leggings with modifier 0.86
 Loaded wearable protection minecraft:diamond_chestplate with modifier 0.86
 Loaded wearable protection minecraft:diamond_helmet with modifier 0.86
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@4890b153]Trying to start horde event on day 20 with nextDay 20 and time 18000
+Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@171595a2
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@4890b153]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@4890b153 ignoring light level
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 20
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 20
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@4890b153]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@4890b153 ignoring light level
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 20
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 20
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 20
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 20
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@4890b153]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@4890b153 ignoring light level
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 20
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 20
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@4890b153]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@4890b153 ignoring light level
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 20
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 20
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@4890b153]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@4890b153 ignoring light level
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 20
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 20

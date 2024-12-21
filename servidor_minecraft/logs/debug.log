@@ -25522,3 +25522,184 @@ java.net.ConnectException: Connection timed out (Connection timed out)
 
 [16:24:14] [Server thread/DEBUG] [FML]: The world e3b7b5 (world) may have leaked: seen 235 times.
 
+[16:24:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:25:04] [Server thread/DEBUG] [FML]: The world 6792e252 (world) may have leaked: seen 240 times.
+
+[16:25:04] [Server thread/DEBUG] [FML]: The world 6e920ca2 (world) may have leaked: seen 240 times.
+
+[16:25:04] [Server thread/DEBUG] [FML]: The world 5f7f5543 (world) may have leaked: seen 240 times.
+
+[16:25:04] [Server thread/DEBUG] [FML]: The world 112a80e9 (world) may have leaked: seen 240 times.
+
+[16:25:04] [Server thread/DEBUG] [FML]: The world e3b7b5 (world) may have leaked: seen 240 times.
+
+[16:25:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:25:54] [Server thread/DEBUG] [FML]: The world 6792e252 (world) may have leaked: seen 245 times.
+
+[16:25:54] [Server thread/DEBUG] [FML]: The world 6e920ca2 (world) may have leaked: seen 245 times.
+
+[16:25:54] [Server thread/DEBUG] [FML]: The world 5f7f5543 (world) may have leaked: seen 245 times.
+
+[16:25:54] [Server thread/DEBUG] [FML]: The world 112a80e9 (world) may have leaked: seen 245 times.
+
+[16:25:54] [Server thread/DEBUG] [FML]: The world e3b7b5 (world) may have leaked: seen 245 times.
+
+[16:26:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:26:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -482.5, 126.0, 983.5]
+[16:26:44] [Server thread/DEBUG] [FML]: The world 6792e252 (world) may have leaked: seen 250 times.
+
+[16:26:44] [Server thread/DEBUG] [FML]: The world 6e920ca2 (world) may have leaked: seen 250 times.
+
+[16:26:44] [Server thread/DEBUG] [FML]: The world 5f7f5543 (world) may have leaked: seen 250 times.
+
+[16:26:44] [Server thread/DEBUG] [FML]: The world 112a80e9 (world) may have leaked: seen 250 times.
+
+[16:26:44] [Server thread/DEBUG] [FML]: The world e3b7b5 (world) may have leaked: seen 250 times.
+
+[16:27:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:27:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -465.5, 119.0, 980.5]
+[16:27:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Given [Cobblestone] * 64 to Leandreke]
+[16:27:34] [Server thread/DEBUG] [FML]: The world 6792e252 (world) may have leaked: seen 255 times.
+
+[16:27:34] [Server thread/DEBUG] [FML]: The world 6e920ca2 (world) may have leaked: seen 255 times.
+
+[16:27:34] [Server thread/DEBUG] [FML]: The world 5f7f5543 (world) may have leaked: seen 255 times.
+
+[16:27:34] [Server thread/DEBUG] [FML]: The world 112a80e9 (world) may have leaked: seen 255 times.
+
+[16:27:34] [Server thread/DEBUG] [FML]: The world e3b7b5 (world) may have leaked: seen 255 times.
+
+[16:27:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:27:57] [Server thread/INFO] [hordes]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@4890b153]Trying to start horde event on day 20 with nextDay 20 and time 18000
+[16:27:57] [Server thread/INFO] [hordes]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@171595a2
+[16:27:57] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+[16:27:57] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+[16:27:57] [Server thread/INFO] [hordes]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@4890b153]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@4890b153 ignoring light level
+[16:27:57] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[16:27:57] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[16:27:57] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 20
+[16:27:57] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 20
+[16:28:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Changing to clear weather]
+[16:28:24] [Server thread/DEBUG] [FML]: The world 6792e252 (world) may have leaked: seen 260 times.
+
+[16:28:24] [Server thread/DEBUG] [FML]: The world 6e920ca2 (world) may have leaked: seen 260 times.
+
+[16:28:24] [Server thread/DEBUG] [FML]: The world 5f7f5543 (world) may have leaked: seen 260 times.
+
+[16:28:24] [Server thread/DEBUG] [FML]: The world 112a80e9 (world) may have leaked: seen 260 times.
+
+[16:28:24] [Server thread/DEBUG] [FML]: The world e3b7b5 (world) may have leaked: seen 260 times.
+
+[16:28:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:28:47] [Server thread/INFO] [hordes]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@4890b153]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@4890b153 ignoring light level
+[16:28:47] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[16:28:47] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[16:28:47] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 20
+[16:28:47] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 20
+[16:29:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke was slain by Manticore
+[16:29:09] [Server thread/INFO] [tombstone]: The last known grave of Leandreke is at location [name:Last Grave, x:-490, y:108, z:949] in the dimension 0
+[16:29:09] [Server thread/INFO] [tombstone]: Leandreke has successfully been saved
+[16:29:12] [Server thread/DEBUG] [twilightforest]: Player Leandreke respawned and received items held in storage
+[16:29:14] [Server thread/DEBUG] [FML]: The world 6792e252 (world) may have leaked: seen 265 times.
+
+[16:29:14] [Server thread/DEBUG] [FML]: The world 6e920ca2 (world) may have leaked: seen 265 times.
+
+[16:29:14] [Server thread/DEBUG] [FML]: The world 5f7f5543 (world) may have leaked: seen 265 times.
+
+[16:29:14] [Server thread/DEBUG] [FML]: The world 112a80e9 (world) may have leaked: seen 265 times.
+
+[16:29:14] [Server thread/DEBUG] [FML]: The world e3b7b5 (world) may have leaked: seen 265 times.
+
+[16:29:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:29:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -489.5, 110.0, 948.5]
+[16:29:37] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[16:29:37] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[16:29:37] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 20
+[16:29:37] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 20
+[16:30:04] [Server thread/DEBUG] [FML]: The world 6792e252 (world) may have leaked: seen 270 times.
+
+[16:30:04] [Server thread/DEBUG] [FML]: The world 6e920ca2 (world) may have leaked: seen 270 times.
+
+[16:30:04] [Server thread/DEBUG] [FML]: The world 5f7f5543 (world) may have leaked: seen 270 times.
+
+[16:30:04] [Server thread/DEBUG] [FML]: The world 112a80e9 (world) may have leaked: seen 270 times.
+
+[16:30:04] [Server thread/DEBUG] [FML]: The world e3b7b5 (world) may have leaked: seen 270 times.
+
+[16:30:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:30:27] [Server thread/INFO] [hordes]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@4890b153]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@4890b153 ignoring light level
+[16:30:27] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[16:30:27] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[16:30:27] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 20
+[16:30:27] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 20
+[16:30:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:30:54] [Server thread/DEBUG] [FML]: The world 6792e252 (world) may have leaked: seen 275 times.
+
+[16:30:54] [Server thread/DEBUG] [FML]: The world 6e920ca2 (world) may have leaked: seen 275 times.
+
+[16:30:54] [Server thread/DEBUG] [FML]: The world 5f7f5543 (world) may have leaked: seen 275 times.
+
+[16:30:54] [Server thread/DEBUG] [FML]: The world 112a80e9 (world) may have leaked: seen 275 times.
+
+[16:30:54] [Server thread/DEBUG] [FML]: The world e3b7b5 (world) may have leaked: seen 275 times.
+
+[16:31:17] [Server thread/INFO] [hordes]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@4890b153]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@4890b153 ignoring light level
+[16:31:17] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[16:31:17] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[16:31:17] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 20
+[16:31:17] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 20
+[16:31:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:31:44] [Server thread/DEBUG] [FML]: The world 6792e252 (world) may have leaked: seen 280 times.
+
+[16:31:44] [Server thread/DEBUG] [FML]: The world 6e920ca2 (world) may have leaked: seen 280 times.
+
+[16:31:44] [Server thread/DEBUG] [FML]: The world 5f7f5543 (world) may have leaked: seen 280 times.
+
+[16:31:44] [Server thread/DEBUG] [FML]: The world 112a80e9 (world) may have leaked: seen 280 times.
+
+[16:31:44] [Server thread/DEBUG] [FML]: The world e3b7b5 (world) may have leaked: seen 280 times.
+
+[16:31:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke was struck by lightning
+[16:31:59] [Server thread/INFO] [tombstone]: The last known grave of Leandreke is at location [name:Last Grave, x:-499, y:112, z:964] in the dimension 0
+[16:31:59] [Server thread/INFO] [tombstone]: Leandreke has successfully been saved
+[16:32:07] [Server thread/INFO] [hordes]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@4890b153]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@4890b153 ignoring light level
+[16:32:07] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[16:32:07] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[16:32:07] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 20
+[16:32:07] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 20
+[16:32:08] [Server thread/DEBUG] [twilightforest]: Player Leandreke respawned and received items held in storage
+[16:32:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:32:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -499.5, 112.0, 963.5]
+[16:32:34] [Server thread/DEBUG] [FML]: The world 6792e252 (world) may have leaked: seen 285 times.
+
+[16:32:34] [Server thread/DEBUG] [FML]: The world 6e920ca2 (world) may have leaked: seen 285 times.
+
+[16:32:34] [Server thread/DEBUG] [FML]: The world 5f7f5543 (world) may have leaked: seen 285 times.
+
+[16:32:34] [Server thread/DEBUG] [FML]: The world 112a80e9 (world) may have leaked: seen 285 times.
+
+[16:32:34] [Server thread/DEBUG] [FML]: The world e3b7b5 (world) may have leaked: seen 285 times.
+
+[16:33:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:33:24] [Server thread/DEBUG] [FML]: The world 6792e252 (world) may have leaked: seen 290 times.
+
+[16:33:24] [Server thread/DEBUG] [FML]: The world 6e920ca2 (world) may have leaked: seen 290 times.
+
+[16:33:24] [Server thread/DEBUG] [FML]: The world 5f7f5543 (world) may have leaked: seen 290 times.
+
+[16:33:24] [Server thread/DEBUG] [FML]: The world 112a80e9 (world) may have leaked: seen 290 times.
+
+[16:33:24] [Server thread/DEBUG] [FML]: The world e3b7b5 (world) may have leaked: seen 290 times.
+
+[16:33:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:34:14] [Server thread/DEBUG] [FML]: The world 6792e252 (world) may have leaked: seen 295 times.
+
+[16:34:14] [Server thread/DEBUG] [FML]: The world 6e920ca2 (world) may have leaked: seen 295 times.
+
+[16:34:14] [Server thread/DEBUG] [FML]: The world 5f7f5543 (world) may have leaked: seen 295 times.
+
+[16:34:14] [Server thread/DEBUG] [FML]: The world 112a80e9 (world) may have leaked: seen 295 times.
+
+[16:34:14] [Server thread/DEBUG] [FML]: The world e3b7b5 (world) may have leaked: seen 295 times.
+
+[16:34:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
