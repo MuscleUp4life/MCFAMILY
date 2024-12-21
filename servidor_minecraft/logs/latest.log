@@ -677,3 +677,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17:34:05] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [17:34:05] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Leandreke[/100.120.251.47:51324] logged in with entity id 57358 at (-470.1467349536049, 119.0, 961.3350532282824)
 [17:34:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke joined the game
+[17:35:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Changing to clear weather]
+[17:37:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -415.5, 94.0, 974.5]
+[17:39:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -458.5, 126.0, 987.5]
+[17:39:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -482.5, 126.0, 983.5]
+[17:39:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -459.5, 121.0, 965.5]
+[17:44:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -483.5, 126.0, 983.5]
+[17:44:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -470.5, 120.0, 989.5]
+[17:45:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -482.5, 126.0, 982.5]
+[17:45:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leandreke lost connection: Disconnected
+[17:45:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke left the game
