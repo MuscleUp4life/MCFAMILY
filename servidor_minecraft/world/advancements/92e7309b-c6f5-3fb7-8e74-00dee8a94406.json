@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-12-21 15:50:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow": {
     "criteria": {
       "has_snowball": "2024-12-21 02:55:07 +0000"
@@ -110,6 +116,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-20 14:32:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-21 15:50:02 +0000"
     },
     "done": true
   },
@@ -663,6 +675,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2024-12-21 15:33:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2024-12-20 13:38:03 +0000"
@@ -825,6 +843,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-21 15:50:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-12-20 14:11:22 +0000"
@@ -924,6 +948,12 @@
   "aether_legacy:recipes/combat/diamond_gloves": {
     "criteria": {
       "has_diamond": "2024-12-20 14:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-21 15:50:02 +0000"
     },
     "done": true
   },
@@ -1410,6 +1440,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-20 14:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-12-21 15:50:02 +0000"
     },
     "done": true
   },
