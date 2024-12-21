@@ -271,7 +271,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_mutton": "2024-12-21 03:31:03 +0000"
+      "cooked_porkchop": "2024-12-21 03:54:11 +0000",
+      "cooked_mutton": "2024-12-21 03:31:03 +0000",
+      "potato": "2024-12-21 03:51:32 +0000"
     },
     "done": false
   },
@@ -416,6 +418,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2024-12-21 03:27:09 +0000",
+      "birch_forest": "2024-12-21 03:49:51 +0000",
+      "extreme_hills_with_trees": "2024-12-21 03:50:27 +0000",
+      "mesa": "2024-12-21 03:49:56 +0000",
       "forest_hills": "2024-12-21 03:39:33 +0000",
       "plains": "2024-12-21 03:17:59 +0000",
       "birch_forest_hills": "2024-12-21 03:22:39 +0000",
@@ -578,7 +583,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "vindicator": "2024-12-21 03:35:55 +0000"
+      "vindicator": "2024-12-21 03:35:55 +0000",
+      "skeleton": "2024-12-21 03:46:56 +0000",
+      "zombie": "2024-12-21 03:47:58 +0000",
+      "spider": "2024-12-21 03:46:37 +0000"
     },
     "done": false
   },
