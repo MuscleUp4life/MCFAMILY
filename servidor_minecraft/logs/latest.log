@@ -582,3 +582,282 @@ TekTopia: Requires version 1.1.0 but mod is not found on client.
 [02:56:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Changing to clear weather]
 [02:59:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Given [Stone] * 64 to Leandreke]
 [03:00:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Given [Stone] * 64 to Leandreke]
+[03:04:56] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[03:04:56] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
+[03:04:56] [Netty Epoll Server IO #3/INFO] [FML]: Attempting connection with missing mods [aether_legacy, animalium, appleskin, atlaslib, baubles, bettercaves, biometweaker, bloodmagic, buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, cat, chococraft, clumps, craftstudioapi, customspawner, mocreatures, dynamictrees, geographicraft, guideapi, ic2, infernalmobs, ironchest, jei, malisiscore, malisisdoors, mowziesmobs, mutantbeasts, additionalstructures, tektopia, thaumcraft, hordes, tombstone, travelersbackpack, twilightforest, varodd, wolfarmor, rtg, llibrary] at CLIENT
+[03:04:56] [Netty Epoll Server IO #3/INFO] [FML]: Rejecting connection CLIENT: Atlas Lib: Requires version 1.1.6 but mod is not found on client.
+Baubles: Requires version 1.5.2 but mod is not found on client.
+Blood Magic: Alchemical Wizardry: Requires version 1.12.2-2.4.3-105 but mod is not found on client.
+BuildCraft: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Builders: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Compat: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Energy: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Factory: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Lib: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Robotics: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Silicon: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Transport: Requires version 7.99.24.8 but mod is not found on client.
+Caves And Tunnels Mod: Requires version 0.1 but mod is not found on client.
+Chococraft 3: Requires version 3.1.415.0 but mod is not found on client.
+Clumps: Requires version 3.1.2 but mod is not found on client.
+Corail Tombstone: Requires version 4.7.4 but mod is not found on client.
+CraftStudio API: Requires version 1.0.0 but mod is not found on client.
+DrZhark's CustomSpawner: Requires version 3.11.4 but mod is not found on client.
+DrZhark's Mo'Creatures Mod: Requires version 12.0.5 but mod is not found on client.
+Dynamic Trees: Requires version 1.12.2-0.9.29 but mod is not found on client.
+Guide-API: Requires version 1.12-2.1.8-63 but mod is not found on client.
+IndustrialCraft 2: Requires version 2.8.170-ex112 but mod is not found on client.
+Infernal Mobs: Requires version 1.7.6 but mod is not found on client.
+Iron Chest: Requires version 1.12.2-7.0.67.844 but mod is not found on client.
+LLibrary: Requires version 1.7.20 but mod is not found on client.
+MalisisCore: Requires version 1.12.2-6.5.1-SNAPSHOT but mod is not found on client.
+MalisisDoors: Requires version 1.12.2-7.3.0 but mod is not found on client.
+Mowzie's Mobs: Requires version 1.5.8 but mod is not found on client.
+Mutant Beasts: Requires version 1.12.2-1.0.2 but mod is not found on client.
+TekTopia: Requires version 1.1.0 but mod is not found on client.
+Thaumcraft: Requires version 6.1.BETA26 but mod is not found on client.
+The Aether: Requires version 1.5.3.2 but mod is not found on client.
+The Hordes: Requires version 1.5.3a but mod is not found on client.
+The Twilight Forest: Requires version 3.11.1021 but mod is not found on client.
+Traveler's Backpack: Requires version 1.0.35 but mod is not found on client.
+Various Oddities: Requires version 5.2 but mod is not found on client.
+Wolf Armor and Storage: Requires version 3.8.1+alpha.1 but mod is not found on client.
+animalium: Requires version 0.3.8 but mod is not found on client.
+[03:04:56] [Netty Epoll Server IO #3/ERROR] [FML]: Network Disconnect: Server Mod rejections:
+Atlas Lib: Requires version 1.1.6 but mod is not found on client.
+Baubles: Requires version 1.5.2 but mod is not found on client.
+Blood Magic: Alchemical Wizardry: Requires version 1.12.2-2.4.3-105 but mod is not found on client.
+BuildCraft: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Builders: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Compat: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Energy: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Factory: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Lib: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Robotics: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Silicon: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Transport: Requires version 7.99.24.8 but mod is not found on client.
+Caves And Tunnels Mod: Requires version 0.1 but mod is not found on client.
+Chococraft 3: Requires version 3.1.415.0 but mod is not found on client.
+Clumps: Requires version 3.1.2 but mod is not found on client.
+Corail Tombstone: Requires version 4.7.4 but mod is not found on client.
+CraftStudio API: Requires version 1.0.0 but mod is not found on client.
+DrZhark's CustomSpawner: Requires version 3.11.4 but mod is not found on client.
+DrZhark's Mo'Creatures Mod: Requires version 12.0.5 but mod is not found on client.
+Dynamic Trees: Requires version 1.12.2-0.9.29 but mod is not found on client.
+Guide-API: Requires version 1.12-2.1.8-63 but mod is not found on client.
+IndustrialCraft 2: Requires version 2.8.170-ex112 but mod is not found on client.
+Infernal Mobs: Requires version 1.7.6 but mod is not found on client.
+Iron Chest: Requires version 1.12.2-7.0.67.844 but mod is not found on client.
+LLibrary: Requires version 1.7.20 but mod is not found on client.
+MalisisCore: Requires version 1.12.2-6.5.1-SNAPSHOT but mod is not found on client.
+MalisisDoors: Requires version 1.12.2-7.3.0 but mod is not found on client.
+Mowzie's Mobs: Requires version 1.5.8 but mod is not found on client.
+Mutant Beasts: Requires version 1.12.2-1.0.2 but mod is not found on client.
+TekTopia: Requires version 1.1.0 but mod is not found on client.
+Thaumcraft: Requires version 6.1.BETA26 but mod is not found on client.
+The Aether: Requires version 1.5.3.2 but mod is not found on client.
+The Hordes: Requires version 1.5.3a but mod is not found on client.
+The Twilight Forest: Requires version 3.11.1021 but mod is not found on client.
+Traveler's Backpack: Requires version 1.0.35 but mod is not found on client.
+Various Oddities: Requires version 5.2 but mod is not found on client.
+Wolf Armor and Storage: Requires version 3.8.1+alpha.1 but mod is not found on client.
+animalium: Requires version 0.3.8 but mod is not found on client.
+[03:04:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA lost connection: Server Mod rejections:
+Atlas Lib: Requires version 1.1.6 but mod is not found on client.
+Baubles: Requires version 1.5.2 but mod is not found on client.
+Blood Magic: Alchemical Wizardry: Requires version 1.12.2-2.4.3-105 but mod is not found on client.
+BuildCraft: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Builders: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Compat: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Energy: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Factory: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Lib: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Robotics: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Silicon: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Transport: Requires version 7.99.24.8 but mod is not found on client.
+Caves And Tunnels Mod: Requires version 0.1 but mod is not found on client.
+Chococraft 3: Requires version 3.1.415.0 but mod is not found on client.
+Clumps: Requires version 3.1.2 but mod is not found on client.
+Corail Tombstone: Requires version 4.7.4 but mod is not found on client.
+CraftStudio API: Requires version 1.0.0 but mod is not found on client.
+DrZhark's CustomSpawner: Requires version 3.11.4 but mod is not found on client.
+DrZhark's Mo'Creatures Mod: Requires version 12.0.5 but mod is not found on client.
+Dynamic Trees: Requires version 1.12.2-0.9.29 but mod is not found on client.
+Guide-API: Requires version 1.12-2.1.8-63 but mod is not found on client.
+IndustrialCraft 2: Requires version 2.8.170-ex112 but mod is not found on client.
+Infernal Mobs: Requires version 1.7.6 but mod is not found on client.
+Iron Chest: Requires version 1.12.2-7.0.67.844 but mod is not found on client.
+LLibrary: Requires version 1.7.20 but mod is not found on client.
+MalisisCore: Requires version 1.12.2-6.5.1-SNAPSHOT but mod is not found on client.
+MalisisDoors: Requires version 1.12.2-7.3.0 but mod is not found on client.
+Mowzie's Mobs: Requires version 1.5.8 but mod is not found on client.
+Mutant Beasts: Requires version 1.12.2-1.0.2 but mod is not found on client.
+TekTopia: Requires version 1.1.0 but mod is not found on client.
+Thaumcraft: Requires version 6.1.BETA26 but mod is not found on client.
+The Aether: Requires version 1.5.3.2 but mod is not found on client.
+The Hordes: Requires version 1.5.3a but mod is not found on client.
+The Twilight Forest: Requires version 3.11.1021 but mod is not found on client.
+Traveler's Backpack: Requires version 1.0.35 but mod is not found on client.
+Various Oddities: Requires version 5.2 but mod is not found on client.
+Wolf Armor and Storage: Requires version 3.8.1+alpha.1 but mod is not found on client.
+animalium: Requires version 0.3.8 but mod is not found on client.
+[03:04:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA left the game
+[03:05:06] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[03:05:06] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
+[03:05:06] [Netty Epoll Server IO #4/INFO] [FML]: Attempting connection with missing mods [aether_legacy, animalium, appleskin, atlaslib, baubles, bettercaves, biometweaker, bloodmagic, buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, cat, chococraft, clumps, craftstudioapi, customspawner, mocreatures, dynamictrees, geographicraft, guideapi, ic2, infernalmobs, ironchest, jei, malisiscore, malisisdoors, mowziesmobs, mutantbeasts, additionalstructures, tektopia, thaumcraft, hordes, tombstone, travelersbackpack, twilightforest, varodd, wolfarmor, rtg, llibrary] at CLIENT
+[03:05:06] [Netty Epoll Server IO #4/INFO] [FML]: Rejecting connection CLIENT: Atlas Lib: Requires version 1.1.6 but mod is not found on client.
+Baubles: Requires version 1.5.2 but mod is not found on client.
+Blood Magic: Alchemical Wizardry: Requires version 1.12.2-2.4.3-105 but mod is not found on client.
+BuildCraft: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Builders: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Compat: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Energy: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Factory: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Lib: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Robotics: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Silicon: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Transport: Requires version 7.99.24.8 but mod is not found on client.
+Caves And Tunnels Mod: Requires version 0.1 but mod is not found on client.
+Chococraft 3: Requires version 3.1.415.0 but mod is not found on client.
+Clumps: Requires version 3.1.2 but mod is not found on client.
+Corail Tombstone: Requires version 4.7.4 but mod is not found on client.
+CraftStudio API: Requires version 1.0.0 but mod is not found on client.
+DrZhark's CustomSpawner: Requires version 3.11.4 but mod is not found on client.
+DrZhark's Mo'Creatures Mod: Requires version 12.0.5 but mod is not found on client.
+Dynamic Trees: Requires version 1.12.2-0.9.29 but mod is not found on client.
+Guide-API: Requires version 1.12-2.1.8-63 but mod is not found on client.
+IndustrialCraft 2: Requires version 2.8.170-ex112 but mod is not found on client.
+Infernal Mobs: Requires version 1.7.6 but mod is not found on client.
+Iron Chest: Requires version 1.12.2-7.0.67.844 but mod is not found on client.
+LLibrary: Requires version 1.7.20 but mod is not found on client.
+MalisisCore: Requires version 1.12.2-6.5.1-SNAPSHOT but mod is not found on client.
+MalisisDoors: Requires version 1.12.2-7.3.0 but mod is not found on client.
+Mowzie's Mobs: Requires version 1.5.8 but mod is not found on client.
+Mutant Beasts: Requires version 1.12.2-1.0.2 but mod is not found on client.
+TekTopia: Requires version 1.1.0 but mod is not found on client.
+Thaumcraft: Requires version 6.1.BETA26 but mod is not found on client.
+The Aether: Requires version 1.5.3.2 but mod is not found on client.
+The Hordes: Requires version 1.5.3a but mod is not found on client.
+The Twilight Forest: Requires version 3.11.1021 but mod is not found on client.
+Traveler's Backpack: Requires version 1.0.35 but mod is not found on client.
+Various Oddities: Requires version 5.2 but mod is not found on client.
+Wolf Armor and Storage: Requires version 3.8.1+alpha.1 but mod is not found on client.
+animalium: Requires version 0.3.8 but mod is not found on client.
+[03:05:06] [Netty Epoll Server IO #4/ERROR] [FML]: Network Disconnect: Server Mod rejections:
+Atlas Lib: Requires version 1.1.6 but mod is not found on client.
+Baubles: Requires version 1.5.2 but mod is not found on client.
+Blood Magic: Alchemical Wizardry: Requires version 1.12.2-2.4.3-105 but mod is not found on client.
+BuildCraft: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Builders: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Compat: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Energy: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Factory: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Lib: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Robotics: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Silicon: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Transport: Requires version 7.99.24.8 but mod is not found on client.
+Caves And Tunnels Mod: Requires version 0.1 but mod is not found on client.
+Chococraft 3: Requires version 3.1.415.0 but mod is not found on client.
+Clumps: Requires version 3.1.2 but mod is not found on client.
+Corail Tombstone: Requires version 4.7.4 but mod is not found on client.
+CraftStudio API: Requires version 1.0.0 but mod is not found on client.
+DrZhark's CustomSpawner: Requires version 3.11.4 but mod is not found on client.
+DrZhark's Mo'Creatures Mod: Requires version 12.0.5 but mod is not found on client.
+Dynamic Trees: Requires version 1.12.2-0.9.29 but mod is not found on client.
+Guide-API: Requires version 1.12-2.1.8-63 but mod is not found on client.
+IndustrialCraft 2: Requires version 2.8.170-ex112 but mod is not found on client.
+Infernal Mobs: Requires version 1.7.6 but mod is not found on client.
+Iron Chest: Requires version 1.12.2-7.0.67.844 but mod is not found on client.
+LLibrary: Requires version 1.7.20 but mod is not found on client.
+MalisisCore: Requires version 1.12.2-6.5.1-SNAPSHOT but mod is not found on client.
+MalisisDoors: Requires version 1.12.2-7.3.0 but mod is not found on client.
+Mowzie's Mobs: Requires version 1.5.8 but mod is not found on client.
+Mutant Beasts: Requires version 1.12.2-1.0.2 but mod is not found on client.
+TekTopia: Requires version 1.1.0 but mod is not found on client.
+Thaumcraft: Requires version 6.1.BETA26 but mod is not found on client.
+The Aether: Requires version 1.5.3.2 but mod is not found on client.
+The Hordes: Requires version 1.5.3a but mod is not found on client.
+The Twilight Forest: Requires version 3.11.1021 but mod is not found on client.
+Traveler's Backpack: Requires version 1.0.35 but mod is not found on client.
+Various Oddities: Requires version 5.2 but mod is not found on client.
+Wolf Armor and Storage: Requires version 3.8.1+alpha.1 but mod is not found on client.
+animalium: Requires version 0.3.8 but mod is not found on client.
+[03:05:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA lost connection: Server Mod rejections:
+Atlas Lib: Requires version 1.1.6 but mod is not found on client.
+Baubles: Requires version 1.5.2 but mod is not found on client.
+Blood Magic: Alchemical Wizardry: Requires version 1.12.2-2.4.3-105 but mod is not found on client.
+BuildCraft: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Builders: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Compat: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Energy: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Factory: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Lib: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Robotics: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Silicon: Requires version 7.99.24.8 but mod is not found on client.
+BuildCraft Transport: Requires version 7.99.24.8 but mod is not found on client.
+Caves And Tunnels Mod: Requires version 0.1 but mod is not found on client.
+Chococraft 3: Requires version 3.1.415.0 but mod is not found on client.
+Clumps: Requires version 3.1.2 but mod is not found on client.
+Corail Tombstone: Requires version 4.7.4 but mod is not found on client.
+CraftStudio API: Requires version 1.0.0 but mod is not found on client.
+DrZhark's CustomSpawner: Requires version 3.11.4 but mod is not found on client.
+DrZhark's Mo'Creatures Mod: Requires version 12.0.5 but mod is not found on client.
+Dynamic Trees: Requires version 1.12.2-0.9.29 but mod is not found on client.
+Guide-API: Requires version 1.12-2.1.8-63 but mod is not found on client.
+IndustrialCraft 2: Requires version 2.8.170-ex112 but mod is not found on client.
+Infernal Mobs: Requires version 1.7.6 but mod is not found on client.
+Iron Chest: Requires version 1.12.2-7.0.67.844 but mod is not found on client.
+LLibrary: Requires version 1.7.20 but mod is not found on client.
+MalisisCore: Requires version 1.12.2-6.5.1-SNAPSHOT but mod is not found on client.
+MalisisDoors: Requires version 1.12.2-7.3.0 but mod is not found on client.
+Mowzie's Mobs: Requires version 1.5.8 but mod is not found on client.
+Mutant Beasts: Requires version 1.12.2-1.0.2 but mod is not found on client.
+TekTopia: Requires version 1.1.0 but mod is not found on client.
+Thaumcraft: Requires version 6.1.BETA26 but mod is not found on client.
+The Aether: Requires version 1.5.3.2 but mod is not found on client.
+The Hordes: Requires version 1.5.3a but mod is not found on client.
+The Twilight Forest: Requires version 3.11.1021 but mod is not found on client.
+Traveler's Backpack: Requires version 1.0.35 but mod is not found on client.
+Various Oddities: Requires version 5.2 but mod is not found on client.
+Wolf Armor and Storage: Requires version 3.8.1+alpha.1 but mod is not found on client.
+animalium: Requires version 0.3.8 but mod is not found on client.
+[03:05:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA left the game
+[03:07:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leandreke lost connection: Timed out
+[03:07:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke left the game
+[03:08:08] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[03:08:08] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 61 mods : wolfarmor@3.8.1+alpha.1,buildcraftlib@7.99.24.8,mowziesmobs@1.5.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1013,damageindicatorsmod@1.0,buildcrafttransport@7.99.24.8,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,craftstudioapi@1.0.0,bettercaves@1.12.2,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,additionalstructures@2.5.0,hordes@1.5.3a,guideapi@1.12-2.1.8-63,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,biometweaker@3.2.369,malisisdoors@1.12.2-7.3.0,twilightforest@3.11.1021,chococraft@3.1.415.0,buildcraftrobotics@7.99.24.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,varodd@5.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,baubles@1.5.2,buildcraftsilicon@7.99.24.8,geographicraft@1.0,dynamiclights_dropitems@1.1.0,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,cat@0.1,mocreatures@12.0.5,tektopia@1.1.0,ic2@2.8.170-ex112,buildcraftbuilders@7.99.24.8,buildcraftfactory@7.99.24.8,animalium@0.3.8,FML@8.0.99.99,tombstone@4.7.4,rtg@6.1.0.0-snapshot.1,atlaslib@1.1.6,appleskin@1.0.14,buildcraftcompat@7.99.24.8,aether_legacy@1.5.3.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.25,dynamiclights_creepers@1.0.6,dynamictrees@1.12.2-0.9.29,buildcraftcore@7.99.24.8
+[03:08:12] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:08:12] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Leandreke[/100.120.251.47:57037] logged in with entity id 17769 at (-449.4553842484909, 125.0, 978.4071977869801)
+[03:08:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke joined the game
+[03:09:18] [Netty Epoll Server IO #6/ERROR] [FML]: NetworkDispatcher exception
+io.netty.handler.timeout.ReadTimeoutException: null
+[03:09:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leandreke lost connection: Disconnected
+[03:09:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke left the game
+[03:09:39] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[03:09:39] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 61 mods : wolfarmor@3.8.1+alpha.1,buildcraftlib@7.99.24.8,mowziesmobs@1.5.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1013,damageindicatorsmod@1.0,buildcrafttransport@7.99.24.8,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,craftstudioapi@1.0.0,bettercaves@1.12.2,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,additionalstructures@2.5.0,hordes@1.5.3a,guideapi@1.12-2.1.8-63,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,biometweaker@3.2.369,malisisdoors@1.12.2-7.3.0,twilightforest@3.11.1021,chococraft@3.1.415.0,buildcraftrobotics@7.99.24.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,varodd@5.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,baubles@1.5.2,buildcraftsilicon@7.99.24.8,geographicraft@1.0,dynamiclights_dropitems@1.1.0,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,cat@0.1,mocreatures@12.0.5,tektopia@1.1.0,ic2@2.8.170-ex112,buildcraftbuilders@7.99.24.8,buildcraftfactory@7.99.24.8,animalium@0.3.8,FML@8.0.99.99,tombstone@4.7.4,rtg@6.1.0.0-snapshot.1,atlaslib@1.1.6,appleskin@1.0.14,buildcraftcompat@7.99.24.8,aether_legacy@1.5.3.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.25,dynamiclights_creepers@1.0.6,dynamictrees@1.12.2-0.9.29,buildcraftcore@7.99.24.8
+[03:09:42] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:09:42] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Leandreke[/100.120.251.47:57046] logged in with entity id 18607 at (-449.4553842484909, 125.0, 978.4071977869801)
+[03:09:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke joined the game
+[03:10:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leandreke lost connection: Timed out
+[03:10:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke left the game
+[03:10:30] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[03:10:30] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 61 mods : wolfarmor@3.8.1+alpha.1,buildcraftlib@7.99.24.8,mowziesmobs@1.5.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1013,damageindicatorsmod@1.0,buildcrafttransport@7.99.24.8,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,craftstudioapi@1.0.0,bettercaves@1.12.2,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,additionalstructures@2.5.0,hordes@1.5.3a,guideapi@1.12-2.1.8-63,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,biometweaker@3.2.369,malisisdoors@1.12.2-7.3.0,twilightforest@3.11.1021,chococraft@3.1.415.0,buildcraftrobotics@7.99.24.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,varodd@5.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,baubles@1.5.2,buildcraftsilicon@7.99.24.8,geographicraft@1.0,dynamiclights_dropitems@1.1.0,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,cat@0.1,mocreatures@12.0.5,tektopia@1.1.0,ic2@2.8.170-ex112,buildcraftbuilders@7.99.24.8,buildcraftfactory@7.99.24.8,animalium@0.3.8,FML@8.0.99.99,tombstone@4.7.4,rtg@6.1.0.0-snapshot.1,atlaslib@1.1.6,appleskin@1.0.14,buildcraftcompat@7.99.24.8,aether_legacy@1.5.3.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.25,dynamiclights_creepers@1.0.6,dynamictrees@1.12.2-0.9.29,buildcraftcore@7.99.24.8
+[03:10:33] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:10:33] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Leandreke[/100.120.251.47:57059] logged in with entity id 18953 at (-449.4553842484909, 125.0, 978.4071977869801)
+[03:10:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke joined the game
+[03:11:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leandreke lost connection: Disconnected
+[03:11:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke left the game
+[03:11:48] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[03:11:48] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 61 mods : wolfarmor@3.8.1+alpha.1,buildcraftlib@7.99.24.8,mowziesmobs@1.5.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1013,damageindicatorsmod@1.0,buildcrafttransport@7.99.24.8,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,craftstudioapi@1.0.0,bettercaves@1.12.2,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,additionalstructures@2.5.0,hordes@1.5.3a,guideapi@1.12-2.1.8-63,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,biometweaker@3.2.369,malisisdoors@1.12.2-7.3.0,twilightforest@3.11.1021,chococraft@3.1.415.0,buildcraftrobotics@7.99.24.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,varodd@5.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,baubles@1.5.2,buildcraftsilicon@7.99.24.8,geographicraft@1.0,dynamiclights_dropitems@1.1.0,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,cat@0.1,mocreatures@12.0.5,tektopia@1.1.0,ic2@2.8.170-ex112,buildcraftbuilders@7.99.24.8,buildcraftfactory@7.99.24.8,animalium@0.3.8,FML@8.0.99.99,tombstone@4.7.4,rtg@6.1.0.0-snapshot.1,atlaslib@1.1.6,appleskin@1.0.14,buildcraftcompat@7.99.24.8,aether_legacy@1.5.3.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.25,dynamiclights_creepers@1.0.6,dynamictrees@1.12.2-0.9.29,buildcraftcore@7.99.24.8
+[03:11:50] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:11:50] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Leandreke[/100.120.251.47:57069] logged in with entity id 19411 at (-449.4553842484909, 125.0, 978.4071977869801)
+[03:11:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke joined the game
+[03:12:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Changing to clear weather]
+[03:12:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leandreke lost connection: Disconnected
+[03:12:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke left the game
+[03:13:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Changing to clear weather
+[03:13:24] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[03:13:24] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 61 mods : wolfarmor@3.8.1+alpha.1,buildcraftlib@7.99.24.8,mowziesmobs@1.5.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1013,damageindicatorsmod@1.0,buildcrafttransport@7.99.24.8,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,craftstudioapi@1.0.0,bettercaves@1.12.2,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,additionalstructures@2.5.0,hordes@1.5.3a,guideapi@1.12-2.1.8-63,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,biometweaker@3.2.369,malisisdoors@1.12.2-7.3.0,twilightforest@3.11.1021,chococraft@3.1.415.0,buildcraftrobotics@7.99.24.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,varodd@5.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,baubles@1.5.2,buildcraftsilicon@7.99.24.8,geographicraft@1.0,dynamiclights_dropitems@1.1.0,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,cat@0.1,mocreatures@12.0.5,tektopia@1.1.0,ic2@2.8.170-ex112,buildcraftbuilders@7.99.24.8,buildcraftfactory@7.99.24.8,animalium@0.3.8,FML@8.0.99.99,tombstone@4.7.4,rtg@6.1.0.0-snapshot.1,atlaslib@1.1.6,appleskin@1.0.14,buildcraftcompat@7.99.24.8,aether_legacy@1.5.3.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.25,dynamiclights_creepers@1.0.6,dynamictrees@1.12.2-0.9.29,buildcraftcore@7.99.24.8
+[03:13:26] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:13:26] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Leandreke[/100.120.251.47:57081] logged in with entity id 20123 at (-449.46355199223694, 126.0, 971.5984505514684)
+[03:13:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke joined the game
