@@ -741,3 +741,70 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [21:06:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved too quickly! -2.7220142559800706,0.45546773958501774,-9.819790316185163
 [21:07:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA has made the advancement [Ice Bucket Challenge]
 [21:07:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA has made the advancement [Diamonds!]
+[21:08:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved too quickly! 10.219822466230653,0.6709083839322858,1.1555966239487248
+[21:08:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved too quickly! -9.91466606688266,0.17081290814229533,-3.3116431442720113
+[21:09:37] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] [HOME6] Village struct frame is missing or wrong type | BlockPos{x=-943, y=88, z=325}
+[21:09:38] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Removing structure HOME6 [BlockPos{x=-944, y=87, z=326}]
+[21:09:38] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME6 [BlockPos{x=-944, y=87, z=326}]
+[21:09:38] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] [HOME2] Village struct frame is missing or wrong type | BlockPos{x=-934, y=76, z=308}
+[21:09:38] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] [HOME2] Village struct frame is missing or wrong type | BlockPos{x=-934, y=74, z=290}
+[21:09:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved too quickly! -9.102138375603545,0.756759288177264,4.852892900934819
+[21:09:40] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Removing structure HOME2 [BlockPos{x=-933, y=75, z=309}]
+[21:09:40] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Removing structure HOME2 [BlockPos{x=-933, y=73, z=291}]
+[21:09:44] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] [HOME2] Village struct frame is missing or wrong type | BlockPos{x=-953, y=89, z=325}
+[21:09:45] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME2 [BlockPos{x=-933, y=73, z=291}]
+[21:09:45] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME2 [BlockPos{x=-933, y=75, z=309}]
+[21:09:45] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] [HOME2] Village struct frame is missing or wrong type | BlockPos{x=-956, y=84, z=323}
+[21:09:45] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] [HOME6] Village struct frame is missing or wrong type | BlockPos{x=-946, y=80, z=323}
+[21:09:46] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Removing structure HOME6 [BlockPos{x=-945, y=79, z=322}]
+[21:09:46] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Removing structure HOME2 [BlockPos{x=-954, y=88, z=326}]
+[21:09:46] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Removing structure HOME2 [BlockPos{x=-955, y=83, z=322}]
+[21:09:46] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME6 [BlockPos{x=-945, y=79, z=322}]
+[21:09:46] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME2 [BlockPos{x=-955, y=83, z=322}]
+[21:09:46] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME2 [BlockPos{x=-954, y=88, z=326}]
+[21:09:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved too quickly! -9.137227669086315,0.36809686001799946,4.2561742755025875
+[21:09:46] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Village REMOVED - [VYZ]   5a739a18-74e6-43bd-b1bd-98bdce4ab032
+[21:09:46] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] == Village being destroyed ==
+[21:10:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved too quickly! -10.204100623639988,-0.16779664663324922,0.3851510983805042
+[21:10:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved too quickly! -9.715807770972788,-2.492184615496882,0.20037548678448047
+[21:10:50] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [-96, 24] in dimension 0 (overworld) while populating chunk [-95, 25], causing cascading worldgen lag.
+[21:10:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:10:50] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [-97, 24] in dimension 0 (overworld) while populating chunk [-95, 25], causing cascading worldgen lag.
+[21:10:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:10:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leandreke lost connection: Timed out
+[21:10:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke left the game
+[21:10:52] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [-96, 28] in dimension 0 (overworld) while populating chunk [-96, 27], causing cascading worldgen lag.
+[21:10:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:10:52] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [-97, 28] in dimension 0 (overworld) while populating chunk [-96, 28], causing cascading worldgen lag.
+[21:10:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:10:53] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [-97, 27] in dimension 0 (overworld) while populating chunk [-96, 28], causing cascading worldgen lag.
+[21:10:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:10:53] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[21:10:53] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[21:10:53] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[21:11:40] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[21:11:40] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 61 mods : wolfarmor@3.8.1+alpha.1,buildcraftlib@7.99.24.8,mowziesmobs@1.5.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1013,damageindicatorsmod@1.0,buildcrafttransport@7.99.24.8,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,craftstudioapi@1.0.0,bettercaves@1.12.2,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,additionalstructures@2.5.0,hordes@1.5.3a,guideapi@1.12-2.1.8-63,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,biometweaker@3.2.369,malisisdoors@1.12.2-7.3.0,twilightforest@3.11.1021,chococraft@3.1.415.0,buildcraftrobotics@7.99.24.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,varodd@5.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,baubles@1.5.2,buildcraftsilicon@7.99.24.8,geographicraft@1.0,dynamiclights_dropitems@1.1.0,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,cat@0.1,mocreatures@12.0.5,tektopia@1.1.0,ic2@2.8.170-ex112,buildcraftbuilders@7.99.24.8,buildcraftfactory@7.99.24.8,animalium@0.3.8,FML@8.0.99.99,tombstone@4.7.4,rtg@6.1.0.0-snapshot.1,atlaslib@1.1.6,appleskin@1.0.14,buildcraftcompat@7.99.24.8,aether_legacy@1.5.3.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.25,dynamiclights_creepers@1.0.6,dynamictrees@1.12.2-0.9.29,buildcraftcore@7.99.24.8
+[21:11:42] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:11:42] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Leandreke[/100.120.251.47:49192] logged in with entity id 40325 at (-487.96913862052133, 115.0, 971.358874045115)
+[21:11:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke joined the game
+[21:11:43] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:wildhorse that already exists with UUID 6a48a8b0-dddf-4ff5-ae85-4ff304ddc226
+[21:11:43] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:ant that already exists with UUID 55178dc2-42af-481c-83d0-9b069f387f43
+[21:11:43] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 4d801608-874d-49a7-b3b3-b10e7e64b410
+[21:11:43] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID b4074a54-3d21-4b5a-a529-82ea1ae9b315
+[21:12:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leandreke lost connection: Disconnected
+[21:12:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke left the game
+[21:12:36] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[21:12:36] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 61 mods : wolfarmor@3.8.1+alpha.1,buildcraftlib@7.99.24.8,mowziesmobs@1.5.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1013,damageindicatorsmod@1.0,buildcrafttransport@7.99.24.8,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,craftstudioapi@1.0.0,bettercaves@1.12.2,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,additionalstructures@2.5.0,hordes@1.5.3a,guideapi@1.12-2.1.8-63,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,biometweaker@3.2.369,malisisdoors@1.12.2-7.3.0,twilightforest@3.11.1021,chococraft@3.1.415.0,buildcraftrobotics@7.99.24.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,varodd@5.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,baubles@1.5.2,buildcraftsilicon@7.99.24.8,geographicraft@1.0,dynamiclights_dropitems@1.1.0,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,cat@0.1,mocreatures@12.0.5,tektopia@1.1.0,ic2@2.8.170-ex112,buildcraftbuilders@7.99.24.8,buildcraftfactory@7.99.24.8,animalium@0.3.8,FML@8.0.99.99,tombstone@4.7.4,rtg@6.1.0.0-snapshot.1,atlaslib@1.1.6,appleskin@1.0.14,buildcraftcompat@7.99.24.8,aether_legacy@1.5.3.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.25,dynamiclights_creepers@1.0.6,dynamictrees@1.12.2-0.9.29,buildcraftcore@7.99.24.8
+[21:12:40] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:12:40] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Leandreke[/100.120.251.47:49199] logged in with entity id 42531 at (-487.6453510884852, 115.0, 970.696914877793)
+[21:12:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke joined the game
+[21:12:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved wrongly!
+[21:14:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved too quickly! 7.81913097405311,-0.8232407249357578,-6.477250167378429
+[21:14:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA has made the advancement [Knowledge of Death]
+[21:14:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA has reached the goal [Strong or Careful]
+[21:14:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA was fireballed by Crimson Cleric
+[21:14:48] [Server thread/INFO] [tombstone]: The last known grave of MACHUCA is at location [name:Last Grave, x:-862, y:64, z:615] in the dimension 0
+[21:14:48] [Server thread/INFO] [tombstone]: MACHUCA has successfully been saved
+[21:15:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA lost connection: Timed out
+[21:15:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA left the game
+[21:15:08] [Server thread/WARN] [twilightforest]: Dropping inventory items previously held in reserve for player MACHUCA
