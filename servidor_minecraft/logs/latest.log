@@ -826,3 +826,13 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [21:41:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -448.5, 138.0, 993.5]
 [21:48:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leandreke lost connection: Disconnected
 [21:48:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke left the game
+[21:48:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[21:48:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[21:48:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[21:48:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[21:48:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[21:48:47] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 0
+[21:48:47] [Server thread/INFO] [FML]: Unloading dimension 0
+[21:48:47] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[21:48:47] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[21:48:47] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
