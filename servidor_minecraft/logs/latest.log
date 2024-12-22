@@ -599,3 +599,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16:06:59] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [9, 89] in dimension 0 (overworld) while populating chunk [8, 89], causing cascading worldgen lag.
 [16:06:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [16:11:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke has made the advancement [Not Today, Thank You]
+[16:15:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke has made the advancement [Magic Writing]
+[16:17:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -458.5, 120.0, 975.5]
+[16:17:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:hippotang that already exists with UUID baf1c636-b3c8-43e4-91d9-a1a65ce82bfb
+[16:17:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:bass that already exists with UUID fb2fbc22-fc46-4a63-b26d-138895b90cfc
+[16:17:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:ant that already exists with UUID 55178dc2-42af-481c-83d0-9b069f387f43
+[16:17:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:wildhorse that already exists with UUID 6a48a8b0-dddf-4ff5-ae85-4ff304ddc226
+[16:17:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 4d801608-874d-49a7-b3b3-b10e7e64b410
+[16:17:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID b4074a54-3d21-4b5a-a529-82ea1ae9b315
+[16:19:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -481.5, 126.0, 983.5]
+[16:19:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -436.5, 126.0, 983.5]
+[16:20:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -458.5, 120.0, 975.5]
