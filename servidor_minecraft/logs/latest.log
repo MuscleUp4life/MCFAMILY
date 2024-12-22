@@ -563,3 +563,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15:40:44] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:wildhorse that already exists with UUID 6a48a8b0-dddf-4ff5-ae85-4ff304ddc226
 [15:40:44] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 4d801608-874d-49a7-b3b3-b10e7e64b410
 [15:40:44] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID b4074a54-3d21-4b5a-a529-82ea1ae9b315
+[15:45:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -458.5, 111.0, 961.5]
+[15:47:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Given [Stone] * 1 to Leandreke]
+[15:49:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -464.5, 111.0, 1001.5]
+[15:51:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -458.5, 120.0, 975.5]
+[15:51:16] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID b4074a54-3d21-4b5a-a529-82ea1ae9b315
