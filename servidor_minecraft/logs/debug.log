@@ -25694,3 +25694,251 @@ io.netty.handler.timeout.ReadTimeoutException: null
 
 [20:57:26] [Server thread/DEBUG] [FML]: The world 4e732994 (world) may have leaked: seen 235 times.
 
+[20:58:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:58:16] [Server thread/DEBUG] [FML]: The world 3d008b9b (world) may have leaked: seen 240 times.
+
+[20:58:16] [Server thread/DEBUG] [FML]: The world 69778762 (world) may have leaked: seen 240 times.
+
+[20:58:16] [Server thread/DEBUG] [FML]: The world 4a1a3a6e (world) may have leaked: seen 240 times.
+
+[20:58:16] [Server thread/DEBUG] [FML]: The world 54472164 (world) may have leaked: seen 240 times.
+
+[20:58:16] [Server thread/DEBUG] [FML]: The world 4e732994 (world) may have leaked: seen 240 times.
+
+[20:58:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:59:06] [Server thread/DEBUG] [FML]: The world 3d008b9b (world) may have leaked: seen 245 times.
+
+[20:59:06] [Server thread/DEBUG] [FML]: The world 69778762 (world) may have leaked: seen 245 times.
+
+[20:59:06] [Server thread/DEBUG] [FML]: The world 4a1a3a6e (world) may have leaked: seen 245 times.
+
+[20:59:06] [Server thread/DEBUG] [FML]: The world 54472164 (world) may have leaked: seen 245 times.
+
+[20:59:06] [Server thread/DEBUG] [FML]: The world 4e732994 (world) may have leaked: seen 245 times.
+
+[20:59:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:59:56] [Server thread/DEBUG] [FML]: The world 3d008b9b (world) may have leaked: seen 250 times.
+
+[20:59:56] [Server thread/DEBUG] [FML]: The world 69778762 (world) may have leaked: seen 250 times.
+
+[20:59:56] [Server thread/DEBUG] [FML]: The world 4a1a3a6e (world) may have leaked: seen 250 times.
+
+[20:59:56] [Server thread/DEBUG] [FML]: The world 54472164 (world) may have leaked: seen 250 times.
+
+[20:59:56] [Server thread/DEBUG] [FML]: The world 4e732994 (world) may have leaked: seen 250 times.
+
+[21:00:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:00:46] [Server thread/DEBUG] [FML]: The world 3d008b9b (world) may have leaked: seen 255 times.
+
+[21:00:46] [Server thread/DEBUG] [FML]: The world 69778762 (world) may have leaked: seen 255 times.
+
+[21:00:46] [Server thread/DEBUG] [FML]: The world 4a1a3a6e (world) may have leaked: seen 255 times.
+
+[21:00:46] [Server thread/DEBUG] [FML]: The world 54472164 (world) may have leaked: seen 255 times.
+
+[21:00:46] [Server thread/DEBUG] [FML]: The world 4e732994 (world) may have leaked: seen 255 times.
+
+[21:01:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:01:36] [Server thread/DEBUG] [FML]: The world 3d008b9b (world) may have leaked: seen 260 times.
+
+[21:01:36] [Server thread/DEBUG] [FML]: The world 69778762 (world) may have leaked: seen 260 times.
+
+[21:01:36] [Server thread/DEBUG] [FML]: The world 4a1a3a6e (world) may have leaked: seen 260 times.
+
+[21:01:36] [Server thread/DEBUG] [FML]: The world 54472164 (world) may have leaked: seen 260 times.
+
+[21:01:36] [Server thread/DEBUG] [FML]: The world 4e732994 (world) may have leaked: seen 260 times.
+
+[21:01:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:02:26] [Server thread/DEBUG] [FML]: The world 3d008b9b (world) may have leaked: seen 265 times.
+
+[21:02:26] [Server thread/DEBUG] [FML]: The world 69778762 (world) may have leaked: seen 265 times.
+
+[21:02:26] [Server thread/DEBUG] [FML]: The world 4a1a3a6e (world) may have leaked: seen 265 times.
+
+[21:02:26] [Server thread/DEBUG] [FML]: The world 54472164 (world) may have leaked: seen 265 times.
+
+[21:02:26] [Server thread/DEBUG] [FML]: The world 4e732994 (world) may have leaked: seen 265 times.
+
+[21:02:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:03:16] [Server thread/DEBUG] [FML]: The world 3d008b9b (world) may have leaked: seen 270 times.
+
+[21:03:16] [Server thread/DEBUG] [FML]: The world 69778762 (world) may have leaked: seen 270 times.
+
+[21:03:16] [Server thread/DEBUG] [FML]: The world 4a1a3a6e (world) may have leaked: seen 270 times.
+
+[21:03:16] [Server thread/DEBUG] [FML]: The world 54472164 (world) may have leaked: seen 270 times.
+
+[21:03:16] [Server thread/DEBUG] [FML]: The world 4e732994 (world) may have leaked: seen 270 times.
+
+[21:03:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:03:50] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[21:03:50] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[21:03:50] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[21:03:50] [Server thread/DEBUG] [bettercaves]: CAVE INFORMATION
+[21:03:50] [Server thread/DEBUG] [bettercaves]: --> MAX POSSIBLE THRESHOLD: 1.0
+[21:03:50] [Server thread/DEBUG] [bettercaves]: --> TOTAL PRIORITY: 15
+[21:03:50] [Server thread/DEBUG] [bettercaves]: --> TOTAL RANGE LENGTH: 2.0
+[21:03:50] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[21:03:50] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [-1.00, 0.33] (0.7890%) -- smooth cutoffs: [-0.29, 0.05]
+[21:03:50] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[21:03:50] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [0.33, 1.00] (0.2110%) -- smooth cutoffs: [0.42, 0.56]
+[21:03:50] [Server thread/DEBUG] [bettercaves]: CAVERN INFORMATION
+[21:03:50] [Server thread/DEBUG] [bettercaves]: --> SPAWN CHANCE SET TO: 0.25
+[21:03:50] [Server thread/DEBUG] [bettercaves]: --> TOTAL PRIORITY: 20
+[21:03:50] [Server thread/DEBUG] [bettercaves]: --> DEADZONE PERCENT: 0.75(0.75 TOTAL)
+[21:03:50] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[21:03:50] [Server thread/DEBUG] [bettercaves]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[21:03:50] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [-1.00, -0.45] (0.1272%) -- smooth cutoffs: [-0.61, -0.52]
+[21:03:50] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[21:03:50] [Server thread/DEBUG] [bettercaves]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[21:03:50] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [0.46, 0.76] (0.1260%) -- smooth cutoffs: [0.53, 0.62]
+[21:03:50] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[21:03:50] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[21:03:50] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[21:04:00] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[21:04:00] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[21:04:00] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[21:04:00] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
+[21:04:00] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest5 found
+[21:04:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:04:06] [Server thread/DEBUG] [FML]: The world 3d008b9b (world) may have leaked: seen 275 times.
+
+[21:04:06] [Server thread/DEBUG] [FML]: The world 69778762 (world) may have leaked: seen 275 times.
+
+[21:04:06] [Server thread/DEBUG] [FML]: The world 4a1a3a6e (world) may have leaked: seen 275 times.
+
+[21:04:06] [Server thread/DEBUG] [FML]: The world 54472164 (world) may have leaked: seen 275 times.
+
+[21:04:06] [Server thread/DEBUG] [FML]: The world 4e732994 (world) may have leaked: seen 275 times.
+
+[21:04:27] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [-38, 27] in dimension 0 (overworld) while populating chunk [-39, 27], causing cascading worldgen lag.
+[21:04:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:04:35] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[21:04:35] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[21:04:35] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[21:04:38] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[21:04:38] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[21:04:38] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[21:04:38] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
+[21:04:38] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest5 found
+[21:04:40] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [-50, 24] in dimension 0 (overworld) while populating chunk [-50, 25], causing cascading worldgen lag.
+[21:04:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:04:41] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[21:04:41] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[21:04:41] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[21:04:41] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
+[21:04:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:04:51] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[21:04:51] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[21:04:51] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[21:04:51] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
+[21:04:56] [Server thread/DEBUG] [FML]: The world 3d008b9b (world) may have leaked: seen 280 times.
+
+[21:04:56] [Server thread/DEBUG] [FML]: The world 69778762 (world) may have leaked: seen 280 times.
+
+[21:04:56] [Server thread/DEBUG] [FML]: The world 4a1a3a6e (world) may have leaked: seen 280 times.
+
+[21:04:56] [Server thread/DEBUG] [FML]: The world 54472164 (world) may have leaked: seen 280 times.
+
+[21:04:56] [Server thread/DEBUG] [FML]: The world 4e732994 (world) may have leaked: seen 280 times.
+
+[21:05:10] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[21:05:10] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[21:05:10] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[21:05:10] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[21:05:10] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[21:05:10] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[21:05:10] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
+[21:05:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved too quickly! -5.017625137537834,0.5061351021062137,8.84190175035053
+[21:05:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved too quickly! -7.902035396203928,0.8322033533667508,6.175821294584466
+[21:05:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:05:35] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[21:05:35] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[21:05:35] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[21:05:42] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[21:05:42] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[21:05:42] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[21:05:42] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
+[21:05:43] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [-63, 20] in dimension 0 (overworld) while populating chunk [-64, 20], causing cascading worldgen lag.
+[21:05:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:05:46] [Server thread/DEBUG] [FML]: The world 3d008b9b (world) may have leaked: seen 285 times.
+
+[21:05:46] [Server thread/DEBUG] [FML]: The world 69778762 (world) may have leaked: seen 285 times.
+
+[21:05:46] [Server thread/DEBUG] [FML]: The world 4a1a3a6e (world) may have leaked: seen 285 times.
+
+[21:05:46] [Server thread/DEBUG] [FML]: The world 54472164 (world) may have leaked: seen 285 times.
+
+[21:05:46] [Server thread/DEBUG] [FML]: The world 4e732994 (world) may have leaked: seen 285 times.
+
+[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [] Village has no Token
+[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Village ADDED - [VYZ]   5a739a18-74e6-43bd-b1bd-98bdce4ab032
+[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure TOWNHALL [BlockPos{x=-991, y=85, z=322}]
+[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Binding Structure Marker to village - BlockPos{x=-964, y=85, z=323}
+[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME2 [BlockPos{x=-963, y=84, z=322}]
+[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Binding Structure Marker to village - BlockPos{x=-962, y=90, z=325}
+[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME2 [BlockPos{x=-963, y=89, z=326}]
+[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Binding Structure Marker to village - BlockPos{x=-946, y=80, z=323}
+[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME6 [BlockPos{x=-945, y=79, z=322}]
+[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Binding Structure Marker to village - BlockPos{x=-956, y=84, z=323}
+[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME2 [BlockPos{x=-955, y=83, z=322}]
+[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Binding Structure Marker to village - BlockPos{x=-953, y=89, z=325}
+[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME2 [BlockPos{x=-954, y=88, z=326}]
+[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Binding Structure Marker to village - BlockPos{x=-943, y=88, z=325}
+[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME6 [BlockPos{x=-944, y=87, z=326}]
+[21:05:49] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[21:05:49] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[21:05:49] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[21:05:49] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
+[21:05:49] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [-60, 17] in dimension 0 (overworld) while populating chunk [-59, 17], causing cascading worldgen lag.
+[21:05:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:05:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Binding Structure Marker to village - BlockPos{x=-1009, y=100, z=345}
+[21:05:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME2 [BlockPos{x=-1010, y=99, z=344}]
+[21:05:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Binding Structure Marker to village - BlockPos{x=-1005, y=83, z=323}
+[21:05:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Storage Chest [BlockPos{x=-1004, y=82, z=318}]   Added    (1 total)
+[21:05:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure STORAGE [BlockPos{x=-1004, y=82, z=322}]
+[21:05:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Binding Structure Marker to village - BlockPos{x=-1003, y=90, z=325}
+[21:05:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME2 [BlockPos{x=-1004, y=89, z=326}]
+[21:05:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Binding Structure Marker to village - BlockPos{x=-934, y=74, z=290}
+[21:05:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME2 [BlockPos{x=-933, y=73, z=291}]
+[21:05:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Binding Structure Marker to village - BlockPos{x=-934, y=76, z=308}
+[21:05:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME2 [BlockPos{x=-933, y=75, z=309}]
+[21:05:49] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[21:05:49] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[21:05:49] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[21:05:49] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
+[21:05:49] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest5 found
+[21:05:50] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[21:05:50] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[21:05:50] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[21:05:50] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
+[21:05:50] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[21:05:50] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[21:05:50] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[21:06:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved too quickly! -2.7220142559800706,0.45546773958501774,-9.819790316185163
+[21:06:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:06:36] [Server thread/DEBUG] [FML]: The world 3d008b9b (world) may have leaked: seen 290 times.
+
+[21:06:36] [Server thread/DEBUG] [FML]: The world 69778762 (world) may have leaked: seen 290 times.
+
+[21:06:36] [Server thread/DEBUG] [FML]: The world 4a1a3a6e (world) may have leaked: seen 290 times.
+
+[21:06:36] [Server thread/DEBUG] [FML]: The world 54472164 (world) may have leaked: seen 290 times.
+
+[21:06:36] [Server thread/DEBUG] [FML]: The world 4e732994 (world) may have leaked: seen 290 times.
+
+[21:07:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:07:26] [Server thread/DEBUG] [FML]: The world 3d008b9b (world) may have leaked: seen 295 times.
+
+[21:07:26] [Server thread/DEBUG] [FML]: The world 69778762 (world) may have leaked: seen 295 times.
+
+[21:07:26] [Server thread/DEBUG] [FML]: The world 4a1a3a6e (world) may have leaked: seen 295 times.
+
+[21:07:26] [Server thread/DEBUG] [FML]: The world 54472164 (world) may have leaked: seen 295 times.
+
+[21:07:26] [Server thread/DEBUG] [FML]: The world 4e732994 (world) may have leaked: seen 295 times.
+
+[21:07:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA has made the advancement [Ice Bucket Challenge]
+[21:07:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA has made the advancement [Diamonds!]
+[21:07:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

@@ -645,3 +645,99 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [20:54:47] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID b4074a54-3d21-4b5a-a529-82ea1ae9b315
 [20:55:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved too quickly! 8.150312616432018,3.203264399331289,-5.244012076228046
 [20:56:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved too quickly! 6.596747003413668,-2.252203340253729,-7.422704820709441
+[21:03:50] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[21:03:50] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[21:03:50] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[21:03:50] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[21:03:50] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[21:03:50] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[21:04:00] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[21:04:00] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[21:04:00] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[21:04:00] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
+[21:04:00] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest5 found
+[21:04:27] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [-38, 27] in dimension 0 (overworld) while populating chunk [-39, 27], causing cascading worldgen lag.
+[21:04:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:04:35] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[21:04:35] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[21:04:35] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[21:04:38] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[21:04:38] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[21:04:38] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[21:04:38] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
+[21:04:38] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest5 found
+[21:04:40] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [-50, 24] in dimension 0 (overworld) while populating chunk [-50, 25], causing cascading worldgen lag.
+[21:04:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:04:41] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[21:04:41] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[21:04:41] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[21:04:41] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
+[21:04:51] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[21:04:51] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[21:04:51] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[21:04:51] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
+[21:05:10] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[21:05:10] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[21:05:10] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[21:05:10] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[21:05:10] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[21:05:10] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[21:05:10] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
+[21:05:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved too quickly! -5.017625137537834,0.5061351021062137,8.84190175035053
+[21:05:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved too quickly! -7.902035396203928,0.8322033533667508,6.175821294584466
+[21:05:35] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[21:05:35] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[21:05:35] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[21:05:42] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[21:05:42] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[21:05:42] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[21:05:42] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
+[21:05:43] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [-63, 20] in dimension 0 (overworld) while populating chunk [-64, 20], causing cascading worldgen lag.
+[21:05:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [] Village has no Token
+[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Village ADDED - [VYZ]   5a739a18-74e6-43bd-b1bd-98bdce4ab032
+[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure TOWNHALL [BlockPos{x=-991, y=85, z=322}]
+[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Binding Structure Marker to village - BlockPos{x=-964, y=85, z=323}
+[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME2 [BlockPos{x=-963, y=84, z=322}]
+[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Binding Structure Marker to village - BlockPos{x=-962, y=90, z=325}
+[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME2 [BlockPos{x=-963, y=89, z=326}]
+[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Binding Structure Marker to village - BlockPos{x=-946, y=80, z=323}
+[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME6 [BlockPos{x=-945, y=79, z=322}]
+[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Binding Structure Marker to village - BlockPos{x=-956, y=84, z=323}
+[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME2 [BlockPos{x=-955, y=83, z=322}]
+[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Binding Structure Marker to village - BlockPos{x=-953, y=89, z=325}
+[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME2 [BlockPos{x=-954, y=88, z=326}]
+[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Binding Structure Marker to village - BlockPos{x=-943, y=88, z=325}
+[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME6 [BlockPos{x=-944, y=87, z=326}]
+[21:05:49] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[21:05:49] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[21:05:49] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[21:05:49] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
+[21:05:49] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [-60, 17] in dimension 0 (overworld) while populating chunk [-59, 17], causing cascading worldgen lag.
+[21:05:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:05:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Binding Structure Marker to village - BlockPos{x=-1009, y=100, z=345}
+[21:05:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME2 [BlockPos{x=-1010, y=99, z=344}]
+[21:05:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Binding Structure Marker to village - BlockPos{x=-1005, y=83, z=323}
+[21:05:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Storage Chest [BlockPos{x=-1004, y=82, z=318}]   Added    (1 total)
+[21:05:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure STORAGE [BlockPos{x=-1004, y=82, z=322}]
+[21:05:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Binding Structure Marker to village - BlockPos{x=-1003, y=90, z=325}
+[21:05:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME2 [BlockPos{x=-1004, y=89, z=326}]
+[21:05:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Binding Structure Marker to village - BlockPos{x=-934, y=74, z=290}
+[21:05:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME2 [BlockPos{x=-933, y=73, z=291}]
+[21:05:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Binding Structure Marker to village - BlockPos{x=-934, y=76, z=308}
+[21:05:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME2 [BlockPos{x=-933, y=75, z=309}]
+[21:05:49] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[21:05:49] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[21:05:49] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[21:05:49] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
+[21:05:49] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest5 found
+[21:05:50] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[21:05:50] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[21:05:50] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[21:05:50] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
+[21:05:50] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
+[21:05:50] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
+[21:05:50] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
+[21:06:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved too quickly! -2.7220142559800706,0.45546773958501774,-9.819790316185163
+[21:07:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA has made the advancement [Ice Bucket Challenge]
+[21:07:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA has made the advancement [Diamonds!]
