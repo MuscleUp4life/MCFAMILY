@@ -610,3 +610,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16:19:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -481.5, 126.0, 983.5]
 [16:19:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -436.5, 126.0, 983.5]
 [16:20:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -458.5, 120.0, 975.5]
+[16:27:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leandreke lost connection: Disconnected
+[16:27:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke left the game
+[16:28:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[16:28:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[16:28:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[16:28:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[16:28:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[16:28:02] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 0
+[16:28:02] [Server thread/INFO] [FML]: Unloading dimension 0
+[16:28:02] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[16:28:02] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[16:28:02] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
