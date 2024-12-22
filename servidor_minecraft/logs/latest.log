@@ -525,3 +525,23 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15:12:19] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 4d801608-874d-49a7-b3b3-b10e7e64b410
 [15:12:19] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID b4074a54-3d21-4b5a-a529-82ea1ae9b315
 [15:13:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Changing to clear weather]
+[15:22:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -288.5, 66.0, 1119.5]
+[15:23:22] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID b4074a54-3d21-4b5a-a529-82ea1ae9b315
+[15:25:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -458.5, 120.0, 975.5]
+[15:25:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:bass that already exists with UUID fb2fbc22-fc46-4a63-b26d-138895b90cfc
+[15:25:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:hippotang that already exists with UUID baf1c636-b3c8-43e4-91d9-a1a65ce82bfb
+[15:25:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:wildhorse that already exists with UUID 6a48a8b0-dddf-4ff5-ae85-4ff304ddc226
+[15:25:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:ant that already exists with UUID 55178dc2-42af-481c-83d0-9b069f387f43
+[15:25:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 4d801608-874d-49a7-b3b3-b10e7e64b410
+[15:25:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID b4074a54-3d21-4b5a-a529-82ea1ae9b315
+[15:26:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Changing to clear weather]
+[15:26:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -450.5, 133.0, 975.5]
+[15:27:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -482.5, 126.0, 983.5]
+[15:29:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -15.5, 71.0, 1042.5]
+[15:30:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -458.5, 120.0, 975.5]
+[15:30:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:hippotang that already exists with UUID baf1c636-b3c8-43e4-91d9-a1a65ce82bfb
+[15:30:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:bass that already exists with UUID fb2fbc22-fc46-4a63-b26d-138895b90cfc
+[15:30:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:wildhorse that already exists with UUID 6a48a8b0-dddf-4ff5-ae85-4ff304ddc226
+[15:30:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:ant that already exists with UUID 55178dc2-42af-481c-83d0-9b069f387f43
+[15:30:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 4d801608-874d-49a7-b3b3-b10e7e64b410
+[15:30:16] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID b4074a54-3d21-4b5a-a529-82ea1ae9b315
