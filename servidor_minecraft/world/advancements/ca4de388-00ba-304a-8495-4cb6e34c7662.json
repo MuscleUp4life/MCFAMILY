@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-22 20:48:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-21 03:40:20 +0000"
@@ -215,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-22 20:46:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2024-12-21 03:24:48 +0000"
@@ -242,6 +254,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-22 20:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-22 20:48:14 +0000"
     },
     "done": true
   },
@@ -299,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-22 20:46:02 +0000"
+    },
+    "done": true
+  },
   "aether_legacy:recipes/combat/leather_gloves": {
     "criteria": {
       "has_leather": "2024-12-21 03:27:21 +0000"
@@ -327,8 +351,10 @@
     "criteria": {
       "cooked_porkchop": "2024-12-21 03:54:11 +0000",
       "cooked_mutton": "2024-12-21 03:31:03 +0000",
+      "cooked_beef": "2024-12-22 20:44:16 +0000",
       "beef": "2024-12-22 20:24:38 +0000",
-      "potato": "2024-12-21 03:51:32 +0000"
+      "potato": "2024-12-21 03:51:32 +0000",
+      "mutton": "2024-12-22 20:39:18 +0000"
     },
     "done": false
   },
@@ -401,6 +427,12 @@
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-21 03:33:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-22 20:40:00 +0000"
     },
     "done": true
   },
@@ -488,6 +520,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-22 20:48:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "vindicator": "2024-12-21 03:35:55 +0000"
@@ -525,6 +563,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-22 20:48:14 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_grave_dust": {
     "criteria": {
       "has_ingredient": "2024-12-22 20:23:36 +0000"
@@ -534,6 +578,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-21 03:23:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-22 20:48:14 +0000"
     },
     "done": true
   },
@@ -737,6 +787,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2024-12-21 03:39:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-22 20:48:14 +0000"
     },
     "done": true
   },
