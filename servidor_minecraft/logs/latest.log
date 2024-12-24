@@ -1,18 +1,18 @@
-[20:17:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[20:17:38] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[20:17:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[20:17:38] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[20:17:38] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[20:17:39] [main/INFO] [FML]: Searching /workspaces/MCFAMILY/servidor_minecraft/./mods for mods
-[20:17:39] [main/INFO] [FML]: Searching /workspaces/MCFAMILY/servidor_minecraft/./mods/1.12.2 for mods
-[20:17:39] [main/INFO] [FML]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.4.8.jar
-[20:17:39] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from malisiscore-1.12.2-6.5.1.jar
-[20:17:39] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from The-Hordes-1.12.2-1.5.3a.jar
-[20:17:39] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from WolfArmorAndStorage-3.8.1+1.12.2.alpha.1-SNAPSHOT-signed.jar
-[20:17:39] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[20:17:39] [main/INFO] [LaunchWrapper]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
-[20:17:39] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[20:17:39] [main/ERROR] [mixin]: Catching
+[02:03:20] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[02:03:20] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[02:03:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[02:03:20] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[02:03:20] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[02:03:21] [main/INFO] [FML]: Searching /workspaces/MCFAMILY/servidor_minecraft/./mods for mods
+[02:03:21] [main/INFO] [FML]: Searching /workspaces/MCFAMILY/servidor_minecraft/./mods/1.12.2 for mods
+[02:03:21] [main/INFO] [FML]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.4.8.jar
+[02:03:21] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from malisiscore-1.12.2-6.5.1.jar
+[02:03:21] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from The-Hordes-1.12.2-1.5.3a.jar
+[02:03:21] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from WolfArmorAndStorage-3.8.1+1.12.2.alpha.1-SNAPSHOT-signed.jar
+[02:03:21] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[02:03:21] [main/INFO] [LaunchWrapper]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
+[02:03:21] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[02:03:21] [main/ERROR] [mixin]: Catching
 org.spongepowered.asm.service.ServiceInitialisationException: ModLauncher is not available
 	at org.spongepowered.asm.service.modlauncher.MixinServiceModLauncherBootstrap.bootstrap(MixinServiceModLauncherBootstrap.java:52) ~[The-Hordes-1.12.2-1.5.3a.jar:1.12.2-1.5.3a]
 	at org.spongepowered.asm.service.MixinService.runBootServices(MixinService.java:79) [malisiscore-1.12.2-6.5.1.jar:1.12.2-6.5.1-SNAPSHOT]
@@ -34,396 +34,390 @@ org.spongepowered.asm.service.ServiceInitialisationException: ModLauncher is not
 	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:70) [forge-1.12.2-14.23.5.2860.jar:?]
 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:34) [forge-1.12.2-14.23.5.2860.jar:?]
-[20:17:39] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.7.11 Source=file:/workspaces/MCFAMILY/servidor_minecraft/./mods/malisiscore-1.12.2-6.5.1.jar Service=LaunchWrapper Env=SERVER
-[20:17:39] [main/WARN] [FML]: The coremod net.malisis.core.asm.MalisisCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[20:17:39] [main/WARN] [FML]: The coremod MalisisCorePlugin (net.malisis.core.asm.MalisisCorePlugin) is not signed!
-[20:17:39] [main/INFO] [mixin]: Compatibility level set to JAVA_8
-[20:17:39] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[20:17:39] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[20:17:39] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[20:17:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[20:17:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[20:17:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[20:17:40] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[20:17:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[20:17:40] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
-[20:17:40] [main/ERROR] [mixin]: Mixin config mixins.hordes.json does not specify "minVersion" property
-[20:17:40] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@61533ae
-[20:17:40] [main/INFO] [LaunchWrapper]: Calling tweak class guichaguri.betterfps.tweaker.BetterFpsTweaker
-[20:17:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[20:17:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[20:17:41] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[20:17:41] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[20:17:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[20:17:41] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[20:17:41] [main/INFO] [BetterFps]: Patching net.minecraft.block.Block... (aow)
-[20:17:41] [main/INFO] [mixin]: A re-entrant transformer 'guichaguri.betterfps.transformers.PatcherTransformer' was detected and will no longer process meta class data
-[20:17:42] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[20:17:42] [main/INFO] [BetterFps]: Patching net.minecraft.block.Block... (aow)
-[20:17:42] [main/INFO] [BetterFps]: Patching math utils with "RIVENS_HALF" algorithm
-[20:17:43] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityBeacon... (avh)
-[20:17:43] [main/INFO] [BetterFps]: Patching net.minecraft.block.BlockHopper... (arl)
-[20:17:43] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityHopper... (avw)
-[20:17:44] [main/INFO] [BetterFps]: Patching math utils with "RIVENS_HALF" algorithm
-[20:17:44] [main/INFO] [BetterFps]: Patching net.minecraft.server.dedicated.DedicatedServer... (nz)
-[20:17:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[20:17:45] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[20:17:45] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[20:17:45] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[20:17:45] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[20:17:45] [Server thread/INFO] [FML]: Searching /workspaces/MCFAMILY/servidor_minecraft/./mods for mods
-[20:17:45] [Server thread/INFO] [FML]: Searching /workspaces/MCFAMILY/servidor_minecraft/./mods/1.12.2 for mods
-[20:17:46] [Server thread/ERROR] [FML]: Unable to parse dependency for mod 'animalium' with dependency string 'after:BiomesOPlenty'. The modId 'BiomesOPlenty' must be all lowercase.
-[20:17:47] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
-[20:17:47] [Server thread/INFO] [FML]: Forge Mod Loader has identified 49 mods to load
-[20:17:47] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[20:17:47] [Server thread/WARN] [FML]: Missing English translation for appleskin: assets/appleskin/lang/en_us.lang
-[20:17:47] [Server thread/WARN] [FML]: Missing English translation for bettercaves: assets/bettercaves/lang/en_us.lang
-[20:17:47] [Server thread/WARN] [FML]: Missing English translation for buildcraftbuilders: assets/buildcraftbuilders/lang/en_us.lang
-[20:17:47] [Server thread/WARN] [FML]: Missing English translation for buildcraftcore: assets/buildcraftcore/lang/en_us.lang
-[20:17:47] [Server thread/WARN] [FML]: Missing English translation for buildcraftenergy: assets/buildcraftenergy/lang/en_us.lang
-[20:17:47] [Server thread/WARN] [FML]: Missing English translation for buildcraftfactory: assets/buildcraftfactory/lang/en_us.lang
-[20:17:47] [Server thread/WARN] [FML]: Missing English translation for buildcraftrobotics: assets/buildcraftrobotics/lang/en_us.lang
-[20:17:47] [Server thread/WARN] [FML]: Missing English translation for buildcraftsilicon: assets/buildcraftsilicon/lang/en_us.lang
-[20:17:47] [Server thread/WARN] [FML]: Missing English translation for buildcrafttransport: assets/buildcrafttransport/lang/en_us.lang
-[20:17:47] [Server thread/WARN] [FML]: Missing English translation for cat: assets/cat/lang/en_us.lang
-[20:17:47] [Server thread/WARN] [FML]: Missing English translation for clumps: assets/clumps/lang/en_us.lang
-[20:17:47] [Server thread/WARN] [FML]: Missing English translation for craftstudioapi: assets/craftstudioapi/lang/en_us.lang
-[20:17:47] [Server thread/WARN] [FML]: Missing English translation for customspawner: assets/customspawner/lang/en_us.lang
-[20:17:47] [Server thread/WARN] [FML]: Missing English translation for geographicraft: assets/geographicraft/lang/en_us.lang
-[20:17:47] [Server thread/WARN] [FML]: Missing English translation for ic2: assets/ic2/lang/en_us.lang
-[20:17:48] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, aether_legacy, animalium, appleskin, atlaslib, baubles, bettercaves, biometweaker, bloodmagic, buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, cat, chococraft, clumps, craftstudioapi, customspawner, mocreatures, dynamictrees, geographicraft, guideapi, ic2, infernalmobs, ironchest, jei, malisiscore, malisisdoors, mowziesmobs, mutantbeasts, additionalstructures, tektopia, thaumcraft, hordes, tombstone, travelersbackpack, twilightforest, varodd, wolfarmor, rtg, llibrary] at CLIENT
-[20:17:48] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, aether_legacy, animalium, appleskin, atlaslib, baubles, bettercaves, biometweaker, bloodmagic, buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, cat, chococraft, clumps, craftstudioapi, customspawner, mocreatures, dynamictrees, geographicraft, guideapi, ic2, infernalmobs, ironchest, jei, malisiscore, malisisdoors, mowziesmobs, mutantbeasts, additionalstructures, tektopia, thaumcraft, hordes, tombstone, travelersbackpack, twilightforest, varodd, wolfarmor, rtg, llibrary] at SERVER
-[20:17:50] [Server thread/INFO] [Various Oddities]: Registered 30 entity loot tables.
-[20:17:50] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[20:17:50] [Server thread/INFO] [FML]: Found 2237 ObjectHolder annotations
-[20:17:50] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[20:17:50] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[20:17:50] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[20:17:50] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[20:17:51] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
-[20:17:51] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[20:17:51] [Server thread/INFO] [hordes]: Trying to load config
-[20:17:51] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[20:17:51] [Forge Version Check/INFO] [forge.VersionCheck]: [tektopia] Starting version check at https://raw.githubusercontent.com/TangoTek/tektopia-public/master/update.json
-[20:17:51] [Forge Version Check/INFO] [forge.VersionCheck]: [tektopia] Found status: AHEAD Target: null
-[20:17:51] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[20:17:51] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Found status: UP_TO_DATE Target: null
-[20:17:51] [Forge Version Check/INFO] [forge.VersionCheck]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
-[20:17:51] [Server thread/INFO] [biometweaker]: Beginning script parsing...
-[20:17:51] [Server thread/INFO] [biometweaker]: Finished script parsing.
-[20:17:51] [Forge Version Check/INFO] [forge.VersionCheck]: [dynamictrees] Found status: UP_TO_DATE Target: null
-[20:17:52] [Forge Version Check/INFO] [forge.VersionCheck]: [llibrary] Starting version check at https://gist.githubusercontent.com/Gegy/a6639456aeb8edd92cbf7cbfcf9d65d9/raw/llibrary_updates.json
-[20:17:52] [Forge Version Check/INFO] [forge.VersionCheck]: [llibrary] Found status: UP_TO_DATE Target: null
-[20:17:52] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftlib] Starting version check at https://mod-buildcraft.com/version/versions.json
-[20:17:52] [Server thread/INFO] [BuildCraft]: 
-[20:17:52] [Server thread/INFO] [BuildCraft]: Starting BuildCraft 7.99.24.8
-[20:17:52] [Server thread/INFO] [BuildCraft]: Copyright (c) the BuildCraft team, 2011-2018
-[20:17:52] [Server thread/INFO] [BuildCraft]: https://www.mod-buildcraft.com
-[20:17:52] [Server thread/INFO] [BuildCraft]: Detailed Build Information:
-[20:17:52] [Server thread/INFO] [BuildCraft]:   Branch HEAD
-[20:17:52] [Server thread/INFO] [BuildCraft]:   Commit 68370005a10488d02a4bb4b8df86bbc62633d216
-[20:17:52] [Server thread/INFO] [BuildCraft]:     Bump version for release relase, fix a java 13+ compile error, tweak changelog, and fix engines chaining one block more than they should have.
-[20:17:52] [Server thread/INFO] [BuildCraft]:     committed by AlexIIL
-[20:17:52] [Server thread/INFO] [BuildCraft]: 
-[20:17:52] [Server thread/INFO] [BuildCraft]: Loaded Modules:
-[20:17:52] [Server thread/INFO] [BuildCraft]:   - lib
-[20:17:52] [Server thread/INFO] [BuildCraft]:   - core
-[20:17:52] [Server thread/INFO] [BuildCraft]:   - builders
-[20:17:52] [Server thread/INFO] [BuildCraft]:   - energy
-[20:17:52] [Server thread/INFO] [BuildCraft]:   - factory
-[20:17:52] [Server thread/INFO] [BuildCraft]:   - robotics
-[20:17:52] [Server thread/INFO] [BuildCraft]:   - silicon
-[20:17:52] [Server thread/INFO] [BuildCraft]:   - transport
-[20:17:52] [Server thread/INFO] [BuildCraft]:   - compat
-[20:17:52] [Server thread/INFO] [BuildCraft]: Missing Modules:
-[20:17:52] [Server thread/INFO] [BuildCraft]: 
-[20:17:52] [Server thread/INFO] [BuildCraft]: [debugger] Not a dev environment!
-[20:17:52] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[20:17:52] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftlib] Found status: UP_TO_DATE Target: null
-[20:17:52] [Forge Version Check/INFO] [forge.VersionCheck]: [aether_legacy] Starting version check at https://raw.githubusercontent.com/Modding-Legacy/Aether-Legacy/master/aether-legacy-changelog.json
-[20:17:53] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcompat] Starting version check at https://mod-buildcraft.com/version/versions-compat.json
-[20:17:53] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcompat] Found status: AHEAD Target: null
-[20:17:53] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcore] Starting version check at https://mod-buildcraft.com/version/versions.json
-[20:17:53] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcore] Found status: UP_TO_DATE Target: null
-[20:17:53] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
-[20:17:53] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: AHEAD Target: null
-[20:17:53] [Forge Version Check/INFO] [forge.VersionCheck]: [craftstudioapi] Starting version check at https://leviathan-studio.com/craftstudioapi/update.json
-[20:17:58] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 352 out of 352 recipes for shaped recipes
-[20:17:58] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 79 out of 79 recipes for shapeless recipes
-[20:17:58] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 41 out of 41 recipes for solid uu recipes
-[20:17:58] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 27 out of 27 recipes for furnace recipes
-[20:17:58] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
-[20:17:58] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for block cutter recipes
-[20:17:58] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 51 out of 51 recipes for compressor recipes
-[20:17:58] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 12 out of 12 recipes for extractor recipes
-[20:17:58] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 74 out of 74 recipes for macerator recipes
-[20:17:58] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for metal former cutting recipes
-[20:17:58] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 10 out of 10 recipes for metal former extruding recipes
-[20:17:58] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
-[20:17:58] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 8 out of 8 recipes for ore washing recipes
-[20:17:58] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 26 out of 26 recipes for thermal centrifuge recipes
-[20:17:58] [Server thread/INFO] [BuildCraft]: 
-[20:17:58] [Server thread/INFO] [BuildCraft]: Starting BuildCraftCompat 7.99.24.8
-[20:17:58] [Server thread/INFO] [BuildCraft]: Copyright (c) the BuildCraft team, 2011-2017
-[20:17:58] [Server thread/INFO] [BuildCraft]: https://www.mod-buildcraft.com
-[20:17:58] [Server thread/INFO] [BuildCraft]: Detailed Build Information:
-[20:17:58] [Server thread/INFO] [BuildCraft]:   Branch 8.0.x-1.12.2
-[20:17:58] [Server thread/INFO] [BuildCraft]:   Commit 16adfdb3d6a3362ba3659be7d5e9b7d12af7eee5
-[20:17:58] [Server thread/INFO] [BuildCraft]:     Bump for release.
-[20:17:58] [Server thread/INFO] [BuildCraft]:     committed by AlexIIL
-[20:17:58] [Server thread/INFO] [BuildCraft]: 
-[20:17:58] [Server thread/INFO] [BuildCraft]: [compat] Module list:
-[20:17:58] [Server thread/INFO] [BuildCraft]: [compat]   x forestry (It cannot load)
-[20:17:58] [Server thread/INFO] [BuildCraft]: [compat]   x theoneprobe (It cannot load)
-[20:17:58] [Server thread/INFO] [BuildCraft]: [compat]   x crafttweaker (It cannot load)
-[20:17:58] [Server thread/INFO] [BuildCraft]: [compat]   + ic2
-[20:17:58] [Server thread/INFO] [STDOUT]: [com.ferreusveritas.dynamictrees.ModConfigs:preInit:112]: DynamicTrees BlackListed DimValue: 7
-[20:17:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `species_tile_entity`, expected `dynamictrees`. This could be a intended override, but in most cases indicates a broken mod.
-[20:17:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bonsai_tile_entity`, expected `dynamictrees`. This could be a intended override, but in most cases indicates a broken mod.
-[20:17:59] [Server thread/INFO] [malisiscore]: Registering CloseInventoryMessage for Packet with discriminator 1 in channel malisiscore
-[20:17:59] [Server thread/INFO] [malisiscore]: Registering InventoryActionMessage for Packet with discriminator 2 in channel malisiscore
-[20:17:59] [Server thread/INFO] [malisiscore]: Registering OpenInventoryMessage for Packet with discriminator 3 in channel malisiscore
-[20:17:59] [Server thread/INFO] [malisiscore]: Registering UpdateInventorySlotsMessage for Packet with discriminator 4 in channel malisiscore
-[20:17:59] [Server thread/INFO] [malisiscore]: Registering DirectMessage for Packet with discriminator 5 in channel malisiscore
-[20:17:59] [Server thread/INFO] [malisiscore]: Registering BlockDataMessage for Packet with discriminator 6 in channel malisiscore
-[20:17:59] [Server thread/INFO] [malisiscore]: Registering ChunkBlockMessage for Packet with discriminator 7 in channel malisiscore
-[20:17:59] [Server thread/INFO] [malisiscore]: Registering NeighborChangedMessage for Packet with discriminator 8 in channel malisiscore
-[20:17:59] [Server thread/INFO] [malisiscore]: Registering SyncerMessage for Packet with discriminator 9 in channel malisiscore
-[20:17:59] [Server thread/INFO] [malisiscore]: Registering DigicodeMessage for Packet with discriminator 1 in channel malisisdoors
-[20:17:59] [Server thread/INFO] [malisiscore]: Registering DoorFactoryMessage for Packet with discriminator 2 in channel malisisdoors
-[20:17:59] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `customdoortileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
-[20:17:59] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `saloondoortileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
-[20:17:59] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `verticalhatchtileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
-[20:17:59] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `garagedoortileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
-[20:17:59] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `door3x3`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
-[20:17:59] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bigdoortileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
-[20:17:59] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rustyhatchtileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
-[20:17:59] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `doorfactorytileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
-[20:17:59] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `forcefieldtileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
-[20:17:59] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `doortileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
-[20:17:59] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `trapdoortileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
-[20:17:59] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fencegatetileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
-[20:17:59] [Server thread/INFO] [STDOUT]: [xxrexraptorxx.additionalstructures.proxy.CommonProxy:preInit:34]: Mystcraft not found - integration not active
-[20:17:59] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.TekVillager:preInit:78]: TekTopia is loading!
-[20:17:59] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.ModEntities:init:58]: Registering Entities
-[20:18:00] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
-[20:18:00] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
-[20:18:00] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
-[20:18:00] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
-[20:18:00] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
-[20:18:00] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
-[20:18:00] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Baubles.
-[20:18:00] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Chisel.
-[20:18:00] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Forestry.
-[20:18:00] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
-[20:18:00] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Just Enough Items.
-[20:18:00] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Tinkers' Construct.
-[20:18:00] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Thaumcraft.
-[20:18:00] [Server thread/INFO] [wolfarmor]: Registered new provider SophisticatedWolvesProvider for mod sophisticatedwolves
-[20:18:00] [Server thread/INFO] [wolfarmor]: Registered new provider LetSleepingDogsLieProvider for mod dogslie
-[20:18:00] [Server thread/INFO] [wolfarmor]: Registered new provider WizardryProvider for mod ebwizardry
-[20:18:00] [Server thread/INFO] [wolfarmor]: Registered new provider MoBendsProvider for mod mobends
-[20:18:00] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:00] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:00] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:00] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:00] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:00] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:00] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:00] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:00] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:00] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:00] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:00] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:00] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:00] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:00] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:00] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.ModBlocks:register:28]: Registering Blocks
-[20:18:01] [Server thread/INFO] [FML]: Applying holder lookups
-[20:18:01] [Server thread/INFO] [FML]: Holder lookups applied
-[20:18:01] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.ModItems:register:150]: Registering Items
-[20:18:02] [Server thread/INFO] [FML]: Applying holder lookups
-[20:18:02] [Server thread/INFO] [FML]: Holder lookups applied
-[20:18:02] [Server thread/INFO] [mocreatures]: Registering entities...
-[20:18:02] [Server thread/INFO] [mocreatures]: Entity registration complete.
-[20:18:02] [Server thread/INFO] [FML]: Applying holder lookups
-[20:18:02] [Server thread/INFO] [FML]: Holder lookups applied
-[20:18:02] [Server thread/INFO] [FML]: Applying holder lookups
-[20:18:02] [Server thread/INFO] [FML]: Holder lookups applied
-[20:18:02] [Server thread/INFO] [FML]: Injecting itemstacks
-[20:18:02] [Server thread/INFO] [FML]: Itemstack injection complete
-[20:18:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[20:18:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[20:18:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[20:18:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[20:18:02] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[20:18:02] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:18:02] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[20:18:02] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:18:02] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:18:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `painted acacia slab`, expected `mowziesmobs`. This could be a intended override, but in most cases indicates a broken mod.
-[20:18:03] [Server thread/INFO] [THAUMCRAFT]: Checking for mod & oredict compatibilities
-[20:18:03] [Server thread/INFO] [THAUMCRAFT]: Adding entities to MFR safari net blacklist.
-[20:18:03] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_avoid_rat
-[20:18:03] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_attack_rat
-[20:18:03] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_avoid_piranha
-[20:18:03] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_attack_piranha
-[20:18:03] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_avoid_deer
-[20:18:03] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_attack_deer
-[20:18:03] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_avoid_wraith
-[20:18:03] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_attack_wraith
-[20:18:03] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_avoid_bunny
-[20:18:03] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_attack_bunny
-[20:18:03] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_avoid_firefly
-[20:18:03] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_attack_firefly
-[20:18:03] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_avoid_kobold
-[20:18:03] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_attack_kobold
-[20:18:03] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_avoid_troll
-[20:18:03] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_attack_troll
-[20:18:03] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_avoid_raven
-[20:18:03] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_attack_raven
-[20:18:03] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_avoid_scorpion
-[20:18:03] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_attack_scorpion
-[20:18:03] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_avoid_rat
-[20:18:03] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_attack_rat
-[20:18:03] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_avoid_crab
-[20:18:03] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_attack_crab
-[20:18:03] [Server thread/INFO] [Various Oddities]: Registered 522 potential egg inscriptions
-[20:18:03] [Server thread/INFO] [FML]: Applying holder lookups
-[20:18:03] [Server thread/INFO] [FML]: Holder lookups applied
-[20:18:04] [Server thread/INFO] [BuildCraft]: [energy.oilgen] Registered the ocean oil biome.
-[20:18:04] [Server thread/INFO] [BuildCraft]: [energy.oilgen] Registered the desert oil biome.
-[20:18:04] [Server thread/INFO] [BuildCraft]: [energy.oilgen] Registered the oil spout generator
-[20:18:04] [Server thread/INFO] [BuildCraft]: [energy.oilgen] Registered the oil biome initiializer
-[20:18:04] [Server thread/INFO] [infernalmobs]: InfernalMobsCore load() completed! Modifiers ready: 27, config file at: /workspaces/MCFAMILY/servidor_minecraft/config/infernalmobs.cfg
-[20:18:04] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekStructureVillagePieces:registerVillagePieces:27]: Registering Tek Village Structures
-[20:18:04] [Server thread/INFO] [FML]: Injecting itemstacks
-[20:18:04] [Server thread/INFO] [FML]: Itemstack injection complete
-[20:18:04] [Server thread/INFO] [hordes]: Loaded entity minecraft:zombie as class net.minecraft.entity.monster.EntityZombie with weight 35, min day 0 and max day 20
-[20:18:04] [Server thread/INFO] [hordes]: Loaded entity minecraft:zombie_villager as class net.minecraft.entity.monster.EntityZombieVillager with weight 1, min day 0 and max day 20
-[20:18:04] [Server thread/INFO] [hordes]: Loaded entity minecraft:zombie_horse as class net.minecraft.entity.passive.EntityZombieHorse with weight 3, min day 20 and max day 0
-[20:18:04] [Server thread/INFO] [hordes]: Loaded entity minecraft:husk as class net.minecraft.entity.monster.EntityHusk with weight 40, min day 20 and max day 0
-[20:18:04] [Server thread/INFO] [hordes]: loaded horde table hordes:default
-[20:18:04] [Server thread/INFO] [hordes]: Loaded entity minecraft:skeleton as class net.minecraft.entity.monster.EntitySkeleton with weight 10, min day 0 and max day 20
-[20:18:04] [Server thread/INFO] [hordes]: Loaded entity minecraft:skeleton as class net.minecraft.entity.monster.EntitySkeleton with weight 20, min day 0 and max day 30
-[20:18:04] [Server thread/INFO] [hordes]: Loaded entity minecraft:skeleton_horse as class net.minecraft.entity.passive.EntitySkeletonHorse with weight 5, min day 20 and max day 50
-[20:18:04] [Server thread/INFO] [hordes]: Loaded entity minecraft:stray as class net.minecraft.entity.monster.EntityStray with weight 10, min day 20 and max day 0
-[20:18:04] [Server thread/INFO] [hordes]: Loaded entity minecraft:wither_skeleton as class net.minecraft.entity.monster.EntityWitherSkeleton with weight 10, min day 40 and max day 0
-[20:18:04] [Server thread/INFO] [hordes]: Loaded entity minecraft:skeleton_horse as class net.minecraft.entity.passive.EntitySkeletonHorse with weight 5, min day 40 and max day 0
-[20:18:04] [Server thread/INFO] [hordes]: loaded horde table hordes:skeletons
-[20:18:04] [Server thread/INFO] [hordes]: Loaded entity minecraft:zombie as class net.minecraft.entity.monster.EntityZombie with weight 20, min day 0 and max day 20
-[20:18:04] [Server thread/INFO] [hordes]: Loaded entity minecraft:skeleton as class net.minecraft.entity.monster.EntitySkeleton with weight 10, min day 20 and max day 30
-[20:18:04] [Server thread/INFO] [hordes]: Loaded entity minecraft:spider as class net.minecraft.entity.monster.EntitySpider with weight 15, min day 20 and max day 30
-[20:18:04] [Server thread/INFO] [hordes]: Loaded entity minecraft:creeper as class net.minecraft.entity.monster.EntityCreeper with weight 5, min day 30 and max day 30
-[20:18:04] [Server thread/INFO] [hordes]: Loaded entity minecraft:husk as class net.minecraft.entity.monster.EntityHusk with weight 20, min day 30 and max day 50
-[20:18:04] [Server thread/INFO] [hordes]: Loaded entity minecraft:stray as class net.minecraft.entity.monster.EntityStray with weight 10, min day 40 and max day 50
-[20:18:04] [Server thread/INFO] [hordes]: Loaded entity minecraft:cave_spider as class net.minecraft.entity.monster.EntityCaveSpider with weight 10, min day 40 and max day 50
-[20:18:04] [Server thread/INFO] [hordes]: Loaded entity minecraft:witch as class net.minecraft.entity.monster.EntityWitch with weight 5, min day 40 and max day 50
-[20:18:04] [Server thread/INFO] [hordes]: Loaded entity minecraft:zombie_horse as class net.minecraft.entity.passive.EntityZombieHorse with weight 3, min day 40 and max day 0
-[20:18:04] [Server thread/INFO] [hordes]: Loaded entity minecraft:vindication_illager as class net.minecraft.entity.monster.EntityVindicator with weight 5, min day 50 and max day 0
-[20:18:04] [Server thread/INFO] [hordes]: Loaded entity minecraft:wither_skeleton as class net.minecraft.entity.monster.EntityWitherSkeleton with weight 10, min day 50 and max day 0
-[20:18:04] [Server thread/INFO] [hordes]: Loaded entity minecraft:cave_spider as class net.minecraft.entity.monster.EntityCaveSpider with weight 15, min day 60 and max day 0
-[20:18:04] [Server thread/INFO] [hordes]: Loaded entity minecraft:skeleton_horse as class net.minecraft.entity.passive.EntitySkeletonHorse with weight 3, min day 40 and max day 0
-[20:18:04] [Server thread/INFO] [hordes]: loaded horde table hordes:mixed_mobs
-[20:18:04] [Server thread/INFO] [hordes]: loaded horde script hordes:default
-[20:18:04] [Server thread/INFO] [hordes]: Loading infection cures
-[20:18:04] [Server thread/INFO] [hordes]: Loaded infection cure 1xitem.appleGold@32767
-[20:18:04] [Server thread/INFO] [hordes]: Loading infection entities
-[20:18:04] [Server thread/INFO] [hordes]: Loaded infection entity minecraft:zombie as class net.minecraft.entity.monster.EntityZombie
-[20:18:04] [Server thread/INFO] [hordes]: Loaded infection entity minecraft:zombie_villager as class net.minecraft.entity.monster.EntityZombieVillager
-[20:18:04] [Server thread/INFO] [hordes]: Loaded infection entity minecraft:husk as class net.minecraft.entity.monster.EntityHusk
-[20:18:04] [Server thread/INFO] [hordes]: Loaded infection entity minecraft:zombie_horse as class net.minecraft.entity.passive.EntityZombieHorse
-[20:18:04] [Server thread/INFO] [hordes]: Loaded infection entity hordes:zombie_player as class net.smileycorp.hordes.common.entities.EntityZombiePlayer
-[20:18:04] [Server thread/INFO] [hordes]: Loading conversion tables
-[20:18:04] [Server thread/INFO] [hordes]: Loaded conversion class net.minecraft.entity.passive.EntityHorse to class net.minecraft.entity.passive.EntityZombieHorse with chance of 0.65
-[20:18:04] [Server thread/INFO] [hordes]: Loading immunity item list
-[20:18:04] [Server thread/INFO] [hordes]: Loaded immunity item 1xitem.appleGold@1 with duration 150
-[20:18:04] [Server thread/INFO] [hordes]: Loading wearables protection list
-[20:18:04] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:leather_boots with modifier 0.95
-[20:18:04] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:leather_leggings with modifier 0.95
-[20:18:04] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:leather_chestplate with modifier 0.95
-[20:18:04] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:leather_helmet with modifier 0.95
-[20:18:04] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:chainmail_boots with modifier 0.95
-[20:18:04] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:chainmail_leggings with modifier 0.95
-[20:18:04] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:chainmail_chestplate with modifier 0.95
-[20:18:04] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:chainmail_helmet with modifier 0.95
-[20:18:04] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:iron_boots with modifier 0.9
-[20:18:04] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:iron_leggings with modifier 0.9
-[20:18:04] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:iron_chestplate with modifier 0.9
-[20:18:04] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:iron_helmet with modifier 0.9
-[20:18:04] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:golden_boots with modifier 0.9
-[20:18:04] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:golden_leggings with modifier 0.9
-[20:18:04] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:golden_chestplate with modifier 0.9
-[20:18:04] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:golden_helmet with modifier 0.9
-[20:18:04] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:diamond_boots with modifier 0.86
-[20:18:04] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:diamond_leggings with modifier 0.86
-[20:18:04] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:diamond_chestplate with modifier 0.86
-[20:18:04] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:diamond_helmet with modifier 0.86
-[20:18:05] [Server thread/INFO] [ic2.Uu]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
-[20:18:05] [Server thread/INFO] [ic2.General]: ic2 version 2.8.170-ex112 loaded.
-[20:18:05] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
-[20:18:05] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
-[20:18:05] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
-[20:18:05] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
-[20:18:05] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
-[20:18:05] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
-[20:18:05] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
-[20:18:05] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
-[20:18:05] [Server thread/INFO] [THAUMCRAFT]: Loaded 22 research entries from thaumcraft:research/alchemy
-[20:18:05] [Server thread/INFO] [THAUMCRAFT]: Loaded 5 research entries from thaumcraft:research/eldritch
-[20:18:05] [Server thread/INFO] [THAUMCRAFT]: Loaded 20 research entries from thaumcraft:research/basics
-[20:18:05] [Server thread/INFO] [THAUMCRAFT]: Loaded 23 research entries from thaumcraft:research/auromancy
-[20:18:05] [Server thread/INFO] [THAUMCRAFT]: Loaded 12 research entries from thaumcraft:research/scans
-[20:18:05] [Server thread/INFO] [THAUMCRAFT]: Loaded 20 research entries from thaumcraft:research/artifice
-[20:18:05] [Server thread/INFO] [THAUMCRAFT]: Loaded 17 research entries from thaumcraft:research/infusion
-[20:18:05] [Server thread/INFO] [THAUMCRAFT]: Loaded 29 research entries from thaumcraft:research/golemancy
-[20:18:05] [Server thread/WARN] [RTG]: .= === = ================================ = ================================================== =.
-[20:18:05] [Server thread/WARN] [RTG]: ||                 RTG could not find realistic versions of the following biomes               ||
-[20:18:05] [Server thread/WARN] [RTG]: || === = ================================ = ================================================== ||
-[20:18:05] [Server thread/WARN] [RTG]: ||  ID | Biome Class                      | Registry Name                                      ||
-[20:18:05] [Server thread/WARN] [RTG]: || --- - -------------------------------- - -------------------------------------------------- ||
-[20:18:05] [Server thread/WARN] [RTG]: ||  42 | BiomeGenWyvernLair               | mocreatures:wyvernbiome                            ||
-[20:18:05] [Server thread/WARN] [RTG]: ||  46 | TFBiomeTwilightLake              | twilightforest:twilight_lake                       ||
-[20:18:05] [Server thread/WARN] [RTG]: ||  47 | TFBiomeBase                      | twilightforest:twilight_forest                     ||
-[20:18:05] [Server thread/WARN] [RTG]: ||  48 | TFBiomeTwilightForestVariant     | twilightforest:dense_twilight_forest               ||
-[20:18:05] [Server thread/WARN] [RTG]: ||  49 | TFBiomeHighlands                 | twilightforest:twilight_highlands                  ||
-[20:18:05] [Server thread/WARN] [RTG]: ||  50 | TFBiomeMushrooms                 | twilightforest:mushroom_forest                     ||
-[20:18:05] [Server thread/WARN] [RTG]: ||  51 | TFBiomeSwamp                     | twilightforest:twilight_swamp                      ||
-[20:18:05] [Server thread/WARN] [RTG]: ||  52 | TFBiomeStream                    | twilightforest:twilight_stream                     ||
-[20:18:05] [Server thread/WARN] [RTG]: ||  53 | TFBiomeSnow                      | twilightforest:snowy_forest                        ||
-[20:18:05] [Server thread/WARN] [RTG]: ||  54 | TFBiomeGlacier                   | twilightforest:twilight_glacier                    ||
-[20:18:05] [Server thread/WARN] [RTG]: ||  55 | TFBiomeClearing                  | twilightforest:twilight_clearing                   ||
-[20:18:05] [Server thread/WARN] [RTG]: ||  56 | TFBiomeOakSavanna                | twilightforest:oak_savannah                        ||
-[20:18:05] [Server thread/WARN] [RTG]: ||  57 | TFBiomeFireflyForest             | twilightforest:firefly_forest                      ||
-[20:18:05] [Server thread/WARN] [RTG]: ||  58 | TFBiomeDeepMushrooms             | twilightforest:deep_mushroom_forest                ||
-[20:18:05] [Server thread/WARN] [RTG]: ||  59 | TFBiomeDarkForest                | twilightforest:dark_forest                         ||
-[20:18:05] [Server thread/WARN] [RTG]: ||  60 | TFBiomeEnchantedForest           | twilightforest:enchanted_forest                    ||
-[20:18:05] [Server thread/WARN] [RTG]: ||  61 | TFBiomeFireSwamp                 | twilightforest:fire_swamp                          ||
-[20:18:05] [Server thread/WARN] [RTG]: ||  62 | TFBiomeDarkForestCenter          | twilightforest:dark_forest_center                  ||
-[20:18:05] [Server thread/WARN] [RTG]: ||  63 | TFBiomeFinalPlateau              | twilightforest:highlands_center                    ||
-[20:18:05] [Server thread/WARN] [RTG]: ||  64 | TFBiomeThornlands                | twilightforest:thornlands                          ||
-[20:18:05] [Server thread/WARN] [RTG]: ||  65 | TFBiomeSpookyForest              | twilightforest:spooky_forest                       ||
-[20:18:05] [Server thread/WARN] [RTG]: ||  66 | AetherBiome                      | aether_legacy:aether_highlands                     ||
-[20:18:05] [Server thread/WARN] [RTG]: `= === | ================================ | ================================================== =`
-[20:18:06] [Server thread/INFO] [biometweaker]: Generating Biome status report...
-[20:18:06] [Server thread/INFO] [biometweaker]: Generating LivingEntity status report...
-[20:18:06] [Server thread/INFO] [biometweaker]: Generating Dimension status report...
-[20:18:06] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 49 mods
-[20:18:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[20:18:07] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[20:18:08] [Server thread/INFO] [FML]: Applying holder lookups
-[20:18:08] [Server thread/INFO] [FML]: Holder lookups applied
-[20:18:08] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.gildedgames.the_aether.entities.util.EntityMountable from class com.gildedgames.the_aether.entities.util.EntitySaddleMount
-[20:18:08] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lying.variousoddities.entity.pet.EntityBaublePet from class com.lying.variousoddities.entity.pet.EntityTempPet
-[20:18:08] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.projectile.EntityPotion from class com.lying.variousoddities.entity.projectile.EntityJavelinLightning
-[20:18:08] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.EntityCreature from class drzhark.mocreatures.entity.MoCEntityMob
-[20:18:08] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.EntityCreature from class drzhark.mocreatures.entity.MoCEntityMob
-[20:18:08] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.EntityCreature from class drzhark.mocreatures.entity.MoCEntityMob
-[20:18:08] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.EntityCreature from class drzhark.mocreatures.entity.MoCEntityMob
-[20:18:08] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.projectile.EntityPotion from class com.lying.variousoddities.entity.projectile.EntityTossedVial
-[20:18:09] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@4215e704)
-[20:18:09] [Server thread/ERROR] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't load loot table varodd:chests/loot_art from jar:file:/workspaces/MCFAMILY/servidor_minecraft/./mods/varodd-1.12.2-5.2.jar!/assets/varodd/loot_tables/chests/loot_art.json
+[02:03:21] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.7.11 Source=file:/workspaces/MCFAMILY/servidor_minecraft/./mods/malisiscore-1.12.2-6.5.1.jar Service=LaunchWrapper Env=SERVER
+[02:03:21] [main/WARN] [FML]: The coremod net.malisis.core.asm.MalisisCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[02:03:21] [main/WARN] [FML]: The coremod MalisisCorePlugin (net.malisis.core.asm.MalisisCorePlugin) is not signed!
+[02:03:21] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[02:03:21] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[02:03:21] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[02:03:21] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[02:03:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[02:03:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[02:03:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:03:22] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[02:03:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:03:22] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[02:03:22] [main/ERROR] [mixin]: Mixin config mixins.hordes.json does not specify "minVersion" property
+[02:03:22] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@61533ae
+[02:03:22] [main/INFO] [LaunchWrapper]: Calling tweak class guichaguri.betterfps.tweaker.BetterFpsTweaker
+[02:03:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[02:03:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:03:23] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[02:03:23] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[02:03:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[02:03:23] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[02:03:23] [main/INFO] [BetterFps]: Patching net.minecraft.block.Block... (aow)
+[02:03:23] [main/INFO] [mixin]: A re-entrant transformer 'guichaguri.betterfps.transformers.PatcherTransformer' was detected and will no longer process meta class data
+[02:03:24] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[02:03:24] [main/INFO] [BetterFps]: Patching net.minecraft.block.Block... (aow)
+[02:03:24] [main/INFO] [BetterFps]: Patching math utils with "RIVENS_HALF" algorithm
+[02:03:25] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityBeacon... (avh)
+[02:03:25] [main/INFO] [BetterFps]: Patching net.minecraft.block.BlockHopper... (arl)
+[02:03:25] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityHopper... (avw)
+[02:03:26] [main/INFO] [BetterFps]: Patching math utils with "RIVENS_HALF" algorithm
+[02:03:26] [main/INFO] [BetterFps]: Patching net.minecraft.server.dedicated.DedicatedServer... (nz)
+[02:03:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[02:03:27] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[02:03:27] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[02:03:27] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[02:03:27] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[02:03:27] [Server thread/INFO] [FML]: Searching /workspaces/MCFAMILY/servidor_minecraft/./mods for mods
+[02:03:27] [Server thread/INFO] [FML]: Searching /workspaces/MCFAMILY/servidor_minecraft/./mods/1.12.2 for mods
+[02:03:28] [Server thread/ERROR] [FML]: Unable to parse dependency for mod 'animalium' with dependency string 'after:BiomesOPlenty'. The modId 'BiomesOPlenty' must be all lowercase.
+[02:03:28] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
+[02:03:29] [Server thread/INFO] [FML]: Forge Mod Loader has identified 49 mods to load
+[02:03:29] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[02:03:29] [Server thread/WARN] [FML]: Missing English translation for appleskin: assets/appleskin/lang/en_us.lang
+[02:03:29] [Server thread/WARN] [FML]: Missing English translation for bettercaves: assets/bettercaves/lang/en_us.lang
+[02:03:29] [Server thread/WARN] [FML]: Missing English translation for buildcraftbuilders: assets/buildcraftbuilders/lang/en_us.lang
+[02:03:29] [Server thread/WARN] [FML]: Missing English translation for buildcraftcore: assets/buildcraftcore/lang/en_us.lang
+[02:03:29] [Server thread/WARN] [FML]: Missing English translation for buildcraftenergy: assets/buildcraftenergy/lang/en_us.lang
+[02:03:29] [Server thread/WARN] [FML]: Missing English translation for buildcraftfactory: assets/buildcraftfactory/lang/en_us.lang
+[02:03:29] [Server thread/WARN] [FML]: Missing English translation for buildcraftrobotics: assets/buildcraftrobotics/lang/en_us.lang
+[02:03:29] [Server thread/WARN] [FML]: Missing English translation for buildcraftsilicon: assets/buildcraftsilicon/lang/en_us.lang
+[02:03:29] [Server thread/WARN] [FML]: Missing English translation for buildcrafttransport: assets/buildcrafttransport/lang/en_us.lang
+[02:03:29] [Server thread/WARN] [FML]: Missing English translation for cat: assets/cat/lang/en_us.lang
+[02:03:29] [Server thread/WARN] [FML]: Missing English translation for clumps: assets/clumps/lang/en_us.lang
+[02:03:29] [Server thread/WARN] [FML]: Missing English translation for craftstudioapi: assets/craftstudioapi/lang/en_us.lang
+[02:03:29] [Server thread/WARN] [FML]: Missing English translation for customspawner: assets/customspawner/lang/en_us.lang
+[02:03:29] [Server thread/WARN] [FML]: Missing English translation for geographicraft: assets/geographicraft/lang/en_us.lang
+[02:03:29] [Server thread/WARN] [FML]: Missing English translation for ic2: assets/ic2/lang/en_us.lang
+[02:03:30] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, aether_legacy, animalium, appleskin, atlaslib, baubles, bettercaves, biometweaker, bloodmagic, buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, cat, chococraft, clumps, craftstudioapi, customspawner, mocreatures, dynamictrees, geographicraft, guideapi, ic2, infernalmobs, ironchest, jei, malisiscore, malisisdoors, mowziesmobs, mutantbeasts, additionalstructures, tektopia, thaumcraft, hordes, tombstone, travelersbackpack, twilightforest, varodd, wolfarmor, rtg, llibrary] at CLIENT
+[02:03:30] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, aether_legacy, animalium, appleskin, atlaslib, baubles, bettercaves, biometweaker, bloodmagic, buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, cat, chococraft, clumps, craftstudioapi, customspawner, mocreatures, dynamictrees, geographicraft, guideapi, ic2, infernalmobs, ironchest, jei, malisiscore, malisisdoors, mowziesmobs, mutantbeasts, additionalstructures, tektopia, thaumcraft, hordes, tombstone, travelersbackpack, twilightforest, varodd, wolfarmor, rtg, llibrary] at SERVER
+[02:03:32] [Server thread/INFO] [Various Oddities]: Registered 30 entity loot tables.
+[02:03:32] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[02:03:33] [Server thread/INFO] [FML]: Found 2237 ObjectHolder annotations
+[02:03:33] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[02:03:33] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[02:03:33] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[02:03:33] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftlib] Starting version check at https://mod-buildcraft.com/version/versions.json
+[02:03:33] [Server thread/INFO] [hordes]: Trying to load config
+[02:03:33] [Server thread/INFO] [biometweaker]: Beginning script parsing...
+[02:03:33] [Server thread/INFO] [biometweaker]: Finished script parsing.
+[02:03:33] [Server thread/INFO] [BuildCraft]: 
+[02:03:33] [Server thread/INFO] [BuildCraft]: Starting BuildCraft 7.99.24.8
+[02:03:33] [Server thread/INFO] [BuildCraft]: Copyright (c) the BuildCraft team, 2011-2018
+[02:03:33] [Server thread/INFO] [BuildCraft]: https://www.mod-buildcraft.com
+[02:03:33] [Server thread/INFO] [BuildCraft]: Detailed Build Information:
+[02:03:33] [Server thread/INFO] [BuildCraft]:   Branch HEAD
+[02:03:33] [Server thread/INFO] [BuildCraft]:   Commit 68370005a10488d02a4bb4b8df86bbc62633d216
+[02:03:33] [Server thread/INFO] [BuildCraft]:     Bump version for release relase, fix a java 13+ compile error, tweak changelog, and fix engines chaining one block more than they should have.
+[02:03:33] [Server thread/INFO] [BuildCraft]:     committed by AlexIIL
+[02:03:33] [Server thread/INFO] [BuildCraft]: 
+[02:03:33] [Server thread/INFO] [BuildCraft]: Loaded Modules:
+[02:03:33] [Server thread/INFO] [BuildCraft]:   - lib
+[02:03:33] [Server thread/INFO] [BuildCraft]:   - core
+[02:03:33] [Server thread/INFO] [BuildCraft]:   - builders
+[02:03:33] [Server thread/INFO] [BuildCraft]:   - energy
+[02:03:33] [Server thread/INFO] [BuildCraft]:   - factory
+[02:03:33] [Server thread/INFO] [BuildCraft]:   - robotics
+[02:03:33] [Server thread/INFO] [BuildCraft]:   - silicon
+[02:03:33] [Server thread/INFO] [BuildCraft]:   - transport
+[02:03:33] [Server thread/INFO] [BuildCraft]:   - compat
+[02:03:33] [Server thread/INFO] [BuildCraft]: Missing Modules:
+[02:03:33] [Server thread/INFO] [BuildCraft]: 
+[02:03:34] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftlib] Found status: UP_TO_DATE Target: null
+[02:03:34] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[02:03:34] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
+[02:03:34] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcompat] Starting version check at https://mod-buildcraft.com/version/versions-compat.json
+[02:03:34] [Server thread/INFO] [BuildCraft]: [debugger] Not a dev environment!
+[02:03:34] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcompat] Found status: AHEAD Target: null
+[02:03:34] [Forge Version Check/INFO] [forge.VersionCheck]: [tektopia] Starting version check at https://raw.githubusercontent.com/TangoTek/tektopia-public/master/update.json
+[02:03:34] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[02:03:34] [Forge Version Check/INFO] [forge.VersionCheck]: [tektopia] Found status: AHEAD Target: null
+[02:03:34] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcore] Starting version check at https://mod-buildcraft.com/version/versions.json
+[02:03:34] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcore] Found status: UP_TO_DATE Target: null
+[02:03:34] [Forge Version Check/INFO] [forge.VersionCheck]: [aether_legacy] Starting version check at https://raw.githubusercontent.com/Modding-Legacy/Aether-Legacy/master/aether-legacy-changelog.json
+[02:03:34] [Forge Version Check/INFO] [forge.VersionCheck]: [llibrary] Starting version check at https://gist.githubusercontent.com/Gegy/a6639456aeb8edd92cbf7cbfcf9d65d9/raw/llibrary_updates.json
+[02:03:34] [Forge Version Check/INFO] [forge.VersionCheck]: [llibrary] Found status: UP_TO_DATE Target: null
+[02:03:34] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[02:03:35] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Found status: UP_TO_DATE Target: null
+[02:03:35] [Forge Version Check/INFO] [forge.VersionCheck]: [craftstudioapi] Starting version check at https://leviathan-studio.com/craftstudioapi/update.json
+[02:03:40] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 352 out of 352 recipes for shaped recipes
+[02:03:40] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 79 out of 79 recipes for shapeless recipes
+[02:03:40] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 41 out of 41 recipes for solid uu recipes
+[02:03:40] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 27 out of 27 recipes for furnace recipes
+[02:03:40] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
+[02:03:40] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for block cutter recipes
+[02:03:40] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 51 out of 51 recipes for compressor recipes
+[02:03:40] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 12 out of 12 recipes for extractor recipes
+[02:03:40] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 74 out of 74 recipes for macerator recipes
+[02:03:40] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for metal former cutting recipes
+[02:03:40] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 10 out of 10 recipes for metal former extruding recipes
+[02:03:40] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
+[02:03:40] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 8 out of 8 recipes for ore washing recipes
+[02:03:40] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 26 out of 26 recipes for thermal centrifuge recipes
+[02:03:40] [Server thread/INFO] [BuildCraft]: 
+[02:03:40] [Server thread/INFO] [BuildCraft]: Starting BuildCraftCompat 7.99.24.8
+[02:03:40] [Server thread/INFO] [BuildCraft]: Copyright (c) the BuildCraft team, 2011-2017
+[02:03:40] [Server thread/INFO] [BuildCraft]: https://www.mod-buildcraft.com
+[02:03:40] [Server thread/INFO] [BuildCraft]: Detailed Build Information:
+[02:03:40] [Server thread/INFO] [BuildCraft]:   Branch 8.0.x-1.12.2
+[02:03:40] [Server thread/INFO] [BuildCraft]:   Commit 16adfdb3d6a3362ba3659be7d5e9b7d12af7eee5
+[02:03:40] [Server thread/INFO] [BuildCraft]:     Bump for release.
+[02:03:40] [Server thread/INFO] [BuildCraft]:     committed by AlexIIL
+[02:03:40] [Server thread/INFO] [BuildCraft]: 
+[02:03:40] [Server thread/INFO] [BuildCraft]: [compat] Module list:
+[02:03:40] [Server thread/INFO] [BuildCraft]: [compat]   x forestry (It cannot load)
+[02:03:40] [Server thread/INFO] [BuildCraft]: [compat]   x theoneprobe (It cannot load)
+[02:03:40] [Server thread/INFO] [BuildCraft]: [compat]   x crafttweaker (It cannot load)
+[02:03:40] [Server thread/INFO] [BuildCraft]: [compat]   + ic2
+[02:03:40] [Server thread/INFO] [STDOUT]: [com.ferreusveritas.dynamictrees.ModConfigs:preInit:112]: DynamicTrees BlackListed DimValue: 7
+[02:03:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `species_tile_entity`, expected `dynamictrees`. This could be a intended override, but in most cases indicates a broken mod.
+[02:03:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bonsai_tile_entity`, expected `dynamictrees`. This could be a intended override, but in most cases indicates a broken mod.
+[02:03:41] [Server thread/INFO] [malisiscore]: Registering CloseInventoryMessage for Packet with discriminator 1 in channel malisiscore
+[02:03:41] [Server thread/INFO] [malisiscore]: Registering InventoryActionMessage for Packet with discriminator 2 in channel malisiscore
+[02:03:41] [Server thread/INFO] [malisiscore]: Registering OpenInventoryMessage for Packet with discriminator 3 in channel malisiscore
+[02:03:41] [Server thread/INFO] [malisiscore]: Registering UpdateInventorySlotsMessage for Packet with discriminator 4 in channel malisiscore
+[02:03:41] [Server thread/INFO] [malisiscore]: Registering DirectMessage for Packet with discriminator 5 in channel malisiscore
+[02:03:41] [Server thread/INFO] [malisiscore]: Registering BlockDataMessage for Packet with discriminator 6 in channel malisiscore
+[02:03:41] [Server thread/INFO] [malisiscore]: Registering ChunkBlockMessage for Packet with discriminator 7 in channel malisiscore
+[02:03:41] [Server thread/INFO] [malisiscore]: Registering NeighborChangedMessage for Packet with discriminator 8 in channel malisiscore
+[02:03:41] [Server thread/INFO] [malisiscore]: Registering SyncerMessage for Packet with discriminator 9 in channel malisiscore
+[02:03:41] [Server thread/INFO] [malisiscore]: Registering DigicodeMessage for Packet with discriminator 1 in channel malisisdoors
+[02:03:41] [Server thread/INFO] [malisiscore]: Registering DoorFactoryMessage for Packet with discriminator 2 in channel malisisdoors
+[02:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `customdoortileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[02:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `saloondoortileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[02:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `verticalhatchtileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[02:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `garagedoortileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[02:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `door3x3`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[02:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bigdoortileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[02:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rustyhatchtileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[02:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `doorfactorytileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[02:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `forcefieldtileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[02:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `doortileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[02:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `trapdoortileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[02:03:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fencegatetileentity`, expected `malisisdoors`. This could be a intended override, but in most cases indicates a broken mod.
+[02:03:41] [Server thread/INFO] [STDOUT]: [xxrexraptorxx.additionalstructures.proxy.CommonProxy:preInit:34]: Mystcraft not found - integration not active
+[02:03:41] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.TekVillager:preInit:78]: TekTopia is loading!
+[02:03:41] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.ModEntities:init:58]: Registering Entities
+[02:03:42] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
+[02:03:42] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
+[02:03:42] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
+[02:03:42] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
+[02:03:42] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
+[02:03:42] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
+[02:03:42] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Baubles.
+[02:03:42] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Chisel.
+[02:03:42] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Forestry.
+[02:03:42] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
+[02:03:42] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Just Enough Items.
+[02:03:42] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Tinkers' Construct.
+[02:03:42] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Thaumcraft.
+[02:03:43] [Server thread/INFO] [wolfarmor]: Registered new provider SophisticatedWolvesProvider for mod sophisticatedwolves
+[02:03:43] [Server thread/INFO] [wolfarmor]: Registered new provider LetSleepingDogsLieProvider for mod dogslie
+[02:03:43] [Server thread/INFO] [wolfarmor]: Registered new provider WizardryProvider for mod ebwizardry
+[02:03:43] [Server thread/INFO] [wolfarmor]: Registered new provider MoBendsProvider for mod mobends
+[02:03:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[02:03:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[02:03:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[02:03:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[02:03:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[02:03:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[02:03:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[02:03:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[02:03:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[02:03:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[02:03:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[02:03:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[02:03:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[02:03:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[02:03:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[02:03:43] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.ModBlocks:register:28]: Registering Blocks
+[02:03:44] [Server thread/INFO] [FML]: Applying holder lookups
+[02:03:44] [Server thread/INFO] [FML]: Holder lookups applied
+[02:03:44] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.ModItems:register:150]: Registering Items
+[02:03:45] [Server thread/INFO] [FML]: Applying holder lookups
+[02:03:45] [Server thread/INFO] [FML]: Holder lookups applied
+[02:03:45] [Server thread/INFO] [mocreatures]: Registering entities...
+[02:03:45] [Server thread/INFO] [mocreatures]: Entity registration complete.
+[02:03:45] [Server thread/INFO] [FML]: Applying holder lookups
+[02:03:45] [Server thread/INFO] [FML]: Holder lookups applied
+[02:03:45] [Server thread/INFO] [FML]: Applying holder lookups
+[02:03:45] [Server thread/INFO] [FML]: Holder lookups applied
+[02:03:45] [Server thread/INFO] [FML]: Injecting itemstacks
+[02:03:45] [Server thread/INFO] [FML]: Itemstack injection complete
+[02:03:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[02:03:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[02:03:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[02:03:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[02:03:45] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[02:03:46] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:03:46] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[02:03:46] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:03:46] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:03:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `painted acacia slab`, expected `mowziesmobs`. This could be a intended override, but in most cases indicates a broken mod.
+[02:03:46] [Server thread/INFO] [THAUMCRAFT]: Checking for mod & oredict compatibilities
+[02:03:46] [Server thread/INFO] [THAUMCRAFT]: Adding entities to MFR safari net blacklist.
+[02:03:46] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_avoid_rat
+[02:03:46] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_attack_rat
+[02:03:46] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_avoid_piranha
+[02:03:46] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_attack_piranha
+[02:03:46] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_avoid_deer
+[02:03:46] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_attack_deer
+[02:03:46] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_avoid_wraith
+[02:03:46] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_attack_wraith
+[02:03:46] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_avoid_bunny
+[02:03:46] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_attack_bunny
+[02:03:46] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_avoid_firefly
+[02:03:46] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_attack_firefly
+[02:03:46] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_avoid_kobold
+[02:03:46] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_attack_kobold
+[02:03:46] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_avoid_troll
+[02:03:46] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_attack_troll
+[02:03:46] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_avoid_raven
+[02:03:46] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_attack_raven
+[02:03:46] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_avoid_scorpion
+[02:03:46] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_attack_scorpion
+[02:03:46] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_avoid_rat
+[02:03:46] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_attack_rat
+[02:03:46] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_avoid_crab
+[02:03:46] [Server thread/ERROR] [Various Oddities]: Inscription with duplicate name registered! varodd:ai_attack_crab
+[02:03:46] [Server thread/INFO] [Various Oddities]: Registered 522 potential egg inscriptions
+[02:03:46] [Server thread/INFO] [FML]: Applying holder lookups
+[02:03:46] [Server thread/INFO] [FML]: Holder lookups applied
+[02:03:47] [Server thread/INFO] [BuildCraft]: [energy.oilgen] Registered the ocean oil biome.
+[02:03:47] [Server thread/INFO] [BuildCraft]: [energy.oilgen] Registered the desert oil biome.
+[02:03:47] [Server thread/INFO] [BuildCraft]: [energy.oilgen] Registered the oil spout generator
+[02:03:47] [Server thread/INFO] [BuildCraft]: [energy.oilgen] Registered the oil biome initiializer
+[02:03:47] [Server thread/INFO] [infernalmobs]: InfernalMobsCore load() completed! Modifiers ready: 27, config file at: /workspaces/MCFAMILY/servidor_minecraft/config/infernalmobs.cfg
+[02:03:47] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekStructureVillagePieces:registerVillagePieces:27]: Registering Tek Village Structures
+[02:03:48] [Server thread/INFO] [FML]: Injecting itemstacks
+[02:03:48] [Server thread/INFO] [FML]: Itemstack injection complete
+[02:03:48] [Server thread/INFO] [hordes]: Loaded entity minecraft:zombie as class net.minecraft.entity.monster.EntityZombie with weight 35, min day 0 and max day 20
+[02:03:48] [Server thread/INFO] [hordes]: Loaded entity minecraft:zombie_villager as class net.minecraft.entity.monster.EntityZombieVillager with weight 1, min day 0 and max day 20
+[02:03:48] [Server thread/INFO] [hordes]: Loaded entity minecraft:zombie_horse as class net.minecraft.entity.passive.EntityZombieHorse with weight 3, min day 20 and max day 0
+[02:03:48] [Server thread/INFO] [hordes]: Loaded entity minecraft:husk as class net.minecraft.entity.monster.EntityHusk with weight 40, min day 20 and max day 0
+[02:03:48] [Server thread/INFO] [hordes]: loaded horde table hordes:default
+[02:03:48] [Server thread/INFO] [hordes]: Loaded entity minecraft:skeleton as class net.minecraft.entity.monster.EntitySkeleton with weight 10, min day 0 and max day 20
+[02:03:48] [Server thread/INFO] [hordes]: Loaded entity minecraft:skeleton as class net.minecraft.entity.monster.EntitySkeleton with weight 20, min day 0 and max day 30
+[02:03:48] [Server thread/INFO] [hordes]: Loaded entity minecraft:skeleton_horse as class net.minecraft.entity.passive.EntitySkeletonHorse with weight 5, min day 20 and max day 50
+[02:03:48] [Server thread/INFO] [hordes]: Loaded entity minecraft:stray as class net.minecraft.entity.monster.EntityStray with weight 10, min day 20 and max day 0
+[02:03:48] [Server thread/INFO] [hordes]: Loaded entity minecraft:wither_skeleton as class net.minecraft.entity.monster.EntityWitherSkeleton with weight 10, min day 40 and max day 0
+[02:03:48] [Server thread/INFO] [hordes]: Loaded entity minecraft:skeleton_horse as class net.minecraft.entity.passive.EntitySkeletonHorse with weight 5, min day 40 and max day 0
+[02:03:48] [Server thread/INFO] [hordes]: loaded horde table hordes:skeletons
+[02:03:48] [Server thread/INFO] [hordes]: Loaded entity minecraft:zombie as class net.minecraft.entity.monster.EntityZombie with weight 20, min day 0 and max day 20
+[02:03:48] [Server thread/INFO] [hordes]: Loaded entity minecraft:skeleton as class net.minecraft.entity.monster.EntitySkeleton with weight 10, min day 20 and max day 30
+[02:03:48] [Server thread/INFO] [hordes]: Loaded entity minecraft:spider as class net.minecraft.entity.monster.EntitySpider with weight 15, min day 20 and max day 30
+[02:03:48] [Server thread/INFO] [hordes]: Loaded entity minecraft:creeper as class net.minecraft.entity.monster.EntityCreeper with weight 5, min day 30 and max day 30
+[02:03:48] [Server thread/INFO] [hordes]: Loaded entity minecraft:husk as class net.minecraft.entity.monster.EntityHusk with weight 20, min day 30 and max day 50
+[02:03:48] [Server thread/INFO] [hordes]: Loaded entity minecraft:stray as class net.minecraft.entity.monster.EntityStray with weight 10, min day 40 and max day 50
+[02:03:48] [Server thread/INFO] [hordes]: Loaded entity minecraft:cave_spider as class net.minecraft.entity.monster.EntityCaveSpider with weight 10, min day 40 and max day 50
+[02:03:48] [Server thread/INFO] [hordes]: Loaded entity minecraft:witch as class net.minecraft.entity.monster.EntityWitch with weight 5, min day 40 and max day 50
+[02:03:48] [Server thread/INFO] [hordes]: Loaded entity minecraft:zombie_horse as class net.minecraft.entity.passive.EntityZombieHorse with weight 3, min day 40 and max day 0
+[02:03:48] [Server thread/INFO] [hordes]: Loaded entity minecraft:vindication_illager as class net.minecraft.entity.monster.EntityVindicator with weight 5, min day 50 and max day 0
+[02:03:48] [Server thread/INFO] [hordes]: Loaded entity minecraft:wither_skeleton as class net.minecraft.entity.monster.EntityWitherSkeleton with weight 10, min day 50 and max day 0
+[02:03:48] [Server thread/INFO] [hordes]: Loaded entity minecraft:cave_spider as class net.minecraft.entity.monster.EntityCaveSpider with weight 15, min day 60 and max day 0
+[02:03:48] [Server thread/INFO] [hordes]: Loaded entity minecraft:skeleton_horse as class net.minecraft.entity.passive.EntitySkeletonHorse with weight 3, min day 40 and max day 0
+[02:03:48] [Server thread/INFO] [hordes]: loaded horde table hordes:mixed_mobs
+[02:03:48] [Server thread/INFO] [hordes]: loaded horde script hordes:default
+[02:03:48] [Server thread/INFO] [hordes]: Loading infection cures
+[02:03:48] [Server thread/INFO] [hordes]: Loaded infection cure 1xitem.appleGold@32767
+[02:03:48] [Server thread/INFO] [hordes]: Loading infection entities
+[02:03:48] [Server thread/INFO] [hordes]: Loaded infection entity minecraft:zombie as class net.minecraft.entity.monster.EntityZombie
+[02:03:48] [Server thread/INFO] [hordes]: Loaded infection entity minecraft:zombie_villager as class net.minecraft.entity.monster.EntityZombieVillager
+[02:03:48] [Server thread/INFO] [hordes]: Loaded infection entity minecraft:husk as class net.minecraft.entity.monster.EntityHusk
+[02:03:48] [Server thread/INFO] [hordes]: Loaded infection entity minecraft:zombie_horse as class net.minecraft.entity.passive.EntityZombieHorse
+[02:03:48] [Server thread/INFO] [hordes]: Loaded infection entity hordes:zombie_player as class net.smileycorp.hordes.common.entities.EntityZombiePlayer
+[02:03:48] [Server thread/INFO] [hordes]: Loading conversion tables
+[02:03:48] [Server thread/INFO] [hordes]: Loaded conversion class net.minecraft.entity.passive.EntityHorse to class net.minecraft.entity.passive.EntityZombieHorse with chance of 0.65
+[02:03:48] [Server thread/INFO] [hordes]: Loading immunity item list
+[02:03:48] [Server thread/INFO] [hordes]: Loaded immunity item 1xitem.appleGold@1 with duration 150
+[02:03:48] [Server thread/INFO] [hordes]: Loading wearables protection list
+[02:03:48] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:leather_boots with modifier 0.95
+[02:03:48] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:leather_leggings with modifier 0.95
+[02:03:48] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:leather_chestplate with modifier 0.95
+[02:03:48] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:leather_helmet with modifier 0.95
+[02:03:48] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:chainmail_boots with modifier 0.95
+[02:03:48] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:chainmail_leggings with modifier 0.95
+[02:03:48] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:chainmail_chestplate with modifier 0.95
+[02:03:48] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:chainmail_helmet with modifier 0.95
+[02:03:48] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:iron_boots with modifier 0.9
+[02:03:48] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:iron_leggings with modifier 0.9
+[02:03:48] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:iron_chestplate with modifier 0.9
+[02:03:48] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:iron_helmet with modifier 0.9
+[02:03:48] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:golden_boots with modifier 0.9
+[02:03:48] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:golden_leggings with modifier 0.9
+[02:03:48] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:golden_chestplate with modifier 0.9
+[02:03:48] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:golden_helmet with modifier 0.9
+[02:03:48] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:diamond_boots with modifier 0.86
+[02:03:48] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:diamond_leggings with modifier 0.86
+[02:03:48] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:diamond_chestplate with modifier 0.86
+[02:03:48] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:diamond_helmet with modifier 0.86
+[02:03:48] [Server thread/INFO] [ic2.Uu]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
+[02:03:48] [Server thread/INFO] [ic2.General]: ic2 version 2.8.170-ex112 loaded.
+[02:03:48] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
+[02:03:48] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
+[02:03:48] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
+[02:03:48] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
+[02:03:48] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
+[02:03:48] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
+[02:03:48] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
+[02:03:48] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
+[02:03:49] [Server thread/INFO] [THAUMCRAFT]: Loaded 22 research entries from thaumcraft:research/alchemy
+[02:03:49] [Server thread/INFO] [THAUMCRAFT]: Loaded 5 research entries from thaumcraft:research/eldritch
+[02:03:49] [Server thread/INFO] [THAUMCRAFT]: Loaded 20 research entries from thaumcraft:research/basics
+[02:03:49] [Server thread/INFO] [THAUMCRAFT]: Loaded 23 research entries from thaumcraft:research/auromancy
+[02:03:49] [Server thread/INFO] [THAUMCRAFT]: Loaded 12 research entries from thaumcraft:research/scans
+[02:03:49] [Server thread/INFO] [THAUMCRAFT]: Loaded 20 research entries from thaumcraft:research/artifice
+[02:03:49] [Server thread/INFO] [THAUMCRAFT]: Loaded 17 research entries from thaumcraft:research/infusion
+[02:03:49] [Server thread/INFO] [THAUMCRAFT]: Loaded 29 research entries from thaumcraft:research/golemancy
+[02:03:49] [Server thread/WARN] [RTG]: .= === = ================================ = ================================================== =.
+[02:03:49] [Server thread/WARN] [RTG]: ||                 RTG could not find realistic versions of the following biomes               ||
+[02:03:49] [Server thread/WARN] [RTG]: || === = ================================ = ================================================== ||
+[02:03:49] [Server thread/WARN] [RTG]: ||  ID | Biome Class                      | Registry Name                                      ||
+[02:03:49] [Server thread/WARN] [RTG]: || --- - -------------------------------- - -------------------------------------------------- ||
+[02:03:49] [Server thread/WARN] [RTG]: ||  42 | BiomeGenWyvernLair               | mocreatures:wyvernbiome                            ||
+[02:03:49] [Server thread/WARN] [RTG]: ||  46 | TFBiomeTwilightLake              | twilightforest:twilight_lake                       ||
+[02:03:49] [Server thread/WARN] [RTG]: ||  47 | TFBiomeBase                      | twilightforest:twilight_forest                     ||
+[02:03:49] [Server thread/WARN] [RTG]: ||  48 | TFBiomeTwilightForestVariant     | twilightforest:dense_twilight_forest               ||
+[02:03:49] [Server thread/WARN] [RTG]: ||  49 | TFBiomeHighlands                 | twilightforest:twilight_highlands                  ||
+[02:03:49] [Server thread/WARN] [RTG]: ||  50 | TFBiomeMushrooms                 | twilightforest:mushroom_forest                     ||
+[02:03:49] [Server thread/WARN] [RTG]: ||  51 | TFBiomeSwamp                     | twilightforest:twilight_swamp                      ||
+[02:03:49] [Server thread/WARN] [RTG]: ||  52 | TFBiomeStream                    | twilightforest:twilight_stream                     ||
+[02:03:49] [Server thread/WARN] [RTG]: ||  53 | TFBiomeSnow                      | twilightforest:snowy_forest                        ||
+[02:03:49] [Server thread/WARN] [RTG]: ||  54 | TFBiomeGlacier                   | twilightforest:twilight_glacier                    ||
+[02:03:49] [Server thread/WARN] [RTG]: ||  55 | TFBiomeClearing                  | twilightforest:twilight_clearing                   ||
+[02:03:49] [Server thread/WARN] [RTG]: ||  56 | TFBiomeOakSavanna                | twilightforest:oak_savannah                        ||
+[02:03:49] [Server thread/WARN] [RTG]: ||  57 | TFBiomeFireflyForest             | twilightforest:firefly_forest                      ||
+[02:03:49] [Server thread/WARN] [RTG]: ||  58 | TFBiomeDeepMushrooms             | twilightforest:deep_mushroom_forest                ||
+[02:03:49] [Server thread/WARN] [RTG]: ||  59 | TFBiomeDarkForest                | twilightforest:dark_forest                         ||
+[02:03:49] [Server thread/WARN] [RTG]: ||  60 | TFBiomeEnchantedForest           | twilightforest:enchanted_forest                    ||
+[02:03:49] [Server thread/WARN] [RTG]: ||  61 | TFBiomeFireSwamp                 | twilightforest:fire_swamp                          ||
+[02:03:49] [Server thread/WARN] [RTG]: ||  62 | TFBiomeDarkForestCenter          | twilightforest:dark_forest_center                  ||
+[02:03:49] [Server thread/WARN] [RTG]: ||  63 | TFBiomeFinalPlateau              | twilightforest:highlands_center                    ||
+[02:03:49] [Server thread/WARN] [RTG]: ||  64 | TFBiomeThornlands                | twilightforest:thornlands                          ||
+[02:03:49] [Server thread/WARN] [RTG]: ||  65 | TFBiomeSpookyForest              | twilightforest:spooky_forest                       ||
+[02:03:49] [Server thread/WARN] [RTG]: ||  66 | AetherBiome                      | aether_legacy:aether_highlands                     ||
+[02:03:49] [Server thread/WARN] [RTG]: `= === | ================================ | ================================================== =`
+[02:03:49] [Server thread/INFO] [biometweaker]: Generating Biome status report...
+[02:03:49] [Server thread/INFO] [biometweaker]: Generating LivingEntity status report...
+[02:03:49] [Server thread/INFO] [biometweaker]: Generating Dimension status report...
+[02:03:49] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 49 mods
+[02:03:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[02:03:50] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[02:03:51] [Server thread/INFO] [FML]: Applying holder lookups
+[02:03:51] [Server thread/INFO] [FML]: Holder lookups applied
+[02:03:52] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.gildedgames.the_aether.entities.util.EntityMountable from class com.gildedgames.the_aether.entities.util.EntitySaddleMount
+[02:03:52] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lying.variousoddities.entity.pet.EntityBaublePet from class com.lying.variousoddities.entity.pet.EntityTempPet
+[02:03:52] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.projectile.EntityPotion from class com.lying.variousoddities.entity.projectile.EntityJavelinLightning
+[02:03:52] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.EntityCreature from class drzhark.mocreatures.entity.MoCEntityMob
+[02:03:52] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.EntityCreature from class drzhark.mocreatures.entity.MoCEntityMob
+[02:03:52] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.EntityCreature from class drzhark.mocreatures.entity.MoCEntityMob
+[02:03:52] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.EntityCreature from class drzhark.mocreatures.entity.MoCEntityMob
+[02:03:52] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.projectile.EntityPotion from class com.lying.variousoddities.entity.projectile.EntityTossedVial
+[02:03:53] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@1e92c885)
+[02:03:53] [Server thread/ERROR] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't load loot table varodd:chests/loot_art from jar:file:/workspaces/MCFAMILY/servidor_minecraft/./mods/varodd-1.12.2-5.2.jar!/assets/varodd/loot_tables/chests/loot_art.json
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'varodd:wood_pillar'
 	at net.minecraft.util.JsonUtils.func_188172_b(SourceFile:124) ~[rc.class:?]
 	at net.minecraft.util.JsonUtils.func_188180_i(SourceFile:135) ~[rc.class:?]
@@ -475,364 +469,95 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[20:18:10] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 1002 advancements
-[20:18:10] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 0
-[20:18:10] [Server thread/INFO] [RTG]: World Seed: 7242622008611004791
-[20:18:10] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
-[20:18:12] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@4215e704)
-[20:18:12] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
-[20:18:12] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@4215e704)
-[20:18:12] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 1
-[20:18:12] [Server thread/INFO] [FML]: Loading dimension 4 (world) (net.minecraft.server.dedicated.DedicatedServer@4215e704)
-[20:18:12] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 4
-[20:18:13] [Server thread/INFO] [FML]: Loading dimension -17 (world) (net.minecraft.server.dedicated.DedicatedServer@4215e704)
-[20:18:13] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -17
-[20:18:13] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@4215e704)
-[20:18:13] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 7
-[20:18:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[20:18:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 88%
-[20:18:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (9.100s)! For help, type "help" or "?"
-[20:18:16] [Thread-6/INFO] [THAUMCRAFT]: Starting aura thread for dim 0
-[20:18:16] [Thread-7/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
-[20:18:16] [Thread-8/INFO] [THAUMCRAFT]: Starting aura thread for dim 1
-[20:18:16] [Thread-9/INFO] [THAUMCRAFT]: Starting aura thread for dim 4
-[20:18:16] [Thread-10/INFO] [THAUMCRAFT]: Starting aura thread for dim -17
-[20:18:16] [Thread-11/INFO] [THAUMCRAFT]: Starting aura thread for dim 7
-[20:18:16] [BetterFps Update Checker/WARN] [BetterFps]: Could not check for updates: widget.mcf.li
-[20:18:16] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
-[20:18:16] [Server thread/INFO] [FML]: Unloading dimension -1
-[20:18:16] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 1
-[20:18:16] [Server thread/INFO] [FML]: Unloading dimension 1
-[20:18:16] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 4
-[20:18:16] [Server thread/INFO] [FML]: Unloading dimension 4
-[20:18:16] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -17
-[20:18:16] [Server thread/INFO] [FML]: Unloading dimension -17
-[20:18:16] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 7
-[20:18:16] [Server thread/INFO] [FML]: Unloading dimension 7
-[20:18:18] [Thread-7/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
-[20:18:18] [Thread-8/INFO] [THAUMCRAFT]: Stopping aura thread for dim 1
-[20:18:18] [Thread-9/INFO] [THAUMCRAFT]: Stopping aura thread for dim 4
-[20:18:18] [Thread-10/INFO] [THAUMCRAFT]: Stopping aura thread for dim -17
-[20:18:18] [Thread-11/INFO] [THAUMCRAFT]: Stopping aura thread for dim 7
-[20:19:47] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[20:19:47] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 62 mods : wolfarmor@3.8.1+alpha.1,buildcraftlib@7.99.24.8,mowziesmobs@1.5.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1013,damageindicatorsmod@1.0,buildcrafttransport@7.99.24.8,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,craftstudioapi@1.0.0,bettercaves@1.12.2,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,additionalstructures@2.5.0,hordes@1.5.3a,guideapi@1.12-2.1.8-63,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,biometweaker@3.2.369,malisisdoors@1.12.2-7.3.0,twilightforest@3.11.1021,chococraft@3.1.415.0,buildcraftrobotics@7.99.24.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,varodd@5.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,toolbelt@1.9.14,baubles@1.5.2,buildcraftsilicon@7.99.24.8,geographicraft@1.0,dynamiclights_dropitems@1.1.0,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,cat@0.1,mocreatures@12.0.5,tektopia@1.1.0,ic2@2.8.170-ex112,buildcraftbuilders@7.99.24.8,buildcraftfactory@7.99.24.8,animalium@0.3.8,FML@8.0.99.99,tombstone@4.7.4,rtg@6.1.0.0-snapshot.1,atlaslib@1.1.6,appleskin@1.0.14,buildcraftcompat@7.99.24.8,aether_legacy@1.5.3.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.25,dynamiclights_creepers@1.0.6,dynamictrees@1.12.2-0.9.29,buildcraftcore@7.99.24.8
-[20:19:48] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[20:19:48] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: MACHUCA[/100.88.22.95:64826] logged in with entity id 4450 at (-462.69999998807907, 120.0, 972.39753055595)
-[20:19:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA joined the game
-[20:19:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA has made the advancement [Mysterious Gift]
-[20:19:49] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:ant that already exists with UUID 55178dc2-42af-481c-83d0-9b069f387f43
-[20:19:49] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:wildhorse that already exists with UUID 6a48a8b0-dddf-4ff5-ae85-4ff304ddc226
-[20:19:49] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 4d801608-874d-49a7-b3b3-b10e7e64b410
-[20:19:49] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID b4074a54-3d21-4b5a-a529-82ea1ae9b315
-[20:19:49] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:bass that already exists with UUID fb2fbc22-fc46-4a63-b26d-138895b90cfc
-[20:19:49] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:hippotang that already exists with UUID baf1c636-b3c8-43e4-91d9-a1a65ce82bfb
-[20:19:55] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
-[20:19:55] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 61 mods : wolfarmor@3.8.1+alpha.1,buildcraftlib@7.99.24.8,mowziesmobs@1.5.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1013,damageindicatorsmod@1.0,buildcrafttransport@7.99.24.8,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,craftstudioapi@1.0.0,bettercaves@1.12.2,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,additionalstructures@2.5.0,hordes@1.5.3a,guideapi@1.12-2.1.8-63,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,biometweaker@3.2.369,malisisdoors@1.12.2-7.3.0,twilightforest@3.11.1021,chococraft@3.1.415.0,buildcraftrobotics@7.99.24.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,varodd@5.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,baubles@1.5.2,buildcraftsilicon@7.99.24.8,geographicraft@1.0,dynamiclights_dropitems@1.1.0,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,cat@0.1,mocreatures@12.0.5,tektopia@1.1.0,ic2@2.8.170-ex112,buildcraftbuilders@7.99.24.8,buildcraftfactory@7.99.24.8,animalium@0.3.8,FML@8.0.99.99,tombstone@4.7.4,rtg@6.1.0.0-snapshot.1,atlaslib@1.1.6,appleskin@1.0.14,buildcraftcompat@7.99.24.8,aether_legacy@1.5.3.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.25,dynamiclights_creepers@1.0.6,dynamictrees@1.12.2-0.9.29,buildcraftcore@7.99.24.8
-[20:19:57] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[20:19:57] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Leandreke[/100.120.251.47:65169] logged in with entity id 4998 at (-454.2460277188127, 120.0, 973.4747249019097)
-[20:19:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke joined the game
-[20:20:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leandreke lost connection: Disconnected
-[20:20:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke left the game
-[20:20:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA has made the advancement [Suit Up]
-[20:21:04] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
-[20:21:04] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 61 mods : wolfarmor@3.8.1+alpha.1,buildcraftlib@7.99.24.8,mowziesmobs@1.5.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1013,damageindicatorsmod@1.0,buildcrafttransport@7.99.24.8,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,craftstudioapi@1.0.0,bettercaves@1.12.2,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,additionalstructures@2.5.0,hordes@1.5.3a,guideapi@1.12-2.1.8-63,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,biometweaker@3.2.369,malisisdoors@1.12.2-7.3.0,twilightforest@3.11.1021,chococraft@3.1.415.0,buildcraftrobotics@7.99.24.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,varodd@5.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,baubles@1.5.2,buildcraftsilicon@7.99.24.8,geographicraft@1.0,dynamiclights_dropitems@1.1.0,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,cat@0.1,mocreatures@12.0.5,tektopia@1.1.0,ic2@2.8.170-ex112,buildcraftbuilders@7.99.24.8,buildcraftfactory@7.99.24.8,animalium@0.3.8,FML@8.0.99.99,tombstone@4.7.4,rtg@6.1.0.0-snapshot.1,atlaslib@1.1.6,appleskin@1.0.14,buildcraftcompat@7.99.24.8,aether_legacy@1.5.3.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.25,dynamiclights_creepers@1.0.6,dynamictrees@1.12.2-0.9.29,buildcraftcore@7.99.24.8
-[20:21:07] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[20:21:07] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Leandreke[/100.120.251.47:65187] logged in with entity id 5407 at (-454.2460277188127, 120.0, 973.4747249019097)
-[20:21:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke joined the game
-[20:21:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <MACHUCA> teni
-[20:21:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <MACHUCA> hierro
-[20:21:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <MACHUCA> ?
-[20:22:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA has made the advancement [Acquire Hardware]
-[20:22:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <MACHUCA> lindo
-[20:22:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Leandreke> toma
-[20:23:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Leandreke> abrela en tu mano
-[20:23:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <MACHUCA> activo
-[20:23:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Leandreke> y en un boton de abajo a la izquierda pontela en la esaplda
-[20:23:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA has made the advancement [A Strange Grave's Dust]
-[20:23:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Leandreke> en los controles pon un boton para abrir el inventario de la mochila
-[20:23:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Leandreke> puedes craftear en la mochila
-[20:24:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA has made the advancement [Not Today, Thank You]
-[20:25:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Leandreke> ds?
-[20:25:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA lost connection: Disconnected
-[20:25:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA left the game
-[20:33:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to 183.5, 63.0, 974.5]
-[20:33:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leandreke lost connection: Timed out
-[20:33:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke left the game
-[20:34:22] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[20:34:22] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 61 mods : wolfarmor@3.8.1+alpha.1,buildcraftlib@7.99.24.8,mowziesmobs@1.5.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1013,damageindicatorsmod@1.0,buildcrafttransport@7.99.24.8,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,craftstudioapi@1.0.0,bettercaves@1.12.2,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,additionalstructures@2.5.0,hordes@1.5.3a,guideapi@1.12-2.1.8-63,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,biometweaker@3.2.369,malisisdoors@1.12.2-7.3.0,twilightforest@3.11.1021,chococraft@3.1.415.0,buildcraftrobotics@7.99.24.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,varodd@5.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,baubles@1.5.2,buildcraftsilicon@7.99.24.8,geographicraft@1.0,dynamiclights_dropitems@1.1.0,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,cat@0.1,mocreatures@12.0.5,tektopia@1.1.0,ic2@2.8.170-ex112,buildcraftbuilders@7.99.24.8,buildcraftfactory@7.99.24.8,animalium@0.3.8,FML@8.0.99.99,tombstone@4.7.4,rtg@6.1.0.0-snapshot.1,atlaslib@1.1.6,appleskin@1.0.14,buildcraftcompat@7.99.24.8,aether_legacy@1.5.3.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.25,dynamiclights_creepers@1.0.6,dynamictrees@1.12.2-0.9.29,buildcraftcore@7.99.24.8
-[20:34:25] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[20:34:25] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Leandreke[/100.120.251.47:65337] logged in with entity id 10328 at (183.5, 63.0, 974.5)
-[20:34:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke joined the game
-[20:35:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leandreke lost connection: Disconnected
-[20:35:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke left the game
-[20:35:36] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[20:35:36] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 61 mods : wolfarmor@3.8.1+alpha.1,buildcraftlib@7.99.24.8,mowziesmobs@1.5.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1013,damageindicatorsmod@1.0,buildcrafttransport@7.99.24.8,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,craftstudioapi@1.0.0,bettercaves@1.12.2,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,additionalstructures@2.5.0,hordes@1.5.3a,guideapi@1.12-2.1.8-63,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,biometweaker@3.2.369,malisisdoors@1.12.2-7.3.0,twilightforest@3.11.1021,chococraft@3.1.415.0,buildcraftrobotics@7.99.24.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,varodd@5.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,baubles@1.5.2,buildcraftsilicon@7.99.24.8,geographicraft@1.0,dynamiclights_dropitems@1.1.0,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,cat@0.1,mocreatures@12.0.5,tektopia@1.1.0,ic2@2.8.170-ex112,buildcraftbuilders@7.99.24.8,buildcraftfactory@7.99.24.8,animalium@0.3.8,FML@8.0.99.99,tombstone@4.7.4,rtg@6.1.0.0-snapshot.1,atlaslib@1.1.6,appleskin@1.0.14,buildcraftcompat@7.99.24.8,aether_legacy@1.5.3.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.25,dynamiclights_creepers@1.0.6,dynamictrees@1.12.2-0.9.29,buildcraftcore@7.99.24.8
-[20:35:38] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[20:35:38] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Leandreke[/100.120.251.47:65344] logged in with entity id 10545 at (183.5, 63.0, 974.5)
-[20:35:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke joined the game
-[20:36:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leandreke lost connection: Disconnected
-[20:36:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke left the game
-[20:36:45] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
-[20:36:45] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 61 mods : wolfarmor@3.8.1+alpha.1,buildcraftlib@7.99.24.8,mowziesmobs@1.5.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1013,damageindicatorsmod@1.0,buildcrafttransport@7.99.24.8,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,craftstudioapi@1.0.0,bettercaves@1.12.2,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,additionalstructures@2.5.0,hordes@1.5.3a,guideapi@1.12-2.1.8-63,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,biometweaker@3.2.369,malisisdoors@1.12.2-7.3.0,twilightforest@3.11.1021,chococraft@3.1.415.0,buildcraftrobotics@7.99.24.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,varodd@5.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,baubles@1.5.2,buildcraftsilicon@7.99.24.8,geographicraft@1.0,dynamiclights_dropitems@1.1.0,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,cat@0.1,mocreatures@12.0.5,tektopia@1.1.0,ic2@2.8.170-ex112,buildcraftbuilders@7.99.24.8,buildcraftfactory@7.99.24.8,animalium@0.3.8,FML@8.0.99.99,tombstone@4.7.4,rtg@6.1.0.0-snapshot.1,atlaslib@1.1.6,appleskin@1.0.14,buildcraftcompat@7.99.24.8,aether_legacy@1.5.3.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.25,dynamiclights_creepers@1.0.6,dynamictrees@1.12.2-0.9.29,buildcraftcore@7.99.24.8
-[20:36:48] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[20:36:48] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Leandreke[/100.120.251.47:65354] logged in with entity id 10872 at (182.14594900115594, 63.0, 974.7159786326799)
-[20:36:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke joined the game
-[20:38:29] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
-[20:38:29] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 62 mods : wolfarmor@3.8.1+alpha.1,buildcraftlib@7.99.24.8,mowziesmobs@1.5.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1013,damageindicatorsmod@1.0,buildcrafttransport@7.99.24.8,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,craftstudioapi@1.0.0,bettercaves@1.12.2,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,additionalstructures@2.5.0,hordes@1.5.3a,guideapi@1.12-2.1.8-63,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,biometweaker@3.2.369,malisisdoors@1.12.2-7.3.0,twilightforest@3.11.1021,chococraft@3.1.415.0,buildcraftrobotics@7.99.24.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,varodd@5.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,toolbelt@1.9.14,baubles@1.5.2,buildcraftsilicon@7.99.24.8,geographicraft@1.0,dynamiclights_dropitems@1.1.0,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,cat@0.1,mocreatures@12.0.5,tektopia@1.1.0,ic2@2.8.170-ex112,buildcraftbuilders@7.99.24.8,buildcraftfactory@7.99.24.8,animalium@0.3.8,FML@8.0.99.99,tombstone@4.7.4,rtg@6.1.0.0-snapshot.1,atlaslib@1.1.6,appleskin@1.0.14,buildcraftcompat@7.99.24.8,aether_legacy@1.5.3.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.25,dynamiclights_creepers@1.0.6,dynamictrees@1.12.2-0.9.29,buildcraftcore@7.99.24.8
-[20:38:31] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[20:38:31] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: MACHUCA[/100.88.22.95:64928] logged in with entity id 11564 at (-694.5967245758653, 77.0, 1090.5698795591684)
-[20:38:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA joined the game
-[20:38:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <MACHUCA> ds
-[20:38:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Leandreke> ya
-[20:39:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -458.5, 120.0, 975.5]
-[20:39:03] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:bass that already exists with UUID fb2fbc22-fc46-4a63-b26d-138895b90cfc
-[20:39:03] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:hippotang that already exists with UUID baf1c636-b3c8-43e4-91d9-a1a65ce82bfb
-[20:39:03] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:ant that already exists with UUID 55178dc2-42af-481c-83d0-9b069f387f43
-[20:39:03] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:wildhorse that already exists with UUID 6a48a8b0-dddf-4ff5-ae85-4ff304ddc226
-[20:39:03] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 4d801608-874d-49a7-b3b3-b10e7e64b410
-[20:39:04] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID b4074a54-3d21-4b5a-a529-82ea1ae9b315
-[20:40:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA has made the advancement [Isn't It Iron Pick]
-[20:43:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leandreke lost connection: Timed out
-[20:43:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke left the game
-[20:43:54] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
-[20:43:54] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 61 mods : wolfarmor@3.8.1+alpha.1,buildcraftlib@7.99.24.8,mowziesmobs@1.5.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1013,damageindicatorsmod@1.0,buildcrafttransport@7.99.24.8,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,craftstudioapi@1.0.0,bettercaves@1.12.2,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,additionalstructures@2.5.0,hordes@1.5.3a,guideapi@1.12-2.1.8-63,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,biometweaker@3.2.369,malisisdoors@1.12.2-7.3.0,twilightforest@3.11.1021,chococraft@3.1.415.0,buildcraftrobotics@7.99.24.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,varodd@5.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,baubles@1.5.2,buildcraftsilicon@7.99.24.8,geographicraft@1.0,dynamiclights_dropitems@1.1.0,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,cat@0.1,mocreatures@12.0.5,tektopia@1.1.0,ic2@2.8.170-ex112,buildcraftbuilders@7.99.24.8,buildcraftfactory@7.99.24.8,animalium@0.3.8,FML@8.0.99.99,tombstone@4.7.4,rtg@6.1.0.0-snapshot.1,atlaslib@1.1.6,appleskin@1.0.14,buildcraftcompat@7.99.24.8,aether_legacy@1.5.3.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.25,dynamiclights_creepers@1.0.6,dynamictrees@1.12.2-0.9.29,buildcraftcore@7.99.24.8
-[20:43:56] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[20:43:56] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Leandreke[/100.120.251.47:65407] logged in with entity id 16234 at (-451.2247408227155, 126.0, 988.2454695014072)
-[20:43:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke joined the game
-[20:43:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:ant that already exists with UUID 55178dc2-42af-481c-83d0-9b069f387f43
-[20:43:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:wildhorse that already exists with UUID 6a48a8b0-dddf-4ff5-ae85-4ff304ddc226
-[20:43:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 4d801608-874d-49a7-b3b3-b10e7e64b410
-[20:43:57] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID b4074a54-3d21-4b5a-a529-82ea1ae9b315
-[20:44:56] [Netty Epoll Server IO #6/ERROR] [FML]: NetworkDispatcher exception
-io.netty.handler.timeout.ReadTimeoutException: null
-[20:44:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leandreke lost connection: Disconnected
-[20:44:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke left the game
-[20:45:19] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[20:45:19] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 61 mods : wolfarmor@3.8.1+alpha.1,buildcraftlib@7.99.24.8,mowziesmobs@1.5.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1013,damageindicatorsmod@1.0,buildcrafttransport@7.99.24.8,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,craftstudioapi@1.0.0,bettercaves@1.12.2,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,additionalstructures@2.5.0,hordes@1.5.3a,guideapi@1.12-2.1.8-63,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,biometweaker@3.2.369,malisisdoors@1.12.2-7.3.0,twilightforest@3.11.1021,chococraft@3.1.415.0,buildcraftrobotics@7.99.24.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,varodd@5.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,baubles@1.5.2,buildcraftsilicon@7.99.24.8,geographicraft@1.0,dynamiclights_dropitems@1.1.0,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,cat@0.1,mocreatures@12.0.5,tektopia@1.1.0,ic2@2.8.170-ex112,buildcraftbuilders@7.99.24.8,buildcraftfactory@7.99.24.8,animalium@0.3.8,FML@8.0.99.99,tombstone@4.7.4,rtg@6.1.0.0-snapshot.1,atlaslib@1.1.6,appleskin@1.0.14,buildcraftcompat@7.99.24.8,aether_legacy@1.5.3.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.25,dynamiclights_creepers@1.0.6,dynamictrees@1.12.2-0.9.29,buildcraftcore@7.99.24.8
-[20:45:21] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[20:45:21] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Leandreke[/100.120.251.47:65425] logged in with entity id 17234 at (-451.2247408227155, 126.0, 988.2454695014072)
-[20:45:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke joined the game
-[20:45:21] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:ant that already exists with UUID 55178dc2-42af-481c-83d0-9b069f387f43
-[20:45:21] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:bass that already exists with UUID fb2fbc22-fc46-4a63-b26d-138895b90cfc
-[20:45:21] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:hippotang that already exists with UUID baf1c636-b3c8-43e4-91d9-a1a65ce82bfb
-[20:45:21] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:wildhorse that already exists with UUID 6a48a8b0-dddf-4ff5-ae85-4ff304ddc226
-[20:45:21] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 4d801608-874d-49a7-b3b3-b10e7e64b410
-[20:45:21] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID b4074a54-3d21-4b5a-a529-82ea1ae9b315
-[20:46:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved too quickly! -9.638718442043569,-1.2491870787446828,-3.157522468214893
-[20:49:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved too quickly! 4.66264564255988,2.127890238205481,8.828854627776764
-[20:49:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA was kicked for floating too long!
-[20:49:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA lost connection: Flying is not enabled on this server
-[20:49:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA left the game
-[20:49:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leandreke lost connection: Disconnected
-[20:49:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke left the game
-[20:50:34] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[20:50:34] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 62 mods : wolfarmor@3.8.1+alpha.1,buildcraftlib@7.99.24.8,mowziesmobs@1.5.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1013,damageindicatorsmod@1.0,buildcrafttransport@7.99.24.8,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,craftstudioapi@1.0.0,bettercaves@1.12.2,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,additionalstructures@2.5.0,hordes@1.5.3a,guideapi@1.12-2.1.8-63,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,biometweaker@3.2.369,malisisdoors@1.12.2-7.3.0,twilightforest@3.11.1021,chococraft@3.1.415.0,buildcraftrobotics@7.99.24.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,varodd@5.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,toolbelt@1.9.14,baubles@1.5.2,buildcraftsilicon@7.99.24.8,geographicraft@1.0,dynamiclights_dropitems@1.1.0,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,cat@0.1,mocreatures@12.0.5,tektopia@1.1.0,ic2@2.8.170-ex112,buildcraftbuilders@7.99.24.8,buildcraftfactory@7.99.24.8,animalium@0.3.8,FML@8.0.99.99,tombstone@4.7.4,rtg@6.1.0.0-snapshot.1,atlaslib@1.1.6,appleskin@1.0.14,buildcraftcompat@7.99.24.8,aether_legacy@1.5.3.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.25,dynamiclights_creepers@1.0.6,dynamictrees@1.12.2-0.9.29,buildcraftcore@7.99.24.8
-[20:50:35] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[20:50:35] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: MACHUCA[/100.88.22.95:65009] logged in with entity id 22788 at (-441.8877284107362, 65.16610926093821, 1322.609469175095)
-[20:50:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA joined the game
-[20:52:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:hippotang that already exists with UUID baf1c636-b3c8-43e4-91d9-a1a65ce82bfb
-[20:52:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:bass that already exists with UUID fb2fbc22-fc46-4a63-b26d-138895b90cfc
-[20:52:52] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 4d801608-874d-49a7-b3b3-b10e7e64b410
-[20:53:03] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[20:53:03] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 61 mods : wolfarmor@3.8.1+alpha.1,buildcraftlib@7.99.24.8,mowziesmobs@1.5.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1013,damageindicatorsmod@1.0,buildcrafttransport@7.99.24.8,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,craftstudioapi@1.0.0,bettercaves@1.12.2,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,additionalstructures@2.5.0,hordes@1.5.3a,guideapi@1.12-2.1.8-63,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,biometweaker@3.2.369,malisisdoors@1.12.2-7.3.0,twilightforest@3.11.1021,chococraft@3.1.415.0,buildcraftrobotics@7.99.24.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,varodd@5.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,baubles@1.5.2,buildcraftsilicon@7.99.24.8,geographicraft@1.0,dynamiclights_dropitems@1.1.0,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,cat@0.1,mocreatures@12.0.5,tektopia@1.1.0,ic2@2.8.170-ex112,buildcraftbuilders@7.99.24.8,buildcraftfactory@7.99.24.8,animalium@0.3.8,FML@8.0.99.99,tombstone@4.7.4,rtg@6.1.0.0-snapshot.1,atlaslib@1.1.6,appleskin@1.0.14,buildcraftcompat@7.99.24.8,aether_legacy@1.5.3.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.25,dynamiclights_creepers@1.0.6,dynamictrees@1.12.2-0.9.29,buildcraftcore@7.99.24.8
-[20:53:05] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[20:53:05] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Leandreke[/100.120.251.47:65457] logged in with entity id 25465 at (-427.32591661728503, 69.49520087700593, 1125.6321290615415)
-[20:53:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke joined the game
-[20:53:52] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:wildhorse that already exists with UUID 6a48a8b0-dddf-4ff5-ae85-4ff304ddc226
-[20:53:52] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:ant that already exists with UUID 55178dc2-42af-481c-83d0-9b069f387f43
-[20:54:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved too quickly! -0.2457409817474172,-5.766367993957516,8.483384183782732
-[20:54:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -458.5, 120.0, 975.5]
-[20:54:47] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID b4074a54-3d21-4b5a-a529-82ea1ae9b315
-[20:55:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved too quickly! 8.150312616432018,3.203264399331289,-5.244012076228046
-[20:56:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved too quickly! 6.596747003413668,-2.252203340253729,-7.422704820709441
-[21:03:50] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
-[21:03:50] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
-[21:03:50] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
-[21:03:50] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
-[21:03:50] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
-[21:03:50] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
-[21:04:00] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
-[21:04:00] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
-[21:04:00] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
-[21:04:00] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
-[21:04:00] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest5 found
-[21:04:27] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [-38, 27] in dimension 0 (overworld) while populating chunk [-39, 27], causing cascading worldgen lag.
-[21:04:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[21:04:35] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
-[21:04:35] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
-[21:04:35] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
-[21:04:38] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
-[21:04:38] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
-[21:04:38] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
-[21:04:38] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
-[21:04:38] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest5 found
-[21:04:40] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [-50, 24] in dimension 0 (overworld) while populating chunk [-50, 25], causing cascading worldgen lag.
-[21:04:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[21:04:41] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
-[21:04:41] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
-[21:04:41] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
-[21:04:41] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
-[21:04:51] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
-[21:04:51] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
-[21:04:51] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
-[21:04:51] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
-[21:05:10] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
-[21:05:10] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
-[21:05:10] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
-[21:05:10] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
-[21:05:10] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
-[21:05:10] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
-[21:05:10] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
-[21:05:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved too quickly! -5.017625137537834,0.5061351021062137,8.84190175035053
-[21:05:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved too quickly! -7.902035396203928,0.8322033533667508,6.175821294584466
-[21:05:35] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
-[21:05:35] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
-[21:05:35] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
-[21:05:42] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
-[21:05:42] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
-[21:05:42] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
-[21:05:42] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
-[21:05:43] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [-63, 20] in dimension 0 (overworld) while populating chunk [-64, 20], causing cascading worldgen lag.
-[21:05:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [] Village has no Token
-[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Village ADDED - [VYZ]   5a739a18-74e6-43bd-b1bd-98bdce4ab032
-[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure TOWNHALL [BlockPos{x=-991, y=85, z=322}]
-[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Binding Structure Marker to village - BlockPos{x=-964, y=85, z=323}
-[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME2 [BlockPos{x=-963, y=84, z=322}]
-[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Binding Structure Marker to village - BlockPos{x=-962, y=90, z=325}
-[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME2 [BlockPos{x=-963, y=89, z=326}]
-[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Binding Structure Marker to village - BlockPos{x=-946, y=80, z=323}
-[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME6 [BlockPos{x=-945, y=79, z=322}]
-[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Binding Structure Marker to village - BlockPos{x=-956, y=84, z=323}
-[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME2 [BlockPos{x=-955, y=83, z=322}]
-[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Binding Structure Marker to village - BlockPos{x=-953, y=89, z=325}
-[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME2 [BlockPos{x=-954, y=88, z=326}]
-[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Binding Structure Marker to village - BlockPos{x=-943, y=88, z=325}
-[21:05:48] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME6 [BlockPos{x=-944, y=87, z=326}]
-[21:05:49] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
-[21:05:49] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
-[21:05:49] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
-[21:05:49] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
-[21:05:49] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [-60, 17] in dimension 0 (overworld) while populating chunk [-59, 17], causing cascading worldgen lag.
-[21:05:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[21:05:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Binding Structure Marker to village - BlockPos{x=-1009, y=100, z=345}
-[21:05:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME2 [BlockPos{x=-1010, y=99, z=344}]
-[21:05:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Binding Structure Marker to village - BlockPos{x=-1005, y=83, z=323}
-[21:05:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Storage Chest [BlockPos{x=-1004, y=82, z=318}]   Added    (1 total)
-[21:05:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure STORAGE [BlockPos{x=-1004, y=82, z=322}]
-[21:05:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Binding Structure Marker to village - BlockPos{x=-1003, y=90, z=325}
-[21:05:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME2 [BlockPos{x=-1004, y=89, z=326}]
-[21:05:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Binding Structure Marker to village - BlockPos{x=-934, y=74, z=290}
-[21:05:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME2 [BlockPos{x=-933, y=73, z=291}]
-[21:05:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Binding Structure Marker to village - BlockPos{x=-934, y=76, z=308}
-[21:05:49] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME2 [BlockPos{x=-933, y=75, z=309}]
-[21:05:49] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
-[21:05:49] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
-[21:05:49] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
-[21:05:49] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
-[21:05:49] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest5 found
-[21:05:50] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
-[21:05:50] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
-[21:05:50] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
-[21:05:50] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest4 found
-[21:05:50] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
-[21:05:50] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
-[21:05:50] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
-[21:06:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved too quickly! -2.7220142559800706,0.45546773958501774,-9.819790316185163
-[21:07:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA has made the advancement [Ice Bucket Challenge]
-[21:07:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA has made the advancement [Diamonds!]
-[21:08:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved too quickly! 10.219822466230653,0.6709083839322858,1.1555966239487248
-[21:08:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved too quickly! -9.91466606688266,0.17081290814229533,-3.3116431442720113
-[21:09:37] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] [HOME6] Village struct frame is missing or wrong type | BlockPos{x=-943, y=88, z=325}
-[21:09:38] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Removing structure HOME6 [BlockPos{x=-944, y=87, z=326}]
-[21:09:38] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME6 [BlockPos{x=-944, y=87, z=326}]
-[21:09:38] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] [HOME2] Village struct frame is missing or wrong type | BlockPos{x=-934, y=76, z=308}
-[21:09:38] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] [HOME2] Village struct frame is missing or wrong type | BlockPos{x=-934, y=74, z=290}
-[21:09:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved too quickly! -9.102138375603545,0.756759288177264,4.852892900934819
-[21:09:40] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Removing structure HOME2 [BlockPos{x=-933, y=75, z=309}]
-[21:09:40] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Removing structure HOME2 [BlockPos{x=-933, y=73, z=291}]
-[21:09:44] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] [HOME2] Village struct frame is missing or wrong type | BlockPos{x=-953, y=89, z=325}
-[21:09:45] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME2 [BlockPos{x=-933, y=73, z=291}]
-[21:09:45] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME2 [BlockPos{x=-933, y=75, z=309}]
-[21:09:45] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] [HOME2] Village struct frame is missing or wrong type | BlockPos{x=-956, y=84, z=323}
-[21:09:45] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] [HOME6] Village struct frame is missing or wrong type | BlockPos{x=-946, y=80, z=323}
-[21:09:46] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Removing structure HOME6 [BlockPos{x=-945, y=79, z=322}]
-[21:09:46] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Removing structure HOME2 [BlockPos{x=-954, y=88, z=326}]
-[21:09:46] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Removing structure HOME2 [BlockPos{x=-955, y=83, z=322}]
-[21:09:46] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME6 [BlockPos{x=-945, y=79, z=322}]
-[21:09:46] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME2 [BlockPos{x=-955, y=83, z=322}]
-[21:09:46] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Adding structure HOME2 [BlockPos{x=-954, y=88, z=326}]
-[21:09:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved too quickly! -9.137227669086315,0.36809686001799946,4.2561742755025875
-[21:09:46] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] Village REMOVED - [VYZ]   5a739a18-74e6-43bd-b1bd-98bdce4ab032
-[21:09:46] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.Village:debugOut:133]: [VYZ] == Village being destroyed ==
-[21:10:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved too quickly! -10.204100623639988,-0.16779664663324922,0.3851510983805042
-[21:10:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved too quickly! -9.715807770972788,-2.492184615496882,0.20037548678448047
-[21:10:50] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [-96, 24] in dimension 0 (overworld) while populating chunk [-95, 25], causing cascading worldgen lag.
-[21:10:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[21:10:50] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [-97, 24] in dimension 0 (overworld) while populating chunk [-95, 25], causing cascading worldgen lag.
-[21:10:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[21:10:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leandreke lost connection: Timed out
-[21:10:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke left the game
-[21:10:52] [Server thread/WARN] [FML]: Caves And Tunnels Mod loaded a new chunk [-96, 28] in dimension 0 (overworld) while populating chunk [-96, 27], causing cascading worldgen lag.
-[21:10:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[21:10:52] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [-97, 28] in dimension 0 (overworld) while populating chunk [-96, 28], causing cascading worldgen lag.
-[21:10:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[21:10:53] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [-97, 27] in dimension 0 (overworld) while populating chunk [-96, 28], causing cascading worldgen lag.
-[21:10:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[21:10:53] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest1 found
-[21:10:53] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest2 found
-[21:10:53] [Server thread/INFO] [STDOUT]: [com.ironkiller224.CavesAndTunnels.world.gen.WorldGenCustomStructures:generateUnderGroundStructure:97]: chest3 found
-[21:11:40] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[21:11:40] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 61 mods : wolfarmor@3.8.1+alpha.1,buildcraftlib@7.99.24.8,mowziesmobs@1.5.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1013,damageindicatorsmod@1.0,buildcrafttransport@7.99.24.8,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,craftstudioapi@1.0.0,bettercaves@1.12.2,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,additionalstructures@2.5.0,hordes@1.5.3a,guideapi@1.12-2.1.8-63,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,biometweaker@3.2.369,malisisdoors@1.12.2-7.3.0,twilightforest@3.11.1021,chococraft@3.1.415.0,buildcraftrobotics@7.99.24.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,varodd@5.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,baubles@1.5.2,buildcraftsilicon@7.99.24.8,geographicraft@1.0,dynamiclights_dropitems@1.1.0,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,cat@0.1,mocreatures@12.0.5,tektopia@1.1.0,ic2@2.8.170-ex112,buildcraftbuilders@7.99.24.8,buildcraftfactory@7.99.24.8,animalium@0.3.8,FML@8.0.99.99,tombstone@4.7.4,rtg@6.1.0.0-snapshot.1,atlaslib@1.1.6,appleskin@1.0.14,buildcraftcompat@7.99.24.8,aether_legacy@1.5.3.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.25,dynamiclights_creepers@1.0.6,dynamictrees@1.12.2-0.9.29,buildcraftcore@7.99.24.8
-[21:11:42] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[21:11:42] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Leandreke[/100.120.251.47:49192] logged in with entity id 40325 at (-487.96913862052133, 115.0, 971.358874045115)
-[21:11:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke joined the game
-[21:11:43] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:wildhorse that already exists with UUID 6a48a8b0-dddf-4ff5-ae85-4ff304ddc226
-[21:11:43] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:ant that already exists with UUID 55178dc2-42af-481c-83d0-9b069f387f43
-[21:11:43] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 4d801608-874d-49a7-b3b3-b10e7e64b410
-[21:11:43] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID b4074a54-3d21-4b5a-a529-82ea1ae9b315
-[21:12:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leandreke lost connection: Disconnected
-[21:12:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke left the game
-[21:12:36] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
-[21:12:36] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 61 mods : wolfarmor@3.8.1+alpha.1,buildcraftlib@7.99.24.8,mowziesmobs@1.5.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1013,damageindicatorsmod@1.0,buildcrafttransport@7.99.24.8,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,craftstudioapi@1.0.0,bettercaves@1.12.2,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,additionalstructures@2.5.0,hordes@1.5.3a,guideapi@1.12-2.1.8-63,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,biometweaker@3.2.369,malisisdoors@1.12.2-7.3.0,twilightforest@3.11.1021,chococraft@3.1.415.0,buildcraftrobotics@7.99.24.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,varodd@5.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,baubles@1.5.2,buildcraftsilicon@7.99.24.8,geographicraft@1.0,dynamiclights_dropitems@1.1.0,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,cat@0.1,mocreatures@12.0.5,tektopia@1.1.0,ic2@2.8.170-ex112,buildcraftbuilders@7.99.24.8,buildcraftfactory@7.99.24.8,animalium@0.3.8,FML@8.0.99.99,tombstone@4.7.4,rtg@6.1.0.0-snapshot.1,atlaslib@1.1.6,appleskin@1.0.14,buildcraftcompat@7.99.24.8,aether_legacy@1.5.3.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.25,dynamiclights_creepers@1.0.6,dynamictrees@1.12.2-0.9.29,buildcraftcore@7.99.24.8
-[21:12:40] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[21:12:40] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Leandreke[/100.120.251.47:49199] logged in with entity id 42531 at (-487.6453510884852, 115.0, 970.696914877793)
-[21:12:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke joined the game
-[21:12:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved wrongly!
-[21:14:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA moved too quickly! 7.81913097405311,-0.8232407249357578,-6.477250167378429
-[21:14:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA has made the advancement [Knowledge of Death]
-[21:14:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA has reached the goal [Strong or Careful]
-[21:14:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA was fireballed by Crimson Cleric
-[21:14:48] [Server thread/INFO] [tombstone]: The last known grave of MACHUCA is at location [name:Last Grave, x:-862, y:64, z:615] in the dimension 0
-[21:14:48] [Server thread/INFO] [tombstone]: MACHUCA has successfully been saved
-[21:15:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MACHUCA lost connection: Timed out
-[21:15:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MACHUCA left the game
-[21:15:08] [Server thread/WARN] [twilightforest]: Dropping inventory items previously held in reserve for player MACHUCA
-[21:29:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Given [Stone] * 64 to Leandreke]
-[21:29:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Given [Stone] * 64 to Leandreke]
-[21:29:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Given [Stone] * 64 to Leandreke]
-[21:29:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Given [Stone] * 64 to Leandreke]
-[21:29:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Given [Stone] * 64 to Leandreke]
-[21:29:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Given [Stone] * 64 to Leandreke]
-[21:31:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Given [Greatwood Planks] * 1 to Leandreke]
-[21:35:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Given [Oak Wood] * 1 to Leandreke]
-[21:35:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Given [Oak Wood] * 64 to Leandreke]
-[21:35:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Given [Oak Wood] * 64 to Leandreke]
-[21:35:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Given [Oak Wood] * 64 to Leandreke]
-[21:35:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Given [Oak Wood] * 64 to Leandreke]
-[21:35:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Given [Oak Wood] * 64 to Leandreke]
-[21:36:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -458.5, 120.0, 975.5]
-[21:39:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -448.5, 138.0, 981.5]
-[21:41:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Leandreke: Teleported Leandreke to -448.5, 138.0, 993.5]
-[21:48:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leandreke lost connection: Disconnected
-[21:48:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke left the game
-[21:48:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[21:48:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[21:48:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[21:48:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[21:48:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[21:48:47] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 0
-[21:48:47] [Server thread/INFO] [FML]: Unloading dimension 0
-[21:48:47] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[21:48:47] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[21:48:47] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[02:03:53] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 1002 advancements
+[02:03:53] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 0
+[02:03:53] [Server thread/INFO] [RTG]: World Seed: 7242622008611004791
+[02:03:54] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[02:03:56] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@1e92c885)
+[02:03:56] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[02:03:56] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@1e92c885)
+[02:03:56] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 1
+[02:03:56] [Server thread/INFO] [FML]: Loading dimension 4 (world) (net.minecraft.server.dedicated.DedicatedServer@1e92c885)
+[02:03:56] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 4
+[02:03:57] [Server thread/INFO] [FML]: Loading dimension -17 (world) (net.minecraft.server.dedicated.DedicatedServer@1e92c885)
+[02:03:57] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -17
+[02:03:58] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@1e92c885)
+[02:03:58] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 7
+[02:03:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[02:03:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 91%
+[02:03:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (9.648s)! For help, type "help" or "?"
+[02:04:00] [Thread-6/INFO] [THAUMCRAFT]: Starting aura thread for dim 0
+[02:04:00] [BetterFps Update Checker/WARN] [BetterFps]: Could not check for updates: widget.mcf.li
+[02:04:00] [Thread-7/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[02:04:00] [Thread-9/INFO] [THAUMCRAFT]: Starting aura thread for dim 4
+[02:04:00] [Thread-8/INFO] [THAUMCRAFT]: Starting aura thread for dim 1
+[02:04:00] [Thread-10/INFO] [THAUMCRAFT]: Starting aura thread for dim -17
+[02:04:00] [Thread-11/INFO] [THAUMCRAFT]: Starting aura thread for dim 7
+[02:04:00] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[02:04:00] [Server thread/INFO] [FML]: Unloading dimension -1
+[02:04:00] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 1
+[02:04:00] [Server thread/INFO] [FML]: Unloading dimension 1
+[02:04:00] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 4
+[02:04:00] [Server thread/INFO] [FML]: Unloading dimension 4
+[02:04:00] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -17
+[02:04:00] [Server thread/INFO] [FML]: Unloading dimension -17
+[02:04:00] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 7
+[02:04:00] [Server thread/INFO] [FML]: Unloading dimension 7
+[02:04:02] [Thread-7/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[02:04:02] [Thread-9/INFO] [THAUMCRAFT]: Stopping aura thread for dim 4
+[02:04:02] [Thread-8/INFO] [THAUMCRAFT]: Stopping aura thread for dim 1
+[02:04:02] [Thread-10/INFO] [THAUMCRAFT]: Stopping aura thread for dim -17
+[02:04:02] [Thread-11/INFO] [THAUMCRAFT]: Stopping aura thread for dim 7
+[02:04:15] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[02:04:15] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 61 mods : wolfarmor@3.8.1+alpha.1,buildcraftlib@7.99.24.8,mowziesmobs@1.5.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1013,damageindicatorsmod@1.0,buildcrafttransport@7.99.24.8,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,craftstudioapi@1.0.0,bettercaves@1.12.2,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,additionalstructures@2.5.0,hordes@1.5.3a,guideapi@1.12-2.1.8-63,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,biometweaker@3.2.369,malisisdoors@1.12.2-7.3.0,twilightforest@3.11.1021,chococraft@3.1.415.0,buildcraftrobotics@7.99.24.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,varodd@5.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,baubles@1.5.2,buildcraftsilicon@7.99.24.8,geographicraft@1.0,dynamiclights_dropitems@1.1.0,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,cat@0.1,mocreatures@12.0.5,tektopia@1.1.0,ic2@2.8.170-ex112,buildcraftbuilders@7.99.24.8,buildcraftfactory@7.99.24.8,animalium@0.3.8,FML@8.0.99.99,tombstone@4.7.4,rtg@6.1.0.0-snapshot.1,atlaslib@1.1.6,appleskin@1.0.14,buildcraftcompat@7.99.24.8,aether_legacy@1.5.3.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.25,dynamiclights_creepers@1.0.6,dynamictrees@1.12.2-0.9.29,buildcraftcore@7.99.24.8
+[02:04:21] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:04:21] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Leandreke[/100.120.251.47:59886] logged in with entity id 4419 at (-450.76114853198214, 133.0, 981.6416286316473)
+[02:04:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke joined the game
+[02:04:21] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:wildhorse that already exists with UUID 6a48a8b0-dddf-4ff5-ae85-4ff304ddc226
+[02:04:21] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:ant that already exists with UUID 55178dc2-42af-481c-83d0-9b069f387f43
+[02:04:21] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 4d801608-874d-49a7-b3b3-b10e7e64b410
+[02:04:21] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:hippotang that already exists with UUID baf1c636-b3c8-43e4-91d9-a1a65ce82bfb
+[02:04:21] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:bass that already exists with UUID fb2fbc22-fc46-4a63-b26d-138895b90cfc
+[02:04:22] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID b4074a54-3d21-4b5a-a529-82ea1ae9b315
+[02:05:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leandreke lost connection: Disconnected
+[02:05:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke left the game
+[02:05:42] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[02:05:42] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 61 mods : wolfarmor@3.8.1+alpha.1,buildcraftlib@7.99.24.8,mowziesmobs@1.5.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1013,damageindicatorsmod@1.0,buildcrafttransport@7.99.24.8,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,craftstudioapi@1.0.0,bettercaves@1.12.2,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,additionalstructures@2.5.0,hordes@1.5.3a,guideapi@1.12-2.1.8-63,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,biometweaker@3.2.369,malisisdoors@1.12.2-7.3.0,twilightforest@3.11.1021,chococraft@3.1.415.0,buildcraftrobotics@7.99.24.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,varodd@5.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,baubles@1.5.2,buildcraftsilicon@7.99.24.8,geographicraft@1.0,dynamiclights_dropitems@1.1.0,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,cat@0.1,mocreatures@12.0.5,tektopia@1.1.0,ic2@2.8.170-ex112,buildcraftbuilders@7.99.24.8,buildcraftfactory@7.99.24.8,animalium@0.3.8,FML@8.0.99.99,tombstone@4.7.4,rtg@6.1.0.0-snapshot.1,atlaslib@1.1.6,appleskin@1.0.14,buildcraftcompat@7.99.24.8,aether_legacy@1.5.3.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.25,dynamiclights_creepers@1.0.6,dynamictrees@1.12.2-0.9.29,buildcraftcore@7.99.24.8
+[02:05:44] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:05:44] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Leandreke[/100.120.251.47:59909] logged in with entity id 5069 at (-450.76114853198214, 133.0, 981.6416286316473)
+[02:05:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke joined the game
+[02:05:45] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:wildhorse that already exists with UUID 6a48a8b0-dddf-4ff5-ae85-4ff304ddc226
+[02:05:45] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:ant that already exists with UUID 55178dc2-42af-481c-83d0-9b069f387f43
+[02:05:45] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 4d801608-874d-49a7-b3b3-b10e7e64b410
+[02:05:45] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:hippotang that already exists with UUID baf1c636-b3c8-43e4-91d9-a1a65ce82bfb
+[02:05:45] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:bass that already exists with UUID fb2fbc22-fc46-4a63-b26d-138895b90cfc
+[02:05:45] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID b4074a54-3d21-4b5a-a529-82ea1ae9b315
+[02:05:49] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
+[02:05:49] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: AHEAD Target: null
+[02:05:49] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[02:05:50] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[02:05:50] [Forge Version Check/INFO] [forge.VersionCheck]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
+[02:05:50] [Forge Version Check/INFO] [forge.VersionCheck]: [dynamictrees] Found status: UP_TO_DATE Target: null
+[02:06:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leandreke lost connection: Disconnected
+[02:06:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke left the game
+[02:06:55] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[02:06:55] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 61 mods : wolfarmor@3.8.1+alpha.1,buildcraftlib@7.99.24.8,mowziesmobs@1.5.8,buildcraftenergy@7.99.24.8,jei@4.16.1.1013,damageindicatorsmod@1.0,buildcrafttransport@7.99.24.8,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,craftstudioapi@1.0.0,bettercaves@1.12.2,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,additionalstructures@2.5.0,hordes@1.5.3a,guideapi@1.12-2.1.8-63,thaumcraft@6.1.BETA26,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,biometweaker@3.2.369,malisisdoors@1.12.2-7.3.0,twilightforest@3.11.1021,chococraft@3.1.415.0,buildcraftrobotics@7.99.24.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,varodd@5.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,dynamiclights_entityclasses@1.0.1,baubles@1.5.2,buildcraftsilicon@7.99.24.8,geographicraft@1.0,dynamiclights_dropitems@1.1.0,customspawner@3.11.4,dynamiclights_mobequipment@1.1.0,dynamiclights_flamearrows@1.0.1,cat@0.1,mocreatures@12.0.5,tektopia@1.1.0,ic2@2.8.170-ex112,buildcraftbuilders@7.99.24.8,buildcraftfactory@7.99.24.8,animalium@0.3.8,FML@8.0.99.99,tombstone@4.7.4,rtg@6.1.0.0-snapshot.1,atlaslib@1.1.6,appleskin@1.0.14,buildcraftcompat@7.99.24.8,aether_legacy@1.5.3.2,dynamiclights_onfire@1.0.7,voxelmap@1.9.25,dynamiclights_creepers@1.0.6,dynamictrees@1.12.2-0.9.29,buildcraftcore@7.99.24.8
+[02:06:57] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:06:57] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Leandreke[/100.120.251.47:59912] logged in with entity id 5732 at (-447.22964452314466, 128.0, 980.3000000119209)
+[02:06:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke joined the game
+[02:06:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 4d801608-874d-49a7-b3b3-b10e7e64b410
+[02:06:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID b4074a54-3d21-4b5a-a529-82ea1ae9b315
+[02:08:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leandreke lost connection: Disconnected
+[02:08:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leandreke left the game
+[02:08:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[02:08:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[02:08:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[02:08:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[02:08:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[02:08:26] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 0
+[02:08:26] [Thread-6/WARN] [THAUMCRAFT]: No auras found!
+[02:08:26] [Thread-6/INFO] [THAUMCRAFT]: Stopping aura thread for dim 0
+[02:08:26] [Server thread/INFO] [FML]: Unloading dimension 0
+[02:08:26] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[02:08:26] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[02:08:26] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
